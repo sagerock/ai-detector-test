@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2018-10606972",
+ "scanned_at_utc": "2026-08-21T14:15:34+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "946a7d819b69c046946e33152b5df99e5749149a78c162f7a8354e6e7f6739f2",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "to extensions. The court rejected taxpayer\u2019s argument that ORS 317.504 operated to extend the due date for its claim for refund to three years after the last day of the period of automatic extension. Rather, the due date for any refund of most amounts paid by taxpayer was three years after the date on which the original return of taxpayer was due, computed without regard to extensions. Oral argument on cross-motions for partial summary judgment was held September 11, 2017, in the courtroom of the Oregon Tax Court, Salem. John H. Gadon, Lane Powell PC, Portland, filed the motion and argued the cause for Plaintiff (taxpayer). Darren Weirnick, Senior Assistant Attorney General, Department of Justice, Salem, filed the cross-motion and argued the cause for Defendant Department of Revenue (the department). Decision for Defendant rendered March 6, 2018. 540 Vesta Corp. v. Dept. of Rev. HENRY C. BREITHAUPT, Senior Judge. I. INTRODUCTION In this corporate excise tax case, questions exist as to the timeliness, or untimeliness, of actions of Plaintiff (taxpayer) and Defendant (the department). The parties have proceeded with cross-motions for partial summary judgment. The tax year in question is 2007.1 II. FACTS Because this case requires careful application of specific facts to the governing statutory provisions, the facts relevant to each issue will be detailed in the Analysis por- tion of this order relating to that issue. III. ISSUES The issues in this case are: (1) Was the department\u2019s issuance of a notice of deficiency after the time periods set forth in ORS 314.415 nonetheless timely under ORS 305.270(8); and, if so, (2) Was the second amended return and claim for refund filed by taxpayer made within the time limitations of ORS 305.270(2) and ORS 314.415(2)?2 Other issues would arise if the answer to the first question is negative and the parties addressed those issues in their briefs and oral argument. However, as discussed below, the answer to the first question is positive. IV. ANALYSIS A. Was the department\u2019s notice of deficiency timely under ORS 305.270(8)? 1. Refund of amount requested without audit or exam- ination of refund claim 1 There appears to be some disagreement between the parties as to whether the 2008 year is also before the court. The court will address only the 2007 year. The parties are instructed to confer and advise the court if further proceedings are needed as to the 2008 year. 2",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "to extensions. The court rejected taxpayer\u2019s argument that ORS 317.504 operated to extend the due date for its claim for refund to three years after the last day of the period of automatic extension. Rather, the due date for any refund of most amounts paid by taxpayer was three years after the date on which the original return of taxpayer was due, computed without regard to extensions. Oral argument on cross-motions for partial summary judgment was held September 11, 2017, in the courtroom of the Oregon Tax Court, Salem. John H. Gadon, Lane Powell PC, Portland, filed the motion and argued the cause for Plaintiff (taxpayer). Darren Weirnick, Senior Assistant Attorney General, Department of Justice, Salem, filed the cross-motion and argued the cause for Defendant Department of Revenue (the department). Decision for Defendant rendered March 6, 2018. 540 Vesta Corp. v. Dept. of Rev. HENRY C. BREITHAUPT, Senior Judge. I. INTRODUCTION In this corporate excise tax case, questions exist as to the timeliness, or untimeliness, of actions of Plaintiff (taxpayer) and Defendant (the department). The parties have proceeded with cross-motions for partial summary judgment. The tax year in question is 2007.1 II. FACTS Because this case requires careful application of specific facts to the governing statutory provisions, the facts relevant to each issue will be detailed in the Analysis por- tion of this order relating to that issue. III. ISSUES The issues in this case are: (1) Was the department\u2019s issuance of a notice of deficiency after the time periods set forth in ORS 314.415 nonetheless timely under ORS 305.270(8); and, if so, (2) Was the second amended return and claim for refund filed by taxpayer made within the time limitations of ORS 305.270(2) and ORS 314.415(2)?2 Other issues would arise if the answer to the first question is negative and the parties addressed those issues in their briefs and oral argument. However, as discussed below, the answer to the first question is positive. IV. ANALYSIS A. Was the department\u2019s notice of deficiency timely under ORS 305.270(8)? 1. Refund of amount requested without audit or exam- ination of refund claim 1 There appears to be some disagreement between the parties as to whether the 2008 year is also before the court. The court will address only the 2007 year. The parties are instructed to confer and advise the court if further proceedings are needed as to the 2008 year. 2",
+    "label": "Human Written",
+    "ai_assistance_score": 7.021160854492337e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2443,
+    "word_count": 400,
+    "token_length": 612,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

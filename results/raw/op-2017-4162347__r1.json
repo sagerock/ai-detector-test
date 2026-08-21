@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4162347",
+ "scanned_at_utc": "2026-08-21T14:12:47+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "2949d37b0c3195d24175b8f5c942c3db3bfd2a472a791ca60e070a1f41c1849d",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "resulted in damage to Luyando\u2019s car and a mailbox. No one sustained physical injuries. Drought admitted his involvement in the collision and told the court that he did not intend to cause injury or harm, but that he wanted to give Luyando \u201ca piece of his mind.\u201d Drought was initially charged with felonious assault. {\u00b63} During the pendency of the charges, Drought\u2019s bond was revoked and a warrant was issued for his arrest after he failed to appear at a pretrial. His counsel explained that Drought thought the pretrial was not going forward and that his absence was due to this misunderstanding. {\u00b64} Drought ultimately pleaded guilty to attempted felonious assault, and the trial court sentenced him to 18 months in prison, among other things. {\u00b65} He raises one assigned error: {\u00b66} \u201cThe trial court erred by sentencing the Defendant-Appellant to eighteen months in prison without considering statutorily-required sentencing factors.\u201d {\u00b67} R.C. 2953.08(G)(2) states: {\u00b68} \u201cThe court hearing an appeal under division (A), (B), or (C) of this section shall review the record, including the findings underlying the sentence or modification given by the sentencing court. {\u00b69} \u201cThe appellate court may increase, reduce, or otherwise modify a sentence that is appealed under this section or may vacate the sentence and remand the matter to the sentencing court for resentencing. The appellate court's standard for 2 review is not whether the sentencing court abused its discretion. The appellate court may take any action authorized by this division if it clearly and convincingly finds either of the following: {\u00b610} \u201c(a) That the record does not support the sentencing court's findings under division (B) or (D) of section 2929.13, division (B)(2)(e) or (C)(4) of section 2929.14, or division (I) of section 2929.20 of the Revised Code, whichever, if any, is relevant; {\u00b611} \u201c(b) That the sentence is otherwise contrary to law.\u201d {\u00b612} \u201cA sentence is contrary to law if (1) the sentence falls outside the statutory range for the particular degree of offense, or (2) the trial court failed to consider the purposes and principles of felony sentencing set forth in R.C. 2929.11 and the sentencing factors in R.C. 2929.12. State v. Hinton, 8th Dist. Cuyahoga No. 102710, 2015\u2013Ohio\u20134907, \u00b6 10, citing State v. Smith, 8th Dist. Cuyahoga No. 100206, 2014\u2013 Ohio\u20131520, \u00b6 13. When a sentence is imposed solely after consideration of the factors in R.C. 2929.11 and 2929.12, appellate courts \u2018may",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "resulted in damage to Luyando\u2019s car and a mailbox. No one sustained physical injuries. Drought admitted his involvement in the collision and told the court that he did not intend to cause injury or harm, but that he wanted to give Luyando \u201ca piece of his mind.\u201d Drought was initially charged with felonious assault. {\u00b63} During the pendency of the charges, Drought\u2019s bond was revoked and a warrant was issued for his arrest after he failed to appear at a pretrial. His counsel explained that Drought thought the pretrial was not going forward and that his absence was due to this misunderstanding. {\u00b64} Drought ultimately pleaded guilty to attempted felonious assault, and the trial court sentenced him to 18 months in prison, among other things. {\u00b65} He raises one assigned error: {\u00b66} \u201cThe trial court erred by sentencing the Defendant-Appellant to eighteen months in prison without considering statutorily-required sentencing factors.\u201d {\u00b67} R.C. 2953.08(G)(2) states: {\u00b68} \u201cThe court hearing an appeal under division (A), (B), or (C) of this section shall review the record, including the findings underlying the sentence or modification given by the sentencing court. {\u00b69} \u201cThe appellate court may increase, reduce, or otherwise modify a sentence that is appealed under this section or may vacate the sentence and remand the matter to the sentencing court for resentencing. The appellate court's standard for 2 review is not whether the sentencing court abused its discretion. The appellate court may take any action authorized by this division if it clearly and convincingly finds either of the following: {\u00b610} \u201c(a) That the record does not support the sentencing court's findings under division (B) or (D) of section 2929.13, division (B)(2)(e) or (C)(4) of section 2929.14, or division (I) of section 2929.20 of the Revised Code, whichever, if any, is relevant; {\u00b611} \u201c(b) That the sentence is otherwise contrary to law.\u201d {\u00b612} \u201cA sentence is contrary to law if (1) the sentence falls outside the statutory range for the particular degree of offense, or (2) the trial court failed to consider the purposes and principles of felony sentencing set forth in R.C. 2929.11 and the sentencing factors in R.C. 2929.12. State v. Hinton, 8th Dist. Cuyahoga No. 102710, 2015\u2013Ohio\u20134907, \u00b6 10, citing State v. Smith, 8th Dist. Cuyahoga No. 100206, 2014\u2013 Ohio\u20131520, \u00b6 13. When a sentence is imposed solely after consideration of the factors in R.C. 2929.11 and 2929.12, appellate courts \u2018may",
+    "label": "Human Written",
+    "ai_assistance_score": 0.0034567585680633783,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2486,
+    "word_count": 400,
+    "token_length": 699,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

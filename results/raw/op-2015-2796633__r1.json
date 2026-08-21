@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2015-2796633",
+ "scanned_at_utc": "2026-08-21T14:13:32+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "30541a7775f3c74e367639a147504954db34cd4a99d8f11050fed81e66fdc5c4",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Lorch, Senior Counsel, Office of the Attorney General, for the appellee, the State of Tennessee. MEMORANDUM OPINION1 Background Claimant, an inmate of the Tennessee Department of Correction, filed a complaint in the Claims Commission alleging negligence on the part of the State relating to Claimant\u201fs fall from a bunk bed. On July 8, 2010, Claimant fell while trying to climb to his top bunk. According to Claimant, the State was negligent in assigning him to a top bunk given his restricted health assessment classification. This matter was tried in November 2013. Numerous witnesses testified regarding how Claimant came to be assigned a top bunk. The State on appeal, however, does not dispute the Claims Commission\u201fs findings regarding fault, and a discussion of fault is not necessary to our disposition of this appeal. We, therefore, focus on the medical evidence concerning damages as presented to the Claims Commission. The Claims Commission considered the deposition testimony of Dr. Dane Lee. Dr. Lee treated Claimant. Dr. Lee testified that x-rays of Claimant did not reveal injuries necessarily resulting from a fall. Rather, Dr. Lee testified that Claimant suffered from chronic arthritic and osteoarthritic issues. Dr. Lee stated that Claimant had a congenital spinal condition. Claimant has a long history of degenerative disc disease with lumbar pain dating back to the early 1990s. In Dr. Lee\u201fs opinion, none of Claimant\u201fs arm weakness or numbness resulted from a fall. Dr. Lee stated that he could not agree with a reasonable degree of medical certainty that Claimant\u201fs July 2010 fall caused him to require back and neck surgery in July and November 2011. Indeed, Dr. Lee could not attribute any significant injury from the fall to Claimant within a reasonable degree of medical certainty. Dr. Lee also testified that Claimant\u201fs need for pain medication would exist even without the fall given his degenerative disc and stenosis conditions. Claimant presented no contrary medical proof. In April 2014, the Claims Commission entered its final judgment. The Claims Commission found the State 55% at fault to Claimant\u201fs 45% for Claimant\u201fs fall. However, the Claims Commission also found that Claimant had failed to prove that he suffered any injury or damages from the fall. The Claims Commission stated in its final judgment, in part: 1 Rule 10 of the Rules of the Court of Appeals provides: \u201cThis Court, with the concurrence of all judges participating in the case, may affirm,",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Lorch, Senior Counsel, Office of the Attorney General, for the appellee, the State of Tennessee. MEMORANDUM OPINION1 Background Claimant, an inmate of the Tennessee Department of Correction, filed a complaint in the Claims Commission alleging negligence on the part of the State relating to Claimant\u201fs fall from a bunk bed. On July 8, 2010, Claimant fell while trying to climb to his top bunk. According to Claimant, the State was negligent in assigning him to a top bunk given his restricted health assessment classification. This matter was tried in November 2013. Numerous witnesses testified regarding how Claimant came to be assigned a top bunk. The State on appeal, however, does not dispute the Claims Commission\u201fs findings regarding fault, and a discussion of fault is not necessary to our disposition of this appeal. We, therefore, focus on the medical evidence concerning damages as presented to the Claims Commission. The Claims Commission considered the deposition testimony of Dr. Dane Lee. Dr. Lee treated Claimant. Dr. Lee testified that x-rays of Claimant did not reveal injuries necessarily resulting from a fall. Rather, Dr. Lee testified that Claimant suffered from chronic arthritic and osteoarthritic issues. Dr. Lee stated that Claimant had a congenital spinal condition. Claimant has a long history of degenerative disc disease with lumbar pain dating back to the early 1990s. In Dr. Lee\u201fs opinion, none of Claimant\u201fs arm weakness or numbness resulted from a fall. Dr. Lee stated that he could not agree with a reasonable degree of medical certainty that Claimant\u201fs July 2010 fall caused him to require back and neck surgery in July and November 2011. Indeed, Dr. Lee could not attribute any significant injury from the fall to Claimant within a reasonable degree of medical certainty. Dr. Lee also testified that Claimant\u201fs need for pain medication would exist even without the fall given his degenerative disc and stenosis conditions. Claimant presented no contrary medical proof. In April 2014, the Claims Commission entered its final judgment. The Claims Commission found the State 55% at fault to Claimant\u201fs 45% for Claimant\u201fs fall. However, the Claims Commission also found that Claimant had failed to prove that he suffered any injury or damages from the fall. The Claims Commission stated in its final judgment, in part: 1 Rule 10 of the Rules of the Court of Appeals provides: \u201cThis Court, with the concurrence of all judges participating in the case, may affirm,",
+    "label": "Human Written",
+    "ai_assistance_score": 5.0868915423052385e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2495,
+    "word_count": 400,
+    "token_length": 551,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

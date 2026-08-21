@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2013-2702322",
+ "scanned_at_utc": "2026-08-21T14:11:34+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "0b8a1105b5a4751d7ab8be0b34ad565269e2a435b914695e0c2486e926ce95d8",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "for unpaid common expenses. Montilla filed an answer disputing the alleged expenses and fees and asserted a variety of counterclaims, including intentional infliction of emotional distress. Montilla died during the pendency of the proceedings and the trial court, upon motion of the defendant, substituted her estate as the defendant herein. {\u00b63} Clareshire Court moved for summary judgment, the estate responded and the trial court found in favor of Clareshire Court. The estate filed a notice of appeal from the first judgment, Clareshire Court Condo. Unit Owners v. Montilla, 8th Dist. Cuyahoga No. 90461, 2008-Ohio-4242. This court determined that the trial court did not err in ruling on the parties\u2019 discovery dispute and that there was no evidence demonstrating Montilla\u2019s intentional infliction of emotional distress claim. However, this court held that genuine issues of material fact remained as to the amount owed by Montilla and/or Clareshire Court. The court reversed and remanded the matter for further proceedings. {\u00b64} Proceedings resumed at the trial court. However, on the day of the scheduled trial, the court stayed the proceedings because of the Chapter 7 Bankruptcy filing of Richard A. Medlar, fiduciary for the estate of Montilla. We acknowledge that the court\u2019s journal entry of April 21, 2009 denotes Medlar as a defendant, however, this is incorrect. Medlar never intervened as a party and was, therefore, not a defendant in the within matter. He was appointed a fiduciary through the Cuyahoga County Probate Court in November, 2006. The court reinstated the case once Medlar\u2019s bankruptcy petition was dismissed and Medlar began filing documents as fiduciary of the estate. {\u00b65} Clareshire Court filed a second motion for summary judgment, which Medlar, \u201cthe Fiduciary of the Estate\u201d opposed. The magistrate hearing the instant matter filed a recommendation that summary judgment be entered in favor of Clareshire Court on the claims set forth in the amended complaint and to Clareshire Court on the counterclaim of the estate. Medlar, this time styling himself as \u201cthe property owner\u201d and as fiduciary for the estate, filed objections to the magistrate\u2019s decision.1 The trial court overruled Medlar\u2019s objections, adopted the magistrate\u2019s decision and entered judgment in favor of Clareshire Court. {\u00b66} Medlar appealed, raising the following three assignments of error: The trial court erred to the prejudice of Appellants by failing to dismiss Appellee\u2019s causes of action due to failure to respond to discovery requests 1 There is no evidence before",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "for unpaid common expenses. Montilla filed an answer disputing the alleged expenses and fees and asserted a variety of counterclaims, including intentional infliction of emotional distress. Montilla died during the pendency of the proceedings and the trial court, upon motion of the defendant, substituted her estate as the defendant herein. {\u00b63} Clareshire Court moved for summary judgment, the estate responded and the trial court found in favor of Clareshire Court. The estate filed a notice of appeal from the first judgment, Clareshire Court Condo. Unit Owners v. Montilla, 8th Dist. Cuyahoga No. 90461, 2008-Ohio-4242. This court determined that the trial court did not err in ruling on the parties\u2019 discovery dispute and that there was no evidence demonstrating Montilla\u2019s intentional infliction of emotional distress claim. However, this court held that genuine issues of material fact remained as to the amount owed by Montilla and/or Clareshire Court. The court reversed and remanded the matter for further proceedings. {\u00b64} Proceedings resumed at the trial court. However, on the day of the scheduled trial, the court stayed the proceedings because of the Chapter 7 Bankruptcy filing of Richard A. Medlar, fiduciary for the estate of Montilla. We acknowledge that the court\u2019s journal entry of April 21, 2009 denotes Medlar as a defendant, however, this is incorrect. Medlar never intervened as a party and was, therefore, not a defendant in the within matter. He was appointed a fiduciary through the Cuyahoga County Probate Court in November, 2006. The court reinstated the case once Medlar\u2019s bankruptcy petition was dismissed and Medlar began filing documents as fiduciary of the estate. {\u00b65} Clareshire Court filed a second motion for summary judgment, which Medlar, \u201cthe Fiduciary of the Estate\u201d opposed. The magistrate hearing the instant matter filed a recommendation that summary judgment be entered in favor of Clareshire Court on the claims set forth in the amended complaint and to Clareshire Court on the counterclaim of the estate. Medlar, this time styling himself as \u201cthe property owner\u201d and as fiduciary for the estate, filed objections to the magistrate\u2019s decision.1 The trial court overruled Medlar\u2019s objections, adopted the magistrate\u2019s decision and entered judgment in favor of Clareshire Court. {\u00b66} Medlar appealed, raising the following three assignments of error: The trial court erred to the prejudice of Appellants by failing to dismiss Appellee\u2019s causes of action due to failure to respond to discovery requests 1 There is no evidence before",
+    "label": "Human Written",
+    "ai_assistance_score": 4.9172042054124177e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2578,
+    "word_count": 400,
+    "token_length": 588,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

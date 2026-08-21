@@ -1,0 +1,36 @@
+{
+ "doc_id": "wiki-2017-audie-murphy",
+ "scanned_at_utc": "2026-08-21T15:03:28+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "d6a2f4e69ad02273d10f2a68bfd3211d2e8061e73196919b24605829e441ed3d",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Audie Leon Murphy (20 June 1925 &ndash; 28 May 1971) was one of the most decorated American combat soldiers of World War II, receiving every military combat award for valor available from the U.S. Army, as well as French and Belgian awards for heroism. Murphy received the Medal of Honor for valor demonstrated at the age of 19 for single-handedly holding off an entire company of German soldiers for an hour at the Colmar Pocket in France in January 1945, then leading a successful counterattack while wounded and out of ammunition. Murphy was born into a large sharecropper family in Hunt County, Texas. His father abandoned them, and his mother died when he was a teenager. Murphy left school in fifth grade to pick cotton and find other work to help support his family; his skill with a hunting rifle was a necessity for putting food on the table. After the attack on Pearl Harbor, Murphy's older sister helped him to falsify documentation about his birthdate to meet the minimum-age requirement for enlisting in the military. Turned down by the Navy and the Marine Corps, he enlisted in the Army. He first saw action in the 1943 Allied invasion of Sicily; then in 1944 he participated in the Battle of Anzio, the liberation of Rome, and the invasion of southern France. Murphy fought at Mont\u00e9limar, and led his men on a successful assault at the L'Omet quarry near Cleurie in northeastern France in October. After the war, Murphy enjoyed a 21-year acting career. He played himself in the 1955 autobiographical film To Hell and Back, based on his 1949 memoirs of the same name, but most of his roles were in westerns. He made guest appearances on celebrity television shows and starred in the series Whispering Smith. Murphy was a fairly accomplished songwriter. He bred quarter horses in California and Arizona, and became a regular participant in horse racing. Suffering from what would today be described as post traumatic stress disorder (PTSD), Murphy slept with a loaded handgun under his pillow. He looked for solace in addictive sleeping pills. In his last few years, he was plagued by money problems but refused offers to appear in alcohol and cigarette commercials because he did not want to set a bad example. Murphy died in a plane crash in Virginia in 1971, which was shortly before his 46th birthday. He was interred",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Audie Leon Murphy (20 June 1925 &ndash; 28 May 1971) was one of the most decorated American combat soldiers of World War II, receiving every military combat award for valor available from the U.S. Army, as well as French and Belgian awards for heroism. Murphy received the Medal of Honor for valor demonstrated at the age of 19 for single-handedly holding off an entire company of German soldiers for an hour at the Colmar Pocket in France in January 1945, then leading a successful counterattack while wounded and out of ammunition. Murphy was born into a large sharecropper family in Hunt County, Texas. His father abandoned them, and his mother died when he was a teenager. Murphy left school in fifth grade to pick cotton and find other work to help support his family; his skill with a hunting rifle was a necessity for putting food on the table. After the attack on Pearl Harbor, Murphy's older sister helped him to falsify documentation about his birthdate to meet the minimum-age requirement for enlisting in the military. Turned down by the Navy and the Marine Corps, he enlisted in the Army. He first saw action in the 1943 Allied invasion of Sicily; then in 1944 he participated in the Battle of Anzio, the liberation of Rome, and the invasion of southern France. Murphy fought at Mont\u00e9limar, and led his men on a successful assault at the L'Omet quarry near Cleurie in northeastern France in October. After the war, Murphy enjoyed a 21-year acting career. He played himself in the 1955 autobiographical film To Hell and Back, based on his 1949 memoirs of the same name, but most of his roles were in westerns. He made guest appearances on celebrity television shows and starred in the series Whispering Smith. Murphy was a fairly accomplished songwriter. He bred quarter horses in California and Arizona, and became a regular participant in horse racing. Suffering from what would today be described as post traumatic stress disorder (PTSD), Murphy slept with a loaded handgun under his pillow. He looked for solace in addictive sleeping pills. In his last few years, he was plagued by money problems but refused offers to appear in alcohol and cigarette commercials because he did not want to set a bad example. Murphy died in a plane crash in Virginia in 1971, which was shortly before his 46th birthday. He was interred",
+    "label": "Human Written",
+    "ai_assistance_score": 8.429308945778757e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2334,
+    "word_count": 400,
+    "token_length": 525,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

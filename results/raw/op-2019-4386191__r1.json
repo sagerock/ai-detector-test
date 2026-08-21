@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2019-4386191",
+ "scanned_at_utc": "2026-08-21T14:12:27+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "5ea0ea2ad14586f671acceb010edc84758d16ccaccb69c479bcd53791cc8e554",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "to a sentence in another case he was already serving. We affirm. {\u00b62} In support of appellate review of his sentence, Williams cites R.C. 2953.08(G)(2), implicitly relying on State v. Marcum, 146 Ohio St.3d 516, 2016-Ohio-1002, 59 N.E.3d 1231, \u00b6 23. Williams\u2019s conviction stems from a rape committed in 1998, and as a result, the maximum term of imprisonment for the first-degree offense is ten years. He contends that the trial court failed to consider the sentencing factors and the principles and purposes of sentencing because if the court had, Williams\u2019s remorse and conduct in the ensuing years would have demonstrated that a shorter prison term would have sufficed. Williams has not demonstrated error. {\u00b63} Under R.C. 2953.08(A)(1), maximum sentences imposed for one offense are appealable. That statutory section sets forth the boundaries of appellate review over felony sentences and establishes a deferential standard of review of the findings necessary to impose certain sentences. Under division (G)(2) of that statutory section, however, appellate courts are only permitted to review certain findings or whether a sentence is contrary to law. Id. (appellate court may reverse a sentence if the record does not support the findings under R.C. 2929.13(B) or (D), R.C. 2929.14(B)(2)(e) or (C)(4), R.C. 2929.20(I), or if the sentence is contrary to law). {\u00b64} In this case, the trial court specifically considered the sentencing factors and the principles of sentencing under R.C. 2929.11 and 2929.12. The trial court expressly stated that all relevant seriousness and recidivism factors and Williams\u2019s history of criminal conduct and remorse as set forth by trial counsel during the sentencing hearing were considered. The sentence is not contrary to law. State v. Borden, 6th Dist. Wood No. WD-18-015, 2019-Ohio-424, \u00b6 13; State v. Wilson, 8th Dist. Cuyahoga No. 106862, 2019-Ohio-150, \u00b6 8. Further, Williams does not argue that the record does not support the sentence under the standard announced in Marcum. App.R. 16(A)(7). {\u00b65} Williams next contends that the trial court failed to make the findings necessary to the imposition of consecutive service of the prison term. Generally under R.C. 2929.14(C)(4), the trial court is required to make findings before imposing consecutive sentences. Williams, however, agreed to serve his term of imprisonment in such a manner, relieving the trial court of the need to justify the discretionary imposition of consecutive sentences by making the findings under R.C. 2929.14(C)(4). {\u00b66} Consecutive-sentence findings are not required when the",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "to a sentence in another case he was already serving. We affirm. {\u00b62} In support of appellate review of his sentence, Williams cites R.C. 2953.08(G)(2), implicitly relying on State v. Marcum, 146 Ohio St.3d 516, 2016-Ohio-1002, 59 N.E.3d 1231, \u00b6 23. Williams\u2019s conviction stems from a rape committed in 1998, and as a result, the maximum term of imprisonment for the first-degree offense is ten years. He contends that the trial court failed to consider the sentencing factors and the principles and purposes of sentencing because if the court had, Williams\u2019s remorse and conduct in the ensuing years would have demonstrated that a shorter prison term would have sufficed. Williams has not demonstrated error. {\u00b63} Under R.C. 2953.08(A)(1), maximum sentences imposed for one offense are appealable. That statutory section sets forth the boundaries of appellate review over felony sentences and establishes a deferential standard of review of the findings necessary to impose certain sentences. Under division (G)(2) of that statutory section, however, appellate courts are only permitted to review certain findings or whether a sentence is contrary to law. Id. (appellate court may reverse a sentence if the record does not support the findings under R.C. 2929.13(B) or (D), R.C. 2929.14(B)(2)(e) or (C)(4), R.C. 2929.20(I), or if the sentence is contrary to law). {\u00b64} In this case, the trial court specifically considered the sentencing factors and the principles of sentencing under R.C. 2929.11 and 2929.12. The trial court expressly stated that all relevant seriousness and recidivism factors and Williams\u2019s history of criminal conduct and remorse as set forth by trial counsel during the sentencing hearing were considered. The sentence is not contrary to law. State v. Borden, 6th Dist. Wood No. WD-18-015, 2019-Ohio-424, \u00b6 13; State v. Wilson, 8th Dist. Cuyahoga No. 106862, 2019-Ohio-150, \u00b6 8. Further, Williams does not argue that the record does not support the sentence under the standard announced in Marcum. App.R. 16(A)(7). {\u00b65} Williams next contends that the trial court failed to make the findings necessary to the imposition of consecutive service of the prison term. Generally under R.C. 2929.14(C)(4), the trial court is required to make findings before imposing consecutive sentences. Williams, however, agreed to serve his term of imprisonment in such a manner, relieving the trial court of the need to justify the discretionary imposition of consecutive sentences by making the findings under R.C. 2929.14(C)(4). {\u00b66} Consecutive-sentence findings are not required when the",
+    "label": "Human Written",
+    "ai_assistance_score": 0.00034676905488595366,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2597,
+    "word_count": 400,
+    "token_length": 715,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

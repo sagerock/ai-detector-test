@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4164693",
+ "scanned_at_utc": "2026-08-21T14:10:54+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "7cd2980e898a024188de8e61dde4dba65785f9e9f93bc9da0a83e847b89cd1ab",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "not 6 dischargeable in bankruptcy unless the debtor proves that paying 7 the debt would impose undue hardship on the debtor or her 8 dependents. Chapter 7 debtor Melissa Hoda Kashikar argues that 9 her educational debt owed to Appellee Turnstile Capital 10 Management LLC (\u201cTurnstile\u201d) is not covered by \u00a7 523(a)(8). The 11 bankruptcy court declined to consider her argument concerning one 12 of the categories of debt and held that her debt was included in 13 the category of an \u201ceducational benefit\u201d under 14 \u00a7 523(a)(8)(A)(ii). The court erred on both counts. 15 Accordingly, we REVERSE IN PART the court\u2019s ruling as to 16 \u00a7 523(A)(8)(A)(ii), VACATE the court\u2019s ruling as to 17 \u00a7 523(a)(8)(A)(i), and REMAND this case to the bankruptcy court. 18 FACTUAL BACKGROUND 19 Ms. Kashikar attended St. Matthew\u2019s University School of 20 Medicine (\u201cSMU\u201d) in Grand Cayman, Cayman Islands. In order to 21 fund her education and pay for the costs of attending SMU, 22 Ms. Kashikar signed an application and promissory note with 23 24 25 1 26 Unless specified otherwise, all chapter and section references are to the Bankruptcy Code, 11 U.S.C. \u00a7\u00a7 101-1532, all 27 \u201cRule\u201d references are to the Federal Rules of Bankruptcy Procedure, and all \u201cCivil Rule\u201d references are to the Federal 28 Rules of Civil Procedure. 2 1 StudentLoan Xpress. Turnstile\u2019s predecessor in interest2 2 directly disbursed the funds to SMU. 3 There is no dispute that Ms. Kashikar attended classes at 4 SMU for the purposes of obtaining a degree and learning about 5 medicine. However, Ms. Kashikar did not complete her education 6 at SMU. She returned to the United States, but could not 7 transfer any of her SMU credits. 8 On July 21, 2014, Ms. Kashikar filed her chapter 7 petition. 9 She scheduled her student loan on Schedule F in the amount of 10 $73,804. She received a standard discharge on or around 11 November 10, 2014. 12 On April 14, 2015, Ms. Kashikar filed an adversary complaint 13 seeking a determination that the loan (the balance of which had 14 grown to $74,968.74) was discharged under \u00a7 523(a)(8). The 15 complaint is very brief. After identifying the parties and 16 describing the loan, it alleges that: 17 Since the purpose of the loan(s) in question were not for an, \u201celigible education institution\u201d as defined 18 by 26 U.S.C. 221(d)(1) and (2), the",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "not 6 dischargeable in bankruptcy unless the debtor proves that paying 7 the debt would impose undue hardship on the debtor or her 8 dependents. Chapter 7 debtor Melissa Hoda Kashikar argues that 9 her educational debt owed to Appellee Turnstile Capital 10 Management LLC (\u201cTurnstile\u201d) is not covered by \u00a7 523(a)(8). The 11 bankruptcy court declined to consider her argument concerning one 12 of the categories of debt and held that her debt was included in 13 the category of an \u201ceducational benefit\u201d under 14 \u00a7 523(a)(8)(A)(ii). The court erred on both counts. 15 Accordingly, we REVERSE IN PART the court\u2019s ruling as to 16 \u00a7 523(A)(8)(A)(ii), VACATE the court\u2019s ruling as to 17 \u00a7 523(a)(8)(A)(i), and REMAND this case to the bankruptcy court. 18 FACTUAL BACKGROUND 19 Ms. Kashikar attended St. Matthew\u2019s University School of 20 Medicine (\u201cSMU\u201d) in Grand Cayman, Cayman Islands. In order to 21 fund her education and pay for the costs of attending SMU, 22 Ms. Kashikar signed an application and promissory note with 23 24 25 1 26 Unless specified otherwise, all chapter and section references are to the Bankruptcy Code, 11 U.S.C. \u00a7\u00a7 101-1532, all 27 \u201cRule\u201d references are to the Federal Rules of Bankruptcy Procedure, and all \u201cCivil Rule\u201d references are to the Federal 28 Rules of Civil Procedure. 2 1 StudentLoan Xpress. Turnstile\u2019s predecessor in interest2 2 directly disbursed the funds to SMU. 3 There is no dispute that Ms. Kashikar attended classes at 4 SMU for the purposes of obtaining a degree and learning about 5 medicine. However, Ms. Kashikar did not complete her education 6 at SMU. She returned to the United States, but could not 7 transfer any of her SMU credits. 8 On July 21, 2014, Ms. Kashikar filed her chapter 7 petition. 9 She scheduled her student loan on Schedule F in the amount of 10 $73,804. She received a standard discharge on or around 11 November 10, 2014. 12 On April 14, 2015, Ms. Kashikar filed an adversary complaint 13 seeking a determination that the loan (the balance of which had 14 grown to $74,968.74) was discharged under \u00a7 523(a)(8). The 15 complaint is very brief. After identifying the parties and 16 describing the loan, it alleges that: 17 Since the purpose of the loan(s) in question were not for an, \u201celigible education institution\u201d as defined 18 by 26 U.S.C. 221(d)(1) and (2), the",
+    "label": "Human Written",
+    "ai_assistance_score": 3.0301356673589908e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2335,
+    "word_count": 400,
+    "token_length": 701,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

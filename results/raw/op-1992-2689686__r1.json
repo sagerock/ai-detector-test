@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-1992-2689686",
+ "scanned_at_utc": "2026-08-21T14:14:49+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "5e000755191fe52653281f5cb302d880b67d9f8be0d6a28d7a98e26a98304fb9",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "in civil actions, not to appellate judgments -- R.C. 2323.51 does not contemplate awarding attorney fees for defending appeals of civil actions -- R.C. 119.092, applied. (No. 90-2071 -- Submitted October 13, 1992 -- Decided December 14, 1992.) Appeal from the Court of Appeals for Franklin County, No. 88AP-1171. The Ohio Department of Health (\"ODH\"), appellant, appeals the denial of a writ in mandamus that would compel Heather G. Sowald, appellee, an impartial hearing officer, to vacate her award of attorney fees to Albert's Nursing and Residential Facility, Inc. (\"Albert's\"), intervenor-appellee. Albert's operates an intermediate care facility for mentally retarded persons under a license with the state of Ohio. The license is reviewable by ODH. In December 1986 and March 1987, ODH conducted an annual certification survey of Albert's and detected forty individual Medicaid deficiencies. On May 28, 1987, Ronald F. Fletcher, M.D., Director of ODH, sent a notice to Albert's advising it of his proposal to decertify Albert's. He also advised Albert's that it could request an informal reconsideration conference. He further informed Albert's that ODH would afford Albert's a formal hearing if Albert's did not request a conference or if the informal process did not result in a renewal of Albert's certificate. Finally, he informed Albert's that the decertification would become final only after the formal hearing and his issuance of an adjudication order. Albert's applied for the informal reconsideration. An informal hearing was held on August 11, 1987, by impartial hearing examiner Ronald B. Noga. Noga issued a decision on October 14, 1987, in which he found that twenty-six of the original forty deficiencies had been corrected, nine of the deficiencies were being corrected, and five had not been corrected. He further found that the five uncorrected deficiencies did not jeopardize the residents' health and safety but did affect their active treatment, and that the correction of these deficiencies was necessary for recertification. Accordingly, he recommended that the director decertify the facility. On October 26, 1987, the director notified Albert's of his agreement with Noga's recommendation. The director advised Albert's that ODH would conduct an evidentiary hearing, if timely requested, before issuing an adjudication order. Albert's applied for a formal evidentiary hearing. On January 13-15, 19-20, 25-26, and February 8-9, 1988, Sowald conducted the evidentiary hearing. In the meantime, on December 14, 1987, ODH conducted a resurvey and cited eight deficiencies. Sowald considered only these citations in",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "in civil actions, not to appellate judgments -- R.C. 2323.51 does not contemplate awarding attorney fees for defending appeals of civil actions -- R.C. 119.092, applied. (No. 90-2071 -- Submitted October 13, 1992 -- Decided December 14, 1992.) Appeal from the Court of Appeals for Franklin County, No. 88AP-1171. The Ohio Department of Health (\"ODH\"), appellant, appeals the denial of a writ in mandamus that would compel Heather G. Sowald, appellee, an impartial hearing officer, to vacate her award of attorney fees to Albert's Nursing and Residential Facility, Inc. (\"Albert's\"), intervenor-appellee. Albert's operates an intermediate care facility for mentally retarded persons under a license with the state of Ohio. The license is reviewable by ODH. In December 1986 and March 1987, ODH conducted an annual certification survey of Albert's and detected forty individual Medicaid deficiencies. On May 28, 1987, Ronald F. Fletcher, M.D., Director of ODH, sent a notice to Albert's advising it of his proposal to decertify Albert's. He also advised Albert's that it could request an informal reconsideration conference. He further informed Albert's that ODH would afford Albert's a formal hearing if Albert's did not request a conference or if the informal process did not result in a renewal of Albert's certificate. Finally, he informed Albert's that the decertification would become final only after the formal hearing and his issuance of an adjudication order. Albert's applied for the informal reconsideration. An informal hearing was held on August 11, 1987, by impartial hearing examiner Ronald B. Noga. Noga issued a decision on October 14, 1987, in which he found that twenty-six of the original forty deficiencies had been corrected, nine of the deficiencies were being corrected, and five had not been corrected. He further found that the five uncorrected deficiencies did not jeopardize the residents' health and safety but did affect their active treatment, and that the correction of these deficiencies was necessary for recertification. Accordingly, he recommended that the director decertify the facility. On October 26, 1987, the director notified Albert's of his agreement with Noga's recommendation. The director advised Albert's that ODH would conduct an evidentiary hearing, if timely requested, before issuing an adjudication order. Albert's applied for a formal evidentiary hearing. On January 13-15, 19-20, 25-26, and February 8-9, 1988, Sowald conducted the evidentiary hearing. In the meantime, on December 14, 1987, ODH conducted a resurvey and cited eight deficiencies. Sowald considered only these citations in",
+    "label": "Human Written",
+    "ai_assistance_score": 0.00011154425010317937,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2642,
+    "word_count": 400,
+    "token_length": 649,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

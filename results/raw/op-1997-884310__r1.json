@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-1997-884310",
+ "scanned_at_utc": "2026-08-21T14:14:09+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "5787dfad83cb297e13eebf3ef0b7fb07a55d64563bd7bb91a2517d0c85228dd7",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "automobile accident, alleged that Simonson was liable for their personal injuries and that Farmers was liable for the damages in excess of the insurance proceeds available from Simonson pursuant to their underinsured motorist (UIM) coverage. On December 20, 1995, at a court-ordered mediation conference, the Augustines settled with Simonson. As a result, each claimant signed a release reserving their underinsured motorist claim against Farmers. The claims against Simonson were dismissed. Farmers filed a Rule 12(b)(6), M.R.Civ.P., motion to dismiss on January 25, 1996, based on the exhaustion clause contained in its UIM policy. The District Court issued an order granting the motion to dismiss on June 24, 1996. The Augustines appeal from this order. We reverse. The issue on appeal is whether the District Court erred in holding that the exhaustion clause in Farmers' underinsurance policy was a valid contractual provision and thereby granting Farmers' motion to dismiss. FACTUAL BACKGROUND On July 28, 1992, a vehicle driven by Susan Simonson rear ended a vehicle driven by Travis Gray. Tracy Augustine, Chase Augustine, and Cole Davison were passengers file:///C|/Documents%20and%20Settings/cu1046/Desktop/opinions/96-506%20Opinion.htm (2 of 8)4/13/2007 11:48:56 AM 96-506 in Gray's vehicle. Claims against Simonson and Farmers were made by Travis Gray, Tracy Augustine, and Jay Augustine on behalf of Chase Augustine. Cole Davison was a minor, age nine, at the time of the collision. No claim has been made on Cole's behalf as of this date. Simonson was insured by an American States insurance policy with an aggregate combined single limit of $100,000. On December 20, 1995, the Augustines settled with Simonson, reserving their claims against Farmers. Travis Gray's claim was settled for $20,000. Tracy Augustine's claim was settled for $16,875, and Chase Augustine's claim was settled for $16,875. Approximately $1,100 was paid for property damage. Therefore, with one potential claim still outstanding, approximately $54,600 has been paid out on the American States policy, leaving approximately $45,400 remaining on the policy limits. After the settlement, Farmers filed a motion to dismiss pursuant to Rule 12(b) (6), M.R.Civ.P., for failure to state a claim upon which relief could be granted. Farmers asserted that the Augustines failed to comply with the exhaustion clause in their underinsurance policy by entering into settlements which were less than the tort- feasor's policy limits of liability. The District Court heard argument on the motion and ordered supplemental briefing by the parties. On June 20, 1996, the District Court issued an",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "automobile accident, alleged that Simonson was liable for their personal injuries and that Farmers was liable for the damages in excess of the insurance proceeds available from Simonson pursuant to their underinsured motorist (UIM) coverage. On December 20, 1995, at a court-ordered mediation conference, the Augustines settled with Simonson. As a result, each claimant signed a release reserving their underinsured motorist claim against Farmers. The claims against Simonson were dismissed. Farmers filed a Rule 12(b)(6), M.R.Civ.P., motion to dismiss on January 25, 1996, based on the exhaustion clause contained in its UIM policy. The District Court issued an order granting the motion to dismiss on June 24, 1996. The Augustines appeal from this order. We reverse. The issue on appeal is whether the District Court erred in holding that the exhaustion clause in Farmers' underinsurance policy was a valid contractual provision and thereby granting Farmers' motion to dismiss. FACTUAL BACKGROUND On July 28, 1992, a vehicle driven by Susan Simonson rear ended a vehicle driven by Travis Gray. Tracy Augustine, Chase Augustine, and Cole Davison were passengers file:///C|/Documents%20and%20Settings/cu1046/Desktop/opinions/96-506%20Opinion.htm (2 of 8)4/13/2007 11:48:56 AM 96-506 in Gray's vehicle. Claims against Simonson and Farmers were made by Travis Gray, Tracy Augustine, and Jay Augustine on behalf of Chase Augustine. Cole Davison was a minor, age nine, at the time of the collision. No claim has been made on Cole's behalf as of this date. Simonson was insured by an American States insurance policy with an aggregate combined single limit of $100,000. On December 20, 1995, the Augustines settled with Simonson, reserving their claims against Farmers. Travis Gray's claim was settled for $20,000. Tracy Augustine's claim was settled for $16,875, and Chase Augustine's claim was settled for $16,875. Approximately $1,100 was paid for property damage. Therefore, with one potential claim still outstanding, approximately $54,600 has been paid out on the American States policy, leaving approximately $45,400 remaining on the policy limits. After the settlement, Farmers filed a motion to dismiss pursuant to Rule 12(b) (6), M.R.Civ.P., for failure to state a claim upon which relief could be granted. Farmers asserted that the Augustines failed to comply with the exhaustion clause in their underinsurance policy by entering into settlements which were less than the tort- feasor's policy limits of liability. The District Court heard argument on the motion and ordered supplemental briefing by the parties. On June 20, 1996, the District Court issued an",
+    "label": "Human Written",
+    "ai_assistance_score": 3.5022803785977885e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2665,
+    "word_count": 400,
+    "token_length": 665,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

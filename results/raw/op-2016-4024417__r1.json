@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2016-4024417",
+ "scanned_at_utc": "2026-08-21T14:13:53+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "1e79f051f43cc23c39f524f0a9fad60cb50c1bcbfebf52299e316193c4e0a9a3",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "State would like addressed. For the reasons stated below, the application for reconsideration should be denied. However, we will provide clarification to resolve any confusion that the State claims to have. {\u00b63} First, the State alleges that this court erred in its discussion of the Daubert Motion as it applies to Dr. Knox\u2019s testimony. The State is correct that the prior opinion mistakenly stated that \u201cNo ruling was made on the motion prior to trial.\u201d Hawkey at \u00b6 3. The trial court orally ruled on the motion at the end of the hearing. The opinion should state that no journal entry of the ruling was placed on the record prior to trial. However, this error had no effect on the reasoning of this court in reaching its conclusion as it was understood that the trial court had found Knox\u2019s testimony acceptable by the fact that she was allowed to testify to her diagnosis of \u201cchild torture\u201d. Thus it is not grounds for reconsideration. {\u00b64} The State then argues that this court erred in determining that the trial court erred in allowing the testimony of Dr. Knox regarding \u201cchild torture as a form of child abuse.\u201d Initially, this court notes that the argument raised by the State is no different than what was addressed in both the trial court during the Daubert hearing and on appeal and has thus already been considered by this court. The motion for reconsideration raises no new issue for consideration and does not point out an obvious error on this issue, but merely expresses a difference of opinion and thus -2- Case No. 4-14-03 cannot be granted on this issue. However, this court will provide clarification on the issue for the State. {\u00b65} This court has previously addressed what is required for an expert\u2019s opinion to be admissible in State v. Ream, 3d Dist. Allen No. 1-12-39, 2013-Ohio- 4319. In Ream, this court addressed that for a trial court to determine \u201cwhether the opinion of an expert witness is reliable under Evid.R. 702(C), a trial court, acting as a gatekeeper, examines whether the expert\u2019s conclusion is based on scientifically valid principles and methods.\u201d Id. at \u00b6 81. \u201cIn evaluating the reliability of scientific evidence, several factors are to be considered: (1) whether the theory or technique has been tested, (2) whether it has been subject to peer review, (3) whether there is a known or potential",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "State would like addressed. For the reasons stated below, the application for reconsideration should be denied. However, we will provide clarification to resolve any confusion that the State claims to have. {\u00b63} First, the State alleges that this court erred in its discussion of the Daubert Motion as it applies to Dr. Knox\u2019s testimony. The State is correct that the prior opinion mistakenly stated that \u201cNo ruling was made on the motion prior to trial.\u201d Hawkey at \u00b6 3. The trial court orally ruled on the motion at the end of the hearing. The opinion should state that no journal entry of the ruling was placed on the record prior to trial. However, this error had no effect on the reasoning of this court in reaching its conclusion as it was understood that the trial court had found Knox\u2019s testimony acceptable by the fact that she was allowed to testify to her diagnosis of \u201cchild torture\u201d. Thus it is not grounds for reconsideration. {\u00b64} The State then argues that this court erred in determining that the trial court erred in allowing the testimony of Dr. Knox regarding \u201cchild torture as a form of child abuse.\u201d Initially, this court notes that the argument raised by the State is no different than what was addressed in both the trial court during the Daubert hearing and on appeal and has thus already been considered by this court. The motion for reconsideration raises no new issue for consideration and does not point out an obvious error on this issue, but merely expresses a difference of opinion and thus -2- Case No. 4-14-03 cannot be granted on this issue. However, this court will provide clarification on the issue for the State. {\u00b65} This court has previously addressed what is required for an expert\u2019s opinion to be admissible in State v. Ream, 3d Dist. Allen No. 1-12-39, 2013-Ohio- 4319. In Ream, this court addressed that for a trial court to determine \u201cwhether the opinion of an expert witness is reliable under Evid.R. 702(C), a trial court, acting as a gatekeeper, examines whether the expert\u2019s conclusion is based on scientifically valid principles and methods.\u201d Id. at \u00b6 81. \u201cIn evaluating the reliability of scientific evidence, several factors are to be considered: (1) whether the theory or technique has been tested, (2) whether it has been subject to peer review, (3) whether there is a known or potential",
+    "label": "Human Written",
+    "ai_assistance_score": 9.468429198022932e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2341,
+    "word_count": 400,
+    "token_length": 526,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

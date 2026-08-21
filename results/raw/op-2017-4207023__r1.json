@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4207023",
+ "scanned_at_utc": "2026-08-21T14:12:08+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "8e2a61e96e0d7dc0f171b7ed9f391f9807ba26734c0d62b3d8a3c4ff7d436cae",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "benefit of counsel, entered a no contest plea to an amended charge of disorderly conduct, a fourth-degree misdemeanor. On the same day, he was sentenced to 30 days in jail, which the court suspended, fined $150, assessed court costs, and was placed on one year of inactive probation. {\u00b64} On April 29, 2016, Grabowski filed a motion to vacate or withdraw his no contest plea and sentence under Crim.R. 32.1. The trial court ordered briefing on Grabowski\u2019s motion and scheduled a hearing. The court held a hearing and denied Grabowski\u2019s motion. {\u00b65} It is from this judgment that Grabowski now appeals, raising the following assignment of error for review. Assignment of Error The trial court abused its discretion in failing to correct a manifest injustice by denying [Grabowski\u2019s] motion to withdraw his formerly entered [no contest] plea. {\u00b66} In May 2017, we sua sponte ordered the parties to address the issue of the trial court\u2019s acceptance of Grabowski\u2019s no contest plea without first advising him of his right to counsel and obtaining his waiver of counsel. In the supplemental brief on this issue, Grabowski raises the following additional assignment of error: Supplemental Assignment of Error The trial court erred to the prejudice of [Grabowski] in accepting his plea of [no contest] prior to advising him of his right to counsel so that his [no contest] plea was not knowing, intelligent and voluntary. {\u00b67} We will first consider Grabowski\u2019s supplemental assignment of error because we find it dispositve of this appeal. While the parties were ordered to brief the issue of the trial court\u2019s failure to advise Grabowski of his right to counsel prior to accepting his no contest plea, both of the parties addressed whether the trial court complied with Crim.R. 11(E). We also note that Grabowski did not directly appeal his conviction and sentence, but rather filed a postsentence motion to withdraw his plea with the trial court within the time frame that he could have filed a direct appeal. {\u00b68} In this supplemental assignment of error, Grabowski argues the trial court erred in failing to advise him of his right to counsel prior to taking his uncounseled plea. Grabowski also argues that \u201cthere was not * * * substantial compliance with the requirements of [Crim.R. 11]\u201d and \u201cit appears there was no compliance [with Crim.R. 11] at all\u201d when the trial court accepted his plea. We agree that",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "benefit of counsel, entered a no contest plea to an amended charge of disorderly conduct, a fourth-degree misdemeanor. On the same day, he was sentenced to 30 days in jail, which the court suspended, fined $150, assessed court costs, and was placed on one year of inactive probation. {\u00b64} On April 29, 2016, Grabowski filed a motion to vacate or withdraw his no contest plea and sentence under Crim.R. 32.1. The trial court ordered briefing on Grabowski\u2019s motion and scheduled a hearing. The court held a hearing and denied Grabowski\u2019s motion. {\u00b65} It is from this judgment that Grabowski now appeals, raising the following assignment of error for review. Assignment of Error The trial court abused its discretion in failing to correct a manifest injustice by denying [Grabowski\u2019s] motion to withdraw his formerly entered [no contest] plea. {\u00b66} In May 2017, we sua sponte ordered the parties to address the issue of the trial court\u2019s acceptance of Grabowski\u2019s no contest plea without first advising him of his right to counsel and obtaining his waiver of counsel. In the supplemental brief on this issue, Grabowski raises the following additional assignment of error: Supplemental Assignment of Error The trial court erred to the prejudice of [Grabowski] in accepting his plea of [no contest] prior to advising him of his right to counsel so that his [no contest] plea was not knowing, intelligent and voluntary. {\u00b67} We will first consider Grabowski\u2019s supplemental assignment of error because we find it dispositve of this appeal. While the parties were ordered to brief the issue of the trial court\u2019s failure to advise Grabowski of his right to counsel prior to accepting his no contest plea, both of the parties addressed whether the trial court complied with Crim.R. 11(E). We also note that Grabowski did not directly appeal his conviction and sentence, but rather filed a postsentence motion to withdraw his plea with the trial court within the time frame that he could have filed a direct appeal. {\u00b68} In this supplemental assignment of error, Grabowski argues the trial court erred in failing to advise him of his right to counsel prior to taking his uncounseled plea. Grabowski also argues that \u201cthere was not * * * substantial compliance with the requirements of [Crim.R. 11]\u201d and \u201cit appears there was no compliance [with Crim.R. 11] at all\u201d when the trial court accepted his plea. We agree that",
+    "label": "Human Written",
+    "ai_assistance_score": 6.76870477036573e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2407,
+    "word_count": 400,
+    "token_length": 551,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

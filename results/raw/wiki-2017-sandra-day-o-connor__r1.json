@@ -1,0 +1,36 @@
+{
+ "doc_id": "wiki-2017-sandra-day-o-connor",
+ "scanned_at_utc": "2026-08-21T15:04:17+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "aa9f6d470ac746e09727c55e7be4b42cc163a931f39b9aa7dc3d12f70b97e883",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Sandra Day O'Connor (born March 26, 1930) is a retired Associate Justice of the Supreme Court of the United States, serving from her appointment in 1981 by Ronald Reagan to 2006. She was the first woman to serve on the Court. Prior to O'Connor's tenure on the Court, she was an elected official and judge in Arizona serving as the first female Majority Leader of a state senate as the Republican leader in the Arizona Senate. Upon her nomination to the Court, O'Connor was confirmed unanimously by the Senate. On July 1, 2005, she announced her intention to retire effective upon the confirmation of a successor. Samuel Alito was nominated to take her seat in October 2005, and joined the Court on January 31, 2006. Considered a federalist and a moderate Republican, O'Connor tended to approach each case narrowly without arguing for sweeping precedents. She most frequently sided with the Court's conservative bloc, although in the latter years of her tenure, she was regarded as having the swing opinion in many cases. She often wrote concurring opinions that limited the reach of the majority holding. Her majority opinions in landmark cases include Grutter v. Bollinger and Hamdi v. Rumsfeld. She also wrote in part the per curiam majority opinions in Planned Parenthood v. Casey and Bush v. Gore. O'Connor was Chancellor of The College of William & Mary in Williamsburg, Virginia, and served on the board of trustees of the National Constitution Center in Philadelphia, Pennsylvania. She also served on the Board of Trustees for Colonial Williamsburg. Several publications have named O'Connor among the most powerful women in the world. On August 12, 2009, she was awarded the Presidential Medal of Freedom, the highest civilian honor of the United States, by President Barack Obama. She was born in El Paso, Texas, the daughter of Harry Alfred Day, a rancher, and Ada Mae (Wilkey). She grew up on a cattle ranch near Duncan, Arizona. The family home did not have running water nor electricity until Sandra was seven years old. She hunted from a young age, using a .22-caliber rifle to shoot jackrabbits for food. She later wrote a book with her brother, H. Alan Day, Lazy B : Growing up on a Cattle Ranch in the American West (2002), about her childhood experiences on the ranch. For most of her early schooling, O'Connor lived in El Paso with her maternal",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Sandra Day O'Connor (born March 26, 1930) is a retired Associate Justice of the Supreme Court of the United States, serving from her appointment in 1981 by Ronald Reagan to 2006. She was the first woman to serve on the Court. Prior to O'Connor's tenure on the Court, she was an elected official and judge in Arizona serving as the first female Majority Leader of a state senate as the Republican leader in the Arizona Senate. Upon her nomination to the Court, O'Connor was confirmed unanimously by the Senate. On July 1, 2005, she announced her intention to retire effective upon the confirmation of a successor. Samuel Alito was nominated to take her seat in October 2005, and joined the Court on January 31, 2006. Considered a federalist and a moderate Republican, O'Connor tended to approach each case narrowly without arguing for sweeping precedents. She most frequently sided with the Court's conservative bloc, although in the latter years of her tenure, she was regarded as having the swing opinion in many cases. She often wrote concurring opinions that limited the reach of the majority holding. Her majority opinions in landmark cases include Grutter v. Bollinger and Hamdi v. Rumsfeld. She also wrote in part the per curiam majority opinions in Planned Parenthood v. Casey and Bush v. Gore. O'Connor was Chancellor of The College of William & Mary in Williamsburg, Virginia, and served on the board of trustees of the National Constitution Center in Philadelphia, Pennsylvania. She also served on the Board of Trustees for Colonial Williamsburg. Several publications have named O'Connor among the most powerful women in the world. On August 12, 2009, she was awarded the Presidential Medal of Freedom, the highest civilian honor of the United States, by President Barack Obama. She was born in El Paso, Texas, the daughter of Harry Alfred Day, a rancher, and Ada Mae (Wilkey). She grew up on a cattle ranch near Duncan, Arizona. The family home did not have running water nor electricity until Sandra was seven years old. She hunted from a young age, using a .22-caliber rifle to shoot jackrabbits for food. She later wrote a book with her brother, H. Alan Day, Lazy B : Growing up on a Cattle Ranch in the American West (2002), about her childhood experiences on the ranch. For most of her early schooling, O'Connor lived in El Paso with her maternal",
+    "label": "Human Written",
+    "ai_assistance_score": 9.396925452165306e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2362,
+    "word_count": 400,
+    "token_length": 535,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

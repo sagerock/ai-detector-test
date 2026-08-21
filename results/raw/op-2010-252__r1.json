@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2010-252",
+ "scanned_at_utc": "2026-08-21T14:12:52+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "195f1c692a191aaab8f99b7d4de0511065561c7f1837f76be64fd4ee973b1525",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "acquittal. I. Background A. Facts We outline the facts relevant to the appeals. Other details may be found in the district court's opinion. See United States v. P\u00e9rez-Mel\u00e9ndez, 571 F. Supp. 2d 322 (D.P.R. 2008). 1. Doral Freight Logistics When she testified at trial, Virginia Mar\u00eda Cruz-Mart\u00ednez (\"Cruz-Mart\u00ednez\") had been a customer service employee for three years at Doral Freight Logistics (\"Doral\"), a Caribbean shipping company based in Amelia Industrial Park in Guaynabo, Puerto Rico. Cruz-Mart\u00ednez testified that shipments from the Dominican Republic come to Doral via a sealed van on a boat that docks at Mayaguez, Puerto Rico, and then are driven by the shipper to Doral's -2- headquarters in Guaynabo. Cruz-Mart\u00ednez stated that when such a van arrives at Doral, the manifest that is included with the shipment is sent to the Customs and Treasury departments for the appropriate clearances. Once the clearances are returned to Doral, Doral notifies the client that the merchandise is available and provides the client with the option of either picking up the merchandise or having Doral deliver it. If the client opts to pick up the merchandise and sends truck drivers to do so, Doral verifies that all clearances have been obtained and then provides the driver with a receipt to sign. Doral then gives the driver a copy of the receipt and a copy of the manifest, the latter of which \"states all the shipments that are inside the van.\" If the client opts to have Doral deliver the merchandise, Doral hires \"independent drivers\" and pays them based on the size of the load and the distance to the destination. Cruz-Mart\u00ednez said that Doral would pay a driver approximately $70-$100 to deliver a load to Caguas, approximately $200 to deliver a load to Ponce, and approximately $250 to deliver a load to Mayaguez. According to Cruz-Mart\u00ednez, Industria de Sobres Dominicanos, S.A. (\"ISD\"), a company in the Dominican Republic, sent six shipments of wrapped pallets of reams of paper to Doral between May and October of 2007, to be ultimately delivered to another company, Industrial Paper, in Puerto Rico. Cruz-Mart\u00ednez testified that it is not Doral's company policy to unwrap such -3- pallets to open them. Usually, ISD would pay for its shipment by money order before pick-up, but on one occasion, Cruz-Mart\u00ednez said, \"the truck drivers\" may have paid during pick-up. Cruz- Mart\u00ednez stated that someone identifying himself as Jos\u00e9 Albarr\u00e1n",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "acquittal. I. Background A. Facts We outline the facts relevant to the appeals. Other details may be found in the district court's opinion. See United States v. P\u00e9rez-Mel\u00e9ndez, 571 F. Supp. 2d 322 (D.P.R. 2008). 1. Doral Freight Logistics When she testified at trial, Virginia Mar\u00eda Cruz-Mart\u00ednez (\"Cruz-Mart\u00ednez\") had been a customer service employee for three years at Doral Freight Logistics (\"Doral\"), a Caribbean shipping company based in Amelia Industrial Park in Guaynabo, Puerto Rico. Cruz-Mart\u00ednez testified that shipments from the Dominican Republic come to Doral via a sealed van on a boat that docks at Mayaguez, Puerto Rico, and then are driven by the shipper to Doral's -2- headquarters in Guaynabo. Cruz-Mart\u00ednez stated that when such a van arrives at Doral, the manifest that is included with the shipment is sent to the Customs and Treasury departments for the appropriate clearances. Once the clearances are returned to Doral, Doral notifies the client that the merchandise is available and provides the client with the option of either picking up the merchandise or having Doral deliver it. If the client opts to pick up the merchandise and sends truck drivers to do so, Doral verifies that all clearances have been obtained and then provides the driver with a receipt to sign. Doral then gives the driver a copy of the receipt and a copy of the manifest, the latter of which \"states all the shipments that are inside the van.\" If the client opts to have Doral deliver the merchandise, Doral hires \"independent drivers\" and pays them based on the size of the load and the distance to the destination. Cruz-Mart\u00ednez said that Doral would pay a driver approximately $70-$100 to deliver a load to Caguas, approximately $200 to deliver a load to Ponce, and approximately $250 to deliver a load to Mayaguez. According to Cruz-Mart\u00ednez, Industria de Sobres Dominicanos, S.A. (\"ISD\"), a company in the Dominican Republic, sent six shipments of wrapped pallets of reams of paper to Doral between May and October of 2007, to be ultimately delivered to another company, Industrial Paper, in Puerto Rico. Cruz-Mart\u00ednez testified that it is not Doral's company policy to unwrap such -3- pallets to open them. Usually, ISD would pay for its shipment by money order before pick-up, but on one occasion, Cruz-Mart\u00ednez said, \"the truck drivers\" may have paid during pick-up. Cruz- Mart\u00ednez stated that someone identifying himself as Jos\u00e9 Albarr\u00e1n",
+    "label": "Human Written",
+    "ai_assistance_score": 0.00012531659740488976,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2449,
+    "word_count": 400,
+    "token_length": 595,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

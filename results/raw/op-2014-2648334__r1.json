@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2014-2648334",
+ "scanned_at_utc": "2026-08-21T14:14:43+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "174d68a1d85bb2c3ab5237b2e2fc6641f21fb0bd16f2783bb762091895ce5309",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "by Officer Comegno. The officer asked Gibson for identification, where he was coming from, and whether he had permission to be on the Community Center\u2019s property. Gibson gave his name and explained that he was coming from his child\u2019s mother\u2019s home, which is located two blocks north of the Community Center, and that he was waiting for a ride. Officer Comegno testified that Gibson appeared \u201cvery excited\u201d and \u201csomewhat evasive,\u201d and that \u201che was looking around as though he was attempting to run.\u201d The officer did not, however, elaborate on how Gibson was \u201cevasive.\u201d Based on his observations and interaction with Gibson, Officer Comegno concluded that Gibson had the intent to commit a defiant trespass, a petty disorderly persons offense, and arrested him. A subsequent search of Gibson at the police station uncovered thirteen bags containing crack cocaine. Gibson was charged with various drug crimes and subsequently moved to suppress the drug evidence, claiming that Officer Comegno did not have probable cause to make the arrest. After a suppression hearing at which only Officer Comegno testified, the trial court found that the officer had probable cause to make an arrest for defiant trespass and therefore was authorized to conduct a search incident to an arrest. The Appellate Division affirmed the denial of the motion to suppress. State v. Gibson, 425 N.J. Super. 523 (App. Div. 2012). The panel stated that Officer Comegno\u2019s encounter with Gibson began as a field inquiry, and then evolved into an investigative stop given the officer\u2019s \u201creasonable suspicion of criminal activity\u201d based on \u201cthe lateness of the hour, [Gibson\u2019s] immediate departure from the Omega property upon seeing the officer, and [Gibson\u2019s] excited and evasive demeanor when questioned.\u201d According to the appellate panel, the reasonable suspicion ripened into probable cause to arrest for defiant trespass \u201cwhen [Gibson] failed to assert that he was on the Omega property with permission.\u201d Even though the property owner posted a \u201cno loitering\u201d sign instead of a \u201cno trespassing\u201d sign, the panel maintained that there was probable cause to arrest for defiant trespass because the owner\u2019s intent to keep others off the property was reasonably conveyed. The Court granted Gibson\u2019s petition for certification. 212 N.J. 460 (2012). HELD: There is insufficient evidence in the record to support a finding that Officer Comegno had probable cause to arrest Gibson for defiant trespass; therefore, the subsequent search at the stationhouse was unconstitutional and the",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "by Officer Comegno. The officer asked Gibson for identification, where he was coming from, and whether he had permission to be on the Community Center\u2019s property. Gibson gave his name and explained that he was coming from his child\u2019s mother\u2019s home, which is located two blocks north of the Community Center, and that he was waiting for a ride. Officer Comegno testified that Gibson appeared \u201cvery excited\u201d and \u201csomewhat evasive,\u201d and that \u201che was looking around as though he was attempting to run.\u201d The officer did not, however, elaborate on how Gibson was \u201cevasive.\u201d Based on his observations and interaction with Gibson, Officer Comegno concluded that Gibson had the intent to commit a defiant trespass, a petty disorderly persons offense, and arrested him. A subsequent search of Gibson at the police station uncovered thirteen bags containing crack cocaine. Gibson was charged with various drug crimes and subsequently moved to suppress the drug evidence, claiming that Officer Comegno did not have probable cause to make the arrest. After a suppression hearing at which only Officer Comegno testified, the trial court found that the officer had probable cause to make an arrest for defiant trespass and therefore was authorized to conduct a search incident to an arrest. The Appellate Division affirmed the denial of the motion to suppress. State v. Gibson, 425 N.J. Super. 523 (App. Div. 2012). The panel stated that Officer Comegno\u2019s encounter with Gibson began as a field inquiry, and then evolved into an investigative stop given the officer\u2019s \u201creasonable suspicion of criminal activity\u201d based on \u201cthe lateness of the hour, [Gibson\u2019s] immediate departure from the Omega property upon seeing the officer, and [Gibson\u2019s] excited and evasive demeanor when questioned.\u201d According to the appellate panel, the reasonable suspicion ripened into probable cause to arrest for defiant trespass \u201cwhen [Gibson] failed to assert that he was on the Omega property with permission.\u201d Even though the property owner posted a \u201cno loitering\u201d sign instead of a \u201cno trespassing\u201d sign, the panel maintained that there was probable cause to arrest for defiant trespass because the owner\u2019s intent to keep others off the property was reasonably conveyed. The Court granted Gibson\u2019s petition for certification. 212 N.J. 460 (2012). HELD: There is insufficient evidence in the record to support a finding that Officer Comegno had probable cause to arrest Gibson for defiant trespass; therefore, the subsequent search at the stationhouse was unconstitutional and the",
+    "label": "Human Written",
+    "ai_assistance_score": 3.0447914468823e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2547,
+    "word_count": 400,
+    "token_length": 544,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

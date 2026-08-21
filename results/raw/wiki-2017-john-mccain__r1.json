@@ -1,0 +1,36 @@
+{
+ "doc_id": "wiki-2017-john-mccain",
+ "scanned_at_utc": "2026-08-21T15:03:40+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "54a1b457dbcd2915770211486fd75b824fc429bee6faaad950b4bc8f6b2ad5d0",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "John Sidney McCain III (born August 29, 1936) is an American politician serving as the senior United States Senator from Arizona since 1987. He was the Republican nominee for President of the United States in the 2008 election, which he lost to Barack Obama. McCain graduated from the U.S. Naval Academy in 1958 and followed his father and grandfather\u2014both four-star admirals\u2014into the United States Navy. He became a naval aviator and flew ground-attack aircraft from aircraft carriers. During the Vietnam War, he was almost killed in the 1967 USS Forrestal fire. While McCain was on a bombing mission over Hanoi in October 1967, he was shot down, seriously injured, and captured by the North Vietnamese. He was a prisoner of war until 1973. McCain experienced episodes of torture and refused an out-of-sequence early repatriation offer. The wounds that he sustained during war have left him with lifelong physical disabilities. He retired from the Navy as a captain in 1981 and moved to Arizona, where he entered politics. In 1982, McCain was elected to the U.S. House of Representatives, where he served two terms. He was first elected to the U.S. Senate in 1986 and easily won re-election five times, most recently in 2016. While generally adhering to conservative principles, McCain at times has had a media reputation as a \"maverick\" for his willingness to disagree with his party on certain issues. After being investigated and largely exonerated in a political influence scandal of the 1980s as a member of the Keating Five, he made campaign finance reform one of his signature concerns, which eventually resulted in passage of the McCain\u2013Feingold Act in 2002. He is also known for his work in the 1990s to restore diplomatic relations with Vietnam, and for his belief that the Iraq War should have been fought to a successful conclusion. McCain has chaired the Senate Commerce Committee, and he opposed pork barrel spending. He was a member of the bi-partisan group known as the Gang of 14 who played a key role in alleviating a crisis over judicial nominations. McCain entered the race for the Republican nomination for President in 2000, but he lost a heated primary season contest to George W. Bush of Texas. He secured the nomination in 2008 after coming back from early reversals, but was defeated by Democratic nominee Barack Obama in the general election, losing by a 365\u2013173 electoral college",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "John Sidney McCain III (born August 29, 1936) is an American politician serving as the senior United States Senator from Arizona since 1987. He was the Republican nominee for President of the United States in the 2008 election, which he lost to Barack Obama. McCain graduated from the U.S. Naval Academy in 1958 and followed his father and grandfather\u2014both four-star admirals\u2014into the United States Navy. He became a naval aviator and flew ground-attack aircraft from aircraft carriers. During the Vietnam War, he was almost killed in the 1967 USS Forrestal fire. While McCain was on a bombing mission over Hanoi in October 1967, he was shot down, seriously injured, and captured by the North Vietnamese. He was a prisoner of war until 1973. McCain experienced episodes of torture and refused an out-of-sequence early repatriation offer. The wounds that he sustained during war have left him with lifelong physical disabilities. He retired from the Navy as a captain in 1981 and moved to Arizona, where he entered politics. In 1982, McCain was elected to the U.S. House of Representatives, where he served two terms. He was first elected to the U.S. Senate in 1986 and easily won re-election five times, most recently in 2016. While generally adhering to conservative principles, McCain at times has had a media reputation as a \"maverick\" for his willingness to disagree with his party on certain issues. After being investigated and largely exonerated in a political influence scandal of the 1980s as a member of the Keating Five, he made campaign finance reform one of his signature concerns, which eventually resulted in passage of the McCain\u2013Feingold Act in 2002. He is also known for his work in the 1990s to restore diplomatic relations with Vietnam, and for his belief that the Iraq War should have been fought to a successful conclusion. McCain has chaired the Senate Commerce Committee, and he opposed pork barrel spending. He was a member of the bi-partisan group known as the Gang of 14 who played a key role in alleviating a crisis over judicial nominations. McCain entered the race for the Republican nomination for President in 2000, but he lost a heated primary season contest to George W. Bush of Texas. He secured the nomination in 2008 after coming back from early reversals, but was defeated by Democratic nominee Barack Obama in the general election, losing by a 365\u2013173 electoral college",
+    "label": "Human Written",
+    "ai_assistance_score": 0.0006372943171299994,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2408,
+    "word_count": 400,
+    "token_length": 564,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

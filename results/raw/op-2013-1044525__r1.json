@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2013-1044525",
+ "scanned_at_utc": "2026-08-21T14:12:24+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "c1bf88b88790b4ccee4313049acc19091ecf49fbeed1c216eab050e75f13f73f",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "failure to consider expressly \u201cone or more of the seven legally-relevant factors (or merely because it failed to specify why some factors outweighed others)\u201d is no longer good law. See State v. Kiara Tashawn King, No. M2012-00236-CCA-R3-CD, slip op. at 8 (Tenn. Crim. App. Mar. 4, 2013), petition for perm. app. filed (Tenn. May 2, 2013); State v. Lewis Green, No. W2011-02593-CCA-R3-CD, slip op. at 13 n.1 (Tenn. Crim. App. Mar. 28, 2013), petition for perm. app. filed (Tenn. May 29, 2013). I respectfully disagree, and I believe we are bound by Electroplating, Inc. and Parker. In Kiara Tashawn King, this court rejected Electroplating, Inc. and Parker insofar that they require a trial court to consider and weigh the following factors during its judicial diversion determinations and that failure to do so was cause for reversal: (1) the defendant\u2019s amenability to correction; (2) the circumstances of the offense; (3) the defendant\u2019s criminal record; (4) the defendant\u2019s social history; (5) the defendant\u2019s physical and mental health; (6) the deterrence value to the defendant and others; and (7) whether judicial diversion will serve the ends of justice. Kiara Tashawn King, slip op. at 8; see Electroplating, Inc., 990 S.W.2d at 229 (stating that a trial court must consider and weigh each factor in determining whether to grant or deny diversion (emphasis added)). I note that although a trial court\u2019s failure to consider and weigh each factor may be cause for a reversal, this court is permitted to review the record to determine whether the court properly denied judicial diversion. See Electroplating, Inc., 990 S.W.2d at 229. In Lewis Green, this court noted that the mandate requiring express consideration of each Electroplating factor \u201cmay no longer be appropriate in light of\u201d our supreme court\u2019s decisions in Bise and Caudle. Lewis Green, slip op. at 13 n.1. The court stated that the mandate conflicted with this court\u2019s duty imposed by Bise and Caudle to \u201ctreat all in-range sentences imposed by trial courts as presumptively reasonable.\u201d Id. Although this court did not abrogate a trial court\u2019s obligation to consider each factor, it concluded that a trial court\u2019s failure to consider one or more of the factors or to state its reasoning why some factors outweighed others was no longer cause for reversal. Id. In essence, the majority opinion relies on Kiara Tashawn King and Lewis Green to conclude that Bise no longer permits a reversal",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "failure to consider expressly \u201cone or more of the seven legally-relevant factors (or merely because it failed to specify why some factors outweighed others)\u201d is no longer good law. See State v. Kiara Tashawn King, No. M2012-00236-CCA-R3-CD, slip op. at 8 (Tenn. Crim. App. Mar. 4, 2013), petition for perm. app. filed (Tenn. May 2, 2013); State v. Lewis Green, No. W2011-02593-CCA-R3-CD, slip op. at 13 n.1 (Tenn. Crim. App. Mar. 28, 2013), petition for perm. app. filed (Tenn. May 29, 2013). I respectfully disagree, and I believe we are bound by Electroplating, Inc. and Parker. In Kiara Tashawn King, this court rejected Electroplating, Inc. and Parker insofar that they require a trial court to consider and weigh the following factors during its judicial diversion determinations and that failure to do so was cause for reversal: (1) the defendant\u2019s amenability to correction; (2) the circumstances of the offense; (3) the defendant\u2019s criminal record; (4) the defendant\u2019s social history; (5) the defendant\u2019s physical and mental health; (6) the deterrence value to the defendant and others; and (7) whether judicial diversion will serve the ends of justice. Kiara Tashawn King, slip op. at 8; see Electroplating, Inc., 990 S.W.2d at 229 (stating that a trial court must consider and weigh each factor in determining whether to grant or deny diversion (emphasis added)). I note that although a trial court\u2019s failure to consider and weigh each factor may be cause for a reversal, this court is permitted to review the record to determine whether the court properly denied judicial diversion. See Electroplating, Inc., 990 S.W.2d at 229. In Lewis Green, this court noted that the mandate requiring express consideration of each Electroplating factor \u201cmay no longer be appropriate in light of\u201d our supreme court\u2019s decisions in Bise and Caudle. Lewis Green, slip op. at 13 n.1. The court stated that the mandate conflicted with this court\u2019s duty imposed by Bise and Caudle to \u201ctreat all in-range sentences imposed by trial courts as presumptively reasonable.\u201d Id. Although this court did not abrogate a trial court\u2019s obligation to consider each factor, it concluded that a trial court\u2019s failure to consider one or more of the factors or to state its reasoning why some factors outweighed others was no longer cause for reversal. Id. In essence, the majority opinion relies on Kiara Tashawn King and Lewis Green to conclude that Bise no longer permits a reversal",
+    "label": "Human Written",
+    "ai_assistance_score": 5.603957470157184e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2460,
+    "word_count": 400,
+    "token_length": 637,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

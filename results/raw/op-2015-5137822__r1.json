@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2015-5137822",
+ "scanned_at_utc": "2026-08-21T14:13:01+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "871d2ee8937b2952d6602785623872bfc1edca7df3140ac7fb4111af87242c53",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "codes the reason for an employee\u2019s termination. The code assigned to a terminated employee indicates that employee\u2019s eligibility for rehire. Other HCA medical facilities, including St. Mark\u2019s Hospital, also use this database to make hiring decisions. Sometime after Ogden Regional terminated Zisumbo\u2019s employment in 2009, Ogden Regional coded Zisumbo as \u201c\u2018Invol Term\u2014Miscond\u2019 . . . believing that it made him eligible for rehire.\u201d In March 2011, Ogden Regional \u201clearned this [belief] was incorrect\u201d and that the assigned code made Zisumbo ineligible for rehire at all HCA medical facilities. Ogden Regional told Zisumbo it had changed the code to \u201cInvol Term\u2014 1. \u201cOn appeal from a motion to dismiss, we review the facts only as they are alleged in the complaint.\u201d State v. Apotex Corp., 2012 UT 36, \u00b6 3, 282 P.3d 66 (citation and internal quotation marks omitted). 2. In May 2010, Zisumbo filed a lawsuit in federal court against appellees Ogden Regional, Rodebush, Chris Bissenden, and Judd Taylor under Title VII of the Civil Rights Act of 1964, claiming employment discrimination and retaliation. A jury trial was held in 2013. The jury found that Ogden Regional had not discriminated against Zisumbo, but had retaliated against him. 20140614-CA 2 2015 UT App 240 Zisumbo v. Ogden Regional Medical Center Behavior,\u201d a code indicating the terminated employee is eligible for rehire. \u00b64 Since Zisumbo\u2019s termination, \u201che has been unable to secure employment in his field, despite his five years of experience at [Ogden Regional], 10 years of CT experience, and a degree in CT.\u201d He applied for jobs at St. Mark\u2019s Hospital and other HCA facilities located in Utah, but received no response to his applications. He also applied for jobs at non-HCA facilities, but did not receive interviews for those positions. People at facilities where Zisumbo applied for positions informed Zisumbo that \u201csomething\u201d was blocking his applications: [Zisumbo] spoke with individuals at facilities where he applied for jobs whom he knew and who were interested in hiring him, who informed him that his application had not been forwarded to them for consideration for available positions for which he had applied. In other words, they informed him that something was preventing his application from making it past the facility\u2019s initial screening. \u00b65 Based on the foregoing allegations, Zisumbo sued Ogden Regional. Ogden Regional moved to dismiss for failure to state a claim. Zisumbo opposed the motion and filed a proposed amended",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "codes the reason for an employee\u2019s termination. The code assigned to a terminated employee indicates that employee\u2019s eligibility for rehire. Other HCA medical facilities, including St. Mark\u2019s Hospital, also use this database to make hiring decisions. Sometime after Ogden Regional terminated Zisumbo\u2019s employment in 2009, Ogden Regional coded Zisumbo as \u201c\u2018Invol Term\u2014Miscond\u2019 . . . believing that it made him eligible for rehire.\u201d In March 2011, Ogden Regional \u201clearned this [belief] was incorrect\u201d and that the assigned code made Zisumbo ineligible for rehire at all HCA medical facilities. Ogden Regional told Zisumbo it had changed the code to \u201cInvol Term\u2014 1. \u201cOn appeal from a motion to dismiss, we review the facts only as they are alleged in the complaint.\u201d State v. Apotex Corp., 2012 UT 36, \u00b6 3, 282 P.3d 66 (citation and internal quotation marks omitted). 2. In May 2010, Zisumbo filed a lawsuit in federal court against appellees Ogden Regional, Rodebush, Chris Bissenden, and Judd Taylor under Title VII of the Civil Rights Act of 1964, claiming employment discrimination and retaliation. A jury trial was held in 2013. The jury found that Ogden Regional had not discriminated against Zisumbo, but had retaliated against him. 20140614-CA 2 2015 UT App 240 Zisumbo v. Ogden Regional Medical Center Behavior,\u201d a code indicating the terminated employee is eligible for rehire. \u00b64 Since Zisumbo\u2019s termination, \u201che has been unable to secure employment in his field, despite his five years of experience at [Ogden Regional], 10 years of CT experience, and a degree in CT.\u201d He applied for jobs at St. Mark\u2019s Hospital and other HCA facilities located in Utah, but received no response to his applications. He also applied for jobs at non-HCA facilities, but did not receive interviews for those positions. People at facilities where Zisumbo applied for positions informed Zisumbo that \u201csomething\u201d was blocking his applications: [Zisumbo] spoke with individuals at facilities where he applied for jobs whom he knew and who were interested in hiring him, who informed him that his application had not been forwarded to them for consideration for available positions for which he had applied. In other words, they informed him that something was preventing his application from making it past the facility\u2019s initial screening. \u00b65 Based on the foregoing allegations, Zisumbo sued Ogden Regional. Ogden Regional moved to dismiss for failure to state a claim. Zisumbo opposed the motion and filed a proposed amended",
+    "label": "Human Written",
+    "ai_assistance_score": 1.740821244311519e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2512,
+    "word_count": 400,
+    "token_length": 600,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

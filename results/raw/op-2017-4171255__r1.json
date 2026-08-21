@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4171255",
+ "scanned_at_utc": "2026-08-21T14:12:04+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "7e1e9e247377e2f016c7f53c38e6846a93c40ac33a4c7d28b4c3a7d49f45d224",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "J. (\u201cPl.\u2019s Mot.\u201d) 1; Decl. of Dennis O\u2019Brien in Supp. of Pl.\u2019s Mot. (\u201cO\u2019Brien Decl.\u201d) \u00b6\u00b6 2-3. Plaintiff\u2019s suit relates to an annual claim maintenance fee imposed by the Bureau of Land Management (\u201cBLM\u201d) on mining claims. Compl. \u00a7\u00a7 I-II, VI-VII; 1 see 30 U.S.C. \u00a7 28f (2012). 1 The complaint is formatted largely in sections numbered with roman numerals, rather than the paragraph format called for by this court\u2019s rules. See RCFC 10(b) (\u201cA party must state its claims or defenses in numbered paragraphs . . . .\u201d). This opinion will refer to the sections of the complaint according to the Roman numerals assigned by plaintiff when practicable, and otherwise by page number. Mining claims are governed by the General Mining Act of 1872 (\u201cMining Law of 1872\u201d), ch. 152, 17 Stat. 91 (codified as amended at 30 U.S.C. \u00a7\u00a7 22-54), and section 314 of the Federal Land Policy and Management Act of 1976 (\u201cFLPMA\u201d), Pub. L. No. 94-579, 90 Stat. 2743, 2769-70 (codified as amended at 43 U.S.C. \u00a7 1744 (2012)). Prior to 1993, the BLM required that mining claim holders conduct a minimum level of assessment work on their claims and comply with the FLPMA\u2019s annual filing requirements to continue holding their mining claims. Compl. \u00a7 IV; Pl.\u2019s Mot. 2. In 1993, Congress changed the law to require claim holders to pay an annual maintenance fee to the BLM in lieu of the assessment work and related filing requirements. Pl.\u2019s Mot. 2. The new law stated: The holder of each unpatented mining claim, mill or tunnel site located pursuant to the Mining Laws of the United States, whether located before or after the enactment of this Act, shall pay . . . a claim maintenance fee . . . in lieu of the assessment work requirement contained in [30 U.S.C. \u00a7\u00a7 28-28e] . . . and the related filing requirements contained in [43 U.S.C. \u00a7 1744(a), (c)]. Omnibus Budget Reconciliation Act of 1993 (\u201c1993 Act\u201d), Pub. L. No. 103-66, \u00a7 10101(a), 107 Stat. 312, 405 (codified as amended at 30 U.S.C. \u00a7 28f) (emphasis added). Then, in 2011, Congress again amended the statute that governs the fee structure, eliminating the claim maintenance fee for unpatented lode mining claims, mill sites, and tunnel sites (collectively, \u201cunpatented nonplacer claims\u201d) located before August 10, 1993, and increasing the maintenance fee for unpatented placer mining claims. The new law stated: The",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "J. (\u201cPl.\u2019s Mot.\u201d) 1; Decl. of Dennis O\u2019Brien in Supp. of Pl.\u2019s Mot. (\u201cO\u2019Brien Decl.\u201d) \u00b6\u00b6 2-3. Plaintiff\u2019s suit relates to an annual claim maintenance fee imposed by the Bureau of Land Management (\u201cBLM\u201d) on mining claims. Compl. \u00a7\u00a7 I-II, VI-VII; 1 see 30 U.S.C. \u00a7 28f (2012). 1 The complaint is formatted largely in sections numbered with roman numerals, rather than the paragraph format called for by this court\u2019s rules. See RCFC 10(b) (\u201cA party must state its claims or defenses in numbered paragraphs . . . .\u201d). This opinion will refer to the sections of the complaint according to the Roman numerals assigned by plaintiff when practicable, and otherwise by page number. Mining claims are governed by the General Mining Act of 1872 (\u201cMining Law of 1872\u201d), ch. 152, 17 Stat. 91 (codified as amended at 30 U.S.C. \u00a7\u00a7 22-54), and section 314 of the Federal Land Policy and Management Act of 1976 (\u201cFLPMA\u201d), Pub. L. No. 94-579, 90 Stat. 2743, 2769-70 (codified as amended at 43 U.S.C. \u00a7 1744 (2012)). Prior to 1993, the BLM required that mining claim holders conduct a minimum level of assessment work on their claims and comply with the FLPMA\u2019s annual filing requirements to continue holding their mining claims. Compl. \u00a7 IV; Pl.\u2019s Mot. 2. In 1993, Congress changed the law to require claim holders to pay an annual maintenance fee to the BLM in lieu of the assessment work and related filing requirements. Pl.\u2019s Mot. 2. The new law stated: The holder of each unpatented mining claim, mill or tunnel site located pursuant to the Mining Laws of the United States, whether located before or after the enactment of this Act, shall pay . . . a claim maintenance fee . . . in lieu of the assessment work requirement contained in [30 U.S.C. \u00a7\u00a7 28-28e] . . . and the related filing requirements contained in [43 U.S.C. \u00a7 1744(a), (c)]. Omnibus Budget Reconciliation Act of 1993 (\u201c1993 Act\u201d), Pub. L. No. 103-66, \u00a7 10101(a), 107 Stat. 312, 405 (codified as amended at 30 U.S.C. \u00a7 28f) (emphasis added). Then, in 2011, Congress again amended the statute that governs the fee structure, eliminating the claim maintenance fee for unpatented lode mining claims, mill sites, and tunnel sites (collectively, \u201cunpatented nonplacer claims\u201d) located before August 10, 1993, and increasing the maintenance fee for unpatented placer mining claims. The new law stated: The",
+    "label": "Human Written",
+    "ai_assistance_score": 1.7960997865884565e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2350,
+    "word_count": 400,
+    "token_length": 709,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

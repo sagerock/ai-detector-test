@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4209304",
+ "scanned_at_utc": "2026-08-21T14:13:27+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "cb00d6b5ebb2ffc9eae76aeb013743c49d8c3b6113cccf745374f5570a2a79ea",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "suspension of Medicaid payments to Vizion One based on a \"credible allegation of fraud\"; Yizion One appealed that decision to OAH but the ALJ dismissed the appeal on the ground that it was untime ly. The second decision (Appeal No. 14-AA-l 024) concerned DHCF's \"termination for convenience\" of Yizion One's Medicaid Provider Agreement. The ALJ ( 1) rejected Vizion One 's arguments that DHCF had terminated the provider agreement in bad faith and had violated Vizion One's due process rights, and (2) granted DHCF's cross-motion for summary adjudication and dismissed the case with prejudice. For the reasons stated below we affinn OAH 's decision in Appeal No. 14-AA- I 024, but we vacate OAH's decision dismissing Appeal No. 14-AA- 1023 and remand that case to OAH for further proceedings, including an evidentiary hearing, on the merits of Vizion One's appeal. PART ONE: APPEAL N0.14-AA-1023: DHCF'S TEMPORARY SUSPENSION OF VIZION ONE'S MEDICAID PAYMENTS I. FACTUAL SUMMARY A. DHCF's Letter of February 20, 2014, Vizion One' s Response, and DHCF's Reply of March 26, 2014 3 The record reveals the following. On February 21, 2014, DHCF hand delivered a letter, dated February 20, 2014, to Vizion One. The letter stated that DHCF \"was informed that the owner, operator, or employee(s) of Vizion One [] ha[ d] been arrested for health care fraud,\" and that this information constituted \"a credible allegation of fraud for which an investigation is pending under the Medicaid program.\" 1 Hence, under 42 C.F.R. \u00a7 455.23 (a), DHCF was \"withholding all Medicaid payments due to [Vizion One] as a provider of home health services under the District [of Columbia's] Medicaid program.\"2 The payments were suspended, effective February 20, 2014. DHCF stated that \"[i]n 1 It was later revealed that two Vizion One employees had been arrested and indicted. One allegedly had coached Medicaid beneficiaries how to falsely qualify for personal care services that Medicaid reimbursed, and both employees allegedly had paid Medicaid beneficiaries to sign timesheets, or to allow their names to be signed even though no personal care services had been provided to these Medicaid beneficiaries. 2 42 C.F.R. \u00a7 455.23 (a)( 1) (2012) provides: (a) Basis for suspension. ( l) The State Medicaid agency must suspend all Medicaid payments to a provider after the agency determines there is a credible allegation of fraud for which an investigation is pending under the Medicaid program against an indi vidual",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "suspension of Medicaid payments to Vizion One based on a \"credible allegation of fraud\"; Yizion One appealed that decision to OAH but the ALJ dismissed the appeal on the ground that it was untime ly. The second decision (Appeal No. 14-AA-l 024) concerned DHCF's \"termination for convenience\" of Yizion One's Medicaid Provider Agreement. The ALJ ( 1) rejected Vizion One 's arguments that DHCF had terminated the provider agreement in bad faith and had violated Vizion One's due process rights, and (2) granted DHCF's cross-motion for summary adjudication and dismissed the case with prejudice. For the reasons stated below we affinn OAH 's decision in Appeal No. 14-AA- I 024, but we vacate OAH's decision dismissing Appeal No. 14-AA- 1023 and remand that case to OAH for further proceedings, including an evidentiary hearing, on the merits of Vizion One's appeal. PART ONE: APPEAL N0.14-AA-1023: DHCF'S TEMPORARY SUSPENSION OF VIZION ONE'S MEDICAID PAYMENTS I. FACTUAL SUMMARY A. DHCF's Letter of February 20, 2014, Vizion One' s Response, and DHCF's Reply of March 26, 2014 3 The record reveals the following. On February 21, 2014, DHCF hand delivered a letter, dated February 20, 2014, to Vizion One. The letter stated that DHCF \"was informed that the owner, operator, or employee(s) of Vizion One [] ha[ d] been arrested for health care fraud,\" and that this information constituted \"a credible allegation of fraud for which an investigation is pending under the Medicaid program.\" 1 Hence, under 42 C.F.R. \u00a7 455.23 (a), DHCF was \"withholding all Medicaid payments due to [Vizion One] as a provider of home health services under the District [of Columbia's] Medicaid program.\"2 The payments were suspended, effective February 20, 2014. DHCF stated that \"[i]n 1 It was later revealed that two Vizion One employees had been arrested and indicted. One allegedly had coached Medicaid beneficiaries how to falsely qualify for personal care services that Medicaid reimbursed, and both employees allegedly had paid Medicaid beneficiaries to sign timesheets, or to allow their names to be signed even though no personal care services had been provided to these Medicaid beneficiaries. 2 42 C.F.R. \u00a7 455.23 (a)( 1) (2012) provides: (a) Basis for suspension. ( l) The State Medicaid agency must suspend all Medicaid payments to a provider after the agency determines there is a credible allegation of fraud for which an investigation is pending under the Medicaid program against an indi vidual",
+    "label": "Human Written",
+    "ai_assistance_score": 7.448979886248708e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2488,
+    "word_count": 400,
+    "token_length": 670,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2012-2696452",
+ "scanned_at_utc": "2026-08-21T14:11:04+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "7f22f6635a22bd2046c20a51416c15e88af8353403a37fc4e5e4f5c909daaa0f",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "facility. Under the applicable law, she is considered the \u201cInstitutionalized Spouse.\u201d Helen\u2019s husband, Bobby, continues to reside in the couple\u2019s home and is considered the \u201cCommunity Spouse\u201d.1 {\u00b63} Prior to applying for Medicaid coverage for her nursing home care, the two following transfers of Helen and Bobby\u2019s assets were made. On June 9, 2010, the couple transferred funds in the amount of $17,114.05 to Bobby\u2019s son, 1 Section 5101:1-39-36.1 (B) provides the following definitions relevant to this case. (2)\u201cCommunity spouse\u201d describes an individual who is not in a medical institution or nursing facility and has an institutionalized spouse .*.*.*. (3)\u201cInstitutionalized spouse\u201d describes an individual who receives long term care services in a medical institution, a long term care facility, under a [a qualified program] for at least thirty consecutive days. -2- Case No. 8-11-18 Helen\u2019s step-son. On July 28, 2010, Helen and Bobby transferred their home out of their individual names to a revocable trust, the \u201cBobby Williams Family Trust,\u201d via a quitclaim deed. The trust was created by Bobby for his sole benefit and listed Bobby as the initial trustee in the trust document. {\u00b64} On August 18, 2010, Helen\u2019s Authorized Representative (\u201cAR\u201d) applied for Medicaid benefits on her behalf. The Agency then calculated the Community Spouse Resource Allowance amount (the \u201cCSRA\u201d), which is a capped, formula based amount of the couple\u2019s joint resources that the Community Spouse is allowed to retain to live on when the institutionalized spouse applies for Medicaid coverage of her nursing facility expenses. See Wisconsin Dept. of Health and Family Services v. Blumer, 534 U.S. 473, 482-83 (2002); Ohio Admin. Code 5101:1-39-36.1. The remaining resources are deemed available to the Institutionalized Spouse for the purpose of calculating her Medicaid eligibility. See Ohio Admin. Code 5101:1-39-36; Ohio Admin. Code 5101:1-39-36.1. Specifically, the remainder of the couple\u2019s assets are to be used for the Institutionalized Spouse\u2019s care until that spouse has less than $1,500\u2014at which point Medicaid eligibility is possible. Ohio Admin. Code 5101:1-39-05(B)(11). If the Community Spouse uses resources above the amount allocated to him by the CSRA, then it is deemed an \u201cimproper transfer\u201d because resources have been -3- Case No. 8-11-18 transferred away from the Institutionalized Spouse\u2019s share. See Ohio Admin. Code 5101:1-39-07. {\u00b65} Here, the Agency determined that Helen and Bobby owned assets totaling $119,272. Accordingly, Bobby\u2019s CSRA was $59,636 or half of the couple\u2019s total combined assets as of the resource",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "facility. Under the applicable law, she is considered the \u201cInstitutionalized Spouse.\u201d Helen\u2019s husband, Bobby, continues to reside in the couple\u2019s home and is considered the \u201cCommunity Spouse\u201d.1 {\u00b63} Prior to applying for Medicaid coverage for her nursing home care, the two following transfers of Helen and Bobby\u2019s assets were made. On June 9, 2010, the couple transferred funds in the amount of $17,114.05 to Bobby\u2019s son, 1 Section 5101:1-39-36.1 (B) provides the following definitions relevant to this case. (2)\u201cCommunity spouse\u201d describes an individual who is not in a medical institution or nursing facility and has an institutionalized spouse .*.*.*. (3)\u201cInstitutionalized spouse\u201d describes an individual who receives long term care services in a medical institution, a long term care facility, under a [a qualified program] for at least thirty consecutive days. -2- Case No. 8-11-18 Helen\u2019s step-son. On July 28, 2010, Helen and Bobby transferred their home out of their individual names to a revocable trust, the \u201cBobby Williams Family Trust,\u201d via a quitclaim deed. The trust was created by Bobby for his sole benefit and listed Bobby as the initial trustee in the trust document. {\u00b64} On August 18, 2010, Helen\u2019s Authorized Representative (\u201cAR\u201d) applied for Medicaid benefits on her behalf. The Agency then calculated the Community Spouse Resource Allowance amount (the \u201cCSRA\u201d), which is a capped, formula based amount of the couple\u2019s joint resources that the Community Spouse is allowed to retain to live on when the institutionalized spouse applies for Medicaid coverage of her nursing facility expenses. See Wisconsin Dept. of Health and Family Services v. Blumer, 534 U.S. 473, 482-83 (2002); Ohio Admin. Code 5101:1-39-36.1. The remaining resources are deemed available to the Institutionalized Spouse for the purpose of calculating her Medicaid eligibility. See Ohio Admin. Code 5101:1-39-36; Ohio Admin. Code 5101:1-39-36.1. Specifically, the remainder of the couple\u2019s assets are to be used for the Institutionalized Spouse\u2019s care until that spouse has less than $1,500\u2014at which point Medicaid eligibility is possible. Ohio Admin. Code 5101:1-39-05(B)(11). If the Community Spouse uses resources above the amount allocated to him by the CSRA, then it is deemed an \u201cimproper transfer\u201d because resources have been -3- Case No. 8-11-18 transferred away from the Institutionalized Spouse\u2019s share. See Ohio Admin. Code 5101:1-39-07. {\u00b65} Here, the Agency determined that Helen and Bobby owned assets totaling $119,272. Accordingly, Bobby\u2019s CSRA was $59,636 or half of the couple\u2019s total combined assets as of the resource",
+    "label": "Human Written",
+    "ai_assistance_score": 4.226632881909609e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2631,
+    "word_count": 400,
+    "token_length": 706,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

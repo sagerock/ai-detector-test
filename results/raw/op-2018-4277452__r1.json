@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2018-4277452",
+ "scanned_at_utc": "2026-08-21T14:15:43+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "7d5b3989115a439747979bd7193925f66f1916faa03ca2f294672fa5dabd1d80",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "court failed to instruct the jury on the elements of the underlying felony of armed robbery. Both parties further acknowledge that, in Harrell v. State, 134 So. 3d 266, 275 (\u00b630) (Miss. 2014), the Mississippi Supreme Court overruled its prior precedent and held that \u201cit is always and in every case reversible error for the courts of Mississippi to deny an accused the right to have a jury decide guilt as to each and every element.\u201d1 In light of Harrell, the circuit court\u2019s failure here to instruct the jury on the elements of the underlying felony of armed robbery warrants the reversal of Waldrop\u2019s capital-murder conviction. We therefore reverse his conviction and remand this case for a new trial. FACTS \u00b63. On August 20, 2014, a Forrest County grand jury indicted Waldrop for capital murder during the commission of an armed robbery. The indictment charged the following: [Waldrop,] in Forrest County, Mississippi, on or about August 1, 2013, did then and there willfully, unlawfully[,] and feloniously, and with or without any design to effect . . . death, kill and murder Robert Williams, a human being, while in the commission of the crime and felony of [r]obbery with a deadly weapon . . . . \u00b64. At Waldrop\u2019s trial, prior to submitting the case to the jury, the circuit court instructed the jury as follows on the elements of capital murder: 1 Prior to Harrell, the supreme court ruled in Kolberg v. State, 829 So. 2d 29, 50-51 (\u00b640) (Miss. 2002), that, consistent with United States Supreme Court precedent, a trial court\u2019s failure to instruct a jury on the elements of the underlying felony in a capital-murder trial was subject to harmless-error analysis rather than automatic reversal. In Harrell, however, the supreme court revisited\u2014and ultimately reversed\u2014its holding in Kolberg. Harrell, 134 So. 3d at 275 (\u00b630). 2 Daylon Waldrop has been charged with the offense of capital murder. If you find from the evidence in this case beyond a reasonable doubt that: 1. On or about August 1, 2013[,] in Forrest County, Mississippi; 2. . . . Robert Williams was a human being; 3. . . . Daylon Waldrop[,] with or without any design to effect death[,] and without authority of law, . . . did kill Robert Williams; 4. While Daylon Waldrop was engaged in the commission of the crime of robbery, then you shall find the [D]efendant guilty",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "court failed to instruct the jury on the elements of the underlying felony of armed robbery. Both parties further acknowledge that, in Harrell v. State, 134 So. 3d 266, 275 (\u00b630) (Miss. 2014), the Mississippi Supreme Court overruled its prior precedent and held that \u201cit is always and in every case reversible error for the courts of Mississippi to deny an accused the right to have a jury decide guilt as to each and every element.\u201d1 In light of Harrell, the circuit court\u2019s failure here to instruct the jury on the elements of the underlying felony of armed robbery warrants the reversal of Waldrop\u2019s capital-murder conviction. We therefore reverse his conviction and remand this case for a new trial. FACTS \u00b63. On August 20, 2014, a Forrest County grand jury indicted Waldrop for capital murder during the commission of an armed robbery. The indictment charged the following: [Waldrop,] in Forrest County, Mississippi, on or about August 1, 2013, did then and there willfully, unlawfully[,] and feloniously, and with or without any design to effect . . . death, kill and murder Robert Williams, a human being, while in the commission of the crime and felony of [r]obbery with a deadly weapon . . . . \u00b64. At Waldrop\u2019s trial, prior to submitting the case to the jury, the circuit court instructed the jury as follows on the elements of capital murder: 1 Prior to Harrell, the supreme court ruled in Kolberg v. State, 829 So. 2d 29, 50-51 (\u00b640) (Miss. 2002), that, consistent with United States Supreme Court precedent, a trial court\u2019s failure to instruct a jury on the elements of the underlying felony in a capital-murder trial was subject to harmless-error analysis rather than automatic reversal. In Harrell, however, the supreme court revisited\u2014and ultimately reversed\u2014its holding in Kolberg. Harrell, 134 So. 3d at 275 (\u00b630). 2 Daylon Waldrop has been charged with the offense of capital murder. If you find from the evidence in this case beyond a reasonable doubt that: 1. On or about August 1, 2013[,] in Forrest County, Mississippi; 2. . . . Robert Williams was a human being; 3. . . . Daylon Waldrop[,] with or without any design to effect death[,] and without authority of law, . . . did kill Robert Williams; 4. While Daylon Waldrop was engaged in the commission of the crime of robbery, then you shall find the [D]efendant guilty",
+    "label": "Human Written",
+    "ai_assistance_score": 0.0006188127445057034,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2342,
+    "word_count": 400,
+    "token_length": 608,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

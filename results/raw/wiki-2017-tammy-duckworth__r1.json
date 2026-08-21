@@ -1,0 +1,36 @@
+{
+ "doc_id": "wiki-2017-tammy-duckworth",
+ "scanned_at_utc": "2026-08-21T15:04:10+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "0a6b7051f079008d5cb38267ff972014df5cb96bb7f5798e1dc3f9dd298bf425",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Ladda Tammy Duckworth (born March 12, 1968) is an American politician and retired U.S. Army Lieutenant Colonel, serving as the junior United States Senator for Illinois since 2017. A member of the Democratic Party, she earlier represented Illinois' 8th district for two terms (2013\u20132017) in the United States House of Representatives. Before seeking elective office, she served as Assistant Secretary for Public and Intergovernmental Affairs in the United States Department of Veterans Affairs (2009-2011), and she was the Director of the Illinois Department of Veterans Affairs (2006-2009). In the 2016 election, Duckworth defeated incumbent Republican Senator Mark Kirk for the seat in the United States Senate. Duckworth was the first Asian American woman elected to Congress in Illinois, the first disabled woman to be elected to Congress, and the first member of Congress born in Thailand. Her father, an American, and her Thai-Chinese mother were working and living there at the time. Duckworth is the second Asian-American woman serving in the U.S. Senate after Mazie Hirono and next to Kamala Harris. An Iraq War veteran, Duckworth served as a U.S. Army helicopter pilot and suffered severe combat wounds, losing both of her legs and damaging her right arm. She was the first female double amputee from the war. Tammy Duckworth was born in Bangkok, Thailand, the daughter of Lamai Sompornpairin and Franklin Duckworth. Her father, who died in 2005, was a U.S. Marine veteran who traced his family's American roots to the American Revolutionary War. Her mother is Thai, of Chinese descent. Because of her father's work with the United Nations and international companies in refugee, housing, and development programs, the family moved around Southeast Asia. Duckworth became fluent in Thai and Indonesian, in addition to English. Duckworth attended Singapore American School, and for a few months in her senior year was at the International School Bangkok. The family settled in Hawaii when she was sixteen. Her father became unemployed for a time and the family relied on public assistance. Following in the footsteps of her father, who served in World War II, and ancestors who served in the Revolutionary War, Duckworth also worked as a staff supervisor at Rotary International headquarters in Evanston, Illinois. Duckworth was working towards a Ph.D. in political science at Northern Illinois University, with research interests in the political economy and public health in southeast Asia, when she was deployed to Iraq in 2004. from",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Ladda Tammy Duckworth (born March 12, 1968) is an American politician and retired U.S. Army Lieutenant Colonel, serving as the junior United States Senator for Illinois since 2017. A member of the Democratic Party, she earlier represented Illinois' 8th district for two terms (2013\u20132017) in the United States House of Representatives. Before seeking elective office, she served as Assistant Secretary for Public and Intergovernmental Affairs in the United States Department of Veterans Affairs (2009-2011), and she was the Director of the Illinois Department of Veterans Affairs (2006-2009). In the 2016 election, Duckworth defeated incumbent Republican Senator Mark Kirk for the seat in the United States Senate. Duckworth was the first Asian American woman elected to Congress in Illinois, the first disabled woman to be elected to Congress, and the first member of Congress born in Thailand. Her father, an American, and her Thai-Chinese mother were working and living there at the time. Duckworth is the second Asian-American woman serving in the U.S. Senate after Mazie Hirono and next to Kamala Harris. An Iraq War veteran, Duckworth served as a U.S. Army helicopter pilot and suffered severe combat wounds, losing both of her legs and damaging her right arm. She was the first female double amputee from the war. Tammy Duckworth was born in Bangkok, Thailand, the daughter of Lamai Sompornpairin and Franklin Duckworth. Her father, who died in 2005, was a U.S. Marine veteran who traced his family's American roots to the American Revolutionary War. Her mother is Thai, of Chinese descent. Because of her father's work with the United Nations and international companies in refugee, housing, and development programs, the family moved around Southeast Asia. Duckworth became fluent in Thai and Indonesian, in addition to English. Duckworth attended Singapore American School, and for a few months in her senior year was at the International School Bangkok. The family settled in Hawaii when she was sixteen. Her father became unemployed for a time and the family relied on public assistance. Following in the footsteps of her father, who served in World War II, and ancestors who served in the Revolutionary War, Duckworth also worked as a staff supervisor at Rotary International headquarters in Evanston, Illinois. Duckworth was working towards a Ph.D. in political science at Northern Illinois University, with research interests in the political economy and public health in southeast Asia, when she was deployed to Iraq in 2004. from",
+    "label": "Human Written",
+    "ai_assistance_score": 0.0001627154997549951,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2545,
+    "word_count": 400,
+    "token_length": 546,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

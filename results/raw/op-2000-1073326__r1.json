@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2000-1073326",
+ "scanned_at_utc": "2026-08-21T14:11:08+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "2538d6cbe044df098d9538e928ed66c754bba128cabfcdf3211428dd7b4ffc25",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Terry Tedder and Maurice Tedder. Carol A. M. Hayden, Memphis, Tennessee, for the appellee Union Planters Corporation d/b/a Union Planters Bank. OPINION Plaintiff/Appellant Terry Tedder (\u201cTedder\u201d) worked full-time for Defendant/Appellee Union Planters Corporation (\u201cUnion Planters\u201d) from 1977 until she took early retirement in 1994. In 1995, Tedder began working for Norrell Services, Inc. (\u201cNorrell\u201d), a temporary employment agency, and was assigned to work at Union Planters. She continued to work there until she was injured on January 20, 1998. On that date, Tedder was exiting her car in the Union Planters parking lot to report to work at Union Planters, when she slipped and fell on an icy patch in the parking lot. Under the terms of the personal service agreement between Norrell and Union Planters, Norrell agreed to \u201cmaintain at its expense . . .Workers\u2019 Compensation and Employer\u2019s Liability Insurance.\u201d The agreement stated that persons whom Norrell assigned to provide services to Union Planters were Norrell employees and that Norrell retained the power to \u201crecruit, interview, test, select, hire, and train\u201d them. The agreement included an indemnification clause in which Norrell agreed to indemnify Union Planters for any tort liability caused by Norrell employees, but not for liability caused by Union Planters employees. In November 1998, Tedder and her husband, Maurice Tedder, filed a complaint against Union Planters, alleging negligence and a loss of consortium.1 In its answer, Union Planters asserted that Tedder was an employee of Union Planters and that, under the loaned servant doctrine, her exclusive remedy was under the Tennessee Workers\u2019 Compensation Law, Tennessee Code Annotated \u00a7 50-6-101 et seq. Union Planters later filed a motion for summary judgment asserting that Tedder\u2019s claim was barred under the workers\u2019 compensation statutes. The trial court granted Union Planters\u2019s summary judgment motion. From this order, Tedder now appeals. Since only questions of law are involved, there is no presumption of correctness regarding the trial court's grant of summary judgment. See Carvell v. Bottoms, 900 S.W.2d 23, 26 (Tenn. 1995). Therefore, our review of the trial court\u2019s grant of summary judgment is de novo on the record before this Court. See id. Under the loaned servant doctrine, a temporary or special worker becomes a co-employee of a special employer for the purposes of the workers\u2019 compensation statutes if: (a) [t]he employee has made a contract of hire, express or implied, with the special employer; (b) [t]he work being done is",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Terry Tedder and Maurice Tedder. Carol A. M. Hayden, Memphis, Tennessee, for the appellee Union Planters Corporation d/b/a Union Planters Bank. OPINION Plaintiff/Appellant Terry Tedder (\u201cTedder\u201d) worked full-time for Defendant/Appellee Union Planters Corporation (\u201cUnion Planters\u201d) from 1977 until she took early retirement in 1994. In 1995, Tedder began working for Norrell Services, Inc. (\u201cNorrell\u201d), a temporary employment agency, and was assigned to work at Union Planters. She continued to work there until she was injured on January 20, 1998. On that date, Tedder was exiting her car in the Union Planters parking lot to report to work at Union Planters, when she slipped and fell on an icy patch in the parking lot. Under the terms of the personal service agreement between Norrell and Union Planters, Norrell agreed to \u201cmaintain at its expense . . .Workers\u2019 Compensation and Employer\u2019s Liability Insurance.\u201d The agreement stated that persons whom Norrell assigned to provide services to Union Planters were Norrell employees and that Norrell retained the power to \u201crecruit, interview, test, select, hire, and train\u201d them. The agreement included an indemnification clause in which Norrell agreed to indemnify Union Planters for any tort liability caused by Norrell employees, but not for liability caused by Union Planters employees. In November 1998, Tedder and her husband, Maurice Tedder, filed a complaint against Union Planters, alleging negligence and a loss of consortium.1 In its answer, Union Planters asserted that Tedder was an employee of Union Planters and that, under the loaned servant doctrine, her exclusive remedy was under the Tennessee Workers\u2019 Compensation Law, Tennessee Code Annotated \u00a7 50-6-101 et seq. Union Planters later filed a motion for summary judgment asserting that Tedder\u2019s claim was barred under the workers\u2019 compensation statutes. The trial court granted Union Planters\u2019s summary judgment motion. From this order, Tedder now appeals. Since only questions of law are involved, there is no presumption of correctness regarding the trial court's grant of summary judgment. See Carvell v. Bottoms, 900 S.W.2d 23, 26 (Tenn. 1995). Therefore, our review of the trial court\u2019s grant of summary judgment is de novo on the record before this Court. See id. Under the loaned servant doctrine, a temporary or special worker becomes a co-employee of a special employer for the purposes of the workers\u2019 compensation statutes if: (a) [t]he employee has made a contract of hire, express or implied, with the special employer; (b) [t]he work being done is",
+    "label": "Human Written",
+    "ai_assistance_score": 6.669566937489435e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2581,
+    "word_count": 400,
+    "token_length": 608,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2018-4317822",
+ "scanned_at_utc": "2026-08-21T14:12:36+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "bc208d935b2cb444598ade9735d0650807a896b6c267486717eaeee9a73f8786",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "County, Ohio. In return, Discovery agreed to pay Wildcat $13.85 per foot drilled and $11,000.00 per day of work on the well. The drilling was to commence on December 31, 2014. Pursuant to the contract, Discovery was required to pay any invoices submitted by Wildcat within ten days. If Discovery disputed any item on any invoice, it was required to notify Wildcat about the dispute within five days of receiving the invoice. In addition, the contract specified that Discovery was required to timely pay any undisputed portion of the invoice. {\u00b63} The contract contained multiple indemnification clauses. One such clause, section 17.9.1 of the contract, provides: [Wildcat] shall assume full responsibility for and shall defend, indemnify, and hold [Discovery] and its joint owners harmless from and against any loss, damage, expense, claim, fine and penalty, demand, or liability for pollution or contamination, including control and removal thereof, that originates on or above the surface of the land or water from spills, leaks, or discharges of motor fuels, lubricants, and oils; pipe dope; paints and solvents; ballast, bilge, sludge, and garbage; and other liquids or solids in possession and control of [Wildcat]. These obligations are assumed without regard to the negligence of any party or parties. Complaint Exhibit A. Case No. 17 MA 0018 \u20133\u2013 {\u00b64} Wildcat completed drilling the well. On February 13, 2015, Wildcat sent Discovery an invoice for the drilling services provided. The invoice charged Discovery $190,350.37. At no point did Discovery pay any portion of the invoice amount. {\u00b65} The reason Discovery did not pay was because it was fined by the Ohio Department of Natural Resources (ODNR) for Wildcat\u2019s drilling practices. On January 7, 2015, an inspector from the ODNR was on the site where Wildcat was drilling the well. The inspector tested the water on the well site and determined that Wildcat was illegally using brine water in its drilling operation. Discovery was fined by the ODNR for Wildcat\u2019s supposed use of brine water while drilling the surface casing. The ODNR issued a compliance notice to Discovery and Discovery paid $50,000.00 in fines for the brine water issue. Discovery paid the ODNR in March of 2015. {\u00b66} After Discovery paid the ODNR fine, Discovery requested that Wildcat indemnify it fully for the fine. Wildcat refused. In return, Discovery refused to pay any portion of the invoice until Wildcat agreed to fully indemnify it for the",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "County, Ohio. In return, Discovery agreed to pay Wildcat $13.85 per foot drilled and $11,000.00 per day of work on the well. The drilling was to commence on December 31, 2014. Pursuant to the contract, Discovery was required to pay any invoices submitted by Wildcat within ten days. If Discovery disputed any item on any invoice, it was required to notify Wildcat about the dispute within five days of receiving the invoice. In addition, the contract specified that Discovery was required to timely pay any undisputed portion of the invoice. {\u00b63} The contract contained multiple indemnification clauses. One such clause, section 17.9.1 of the contract, provides: [Wildcat] shall assume full responsibility for and shall defend, indemnify, and hold [Discovery] and its joint owners harmless from and against any loss, damage, expense, claim, fine and penalty, demand, or liability for pollution or contamination, including control and removal thereof, that originates on or above the surface of the land or water from spills, leaks, or discharges of motor fuels, lubricants, and oils; pipe dope; paints and solvents; ballast, bilge, sludge, and garbage; and other liquids or solids in possession and control of [Wildcat]. These obligations are assumed without regard to the negligence of any party or parties. Complaint Exhibit A. Case No. 17 MA 0018 \u20133\u2013 {\u00b64} Wildcat completed drilling the well. On February 13, 2015, Wildcat sent Discovery an invoice for the drilling services provided. The invoice charged Discovery $190,350.37. At no point did Discovery pay any portion of the invoice amount. {\u00b65} The reason Discovery did not pay was because it was fined by the Ohio Department of Natural Resources (ODNR) for Wildcat\u2019s drilling practices. On January 7, 2015, an inspector from the ODNR was on the site where Wildcat was drilling the well. The inspector tested the water on the well site and determined that Wildcat was illegally using brine water in its drilling operation. Discovery was fined by the ODNR for Wildcat\u2019s supposed use of brine water while drilling the surface casing. The ODNR issued a compliance notice to Discovery and Discovery paid $50,000.00 in fines for the brine water issue. Discovery paid the ODNR in March of 2015. {\u00b66} After Discovery paid the ODNR fine, Discovery requested that Wildcat indemnify it fully for the fine. Wildcat refused. In return, Discovery refused to pay any portion of the invoice until Wildcat agreed to fully indemnify it for the",
+    "label": "Human Written",
+    "ai_assistance_score": 1.9846176655846648e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2482,
+    "word_count": 400,
+    "token_length": 591,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

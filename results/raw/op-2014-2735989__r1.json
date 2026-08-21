@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2014-2735989",
+ "scanned_at_utc": "2026-08-21T14:13:21+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "765b5a33ae90091b88cb79c07a7c1d547416f9c914adc86d211d244a2ee7ed42",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "that Harrelson On various occasions between February 15, 1995, and August 1, 1998, did unlawfully handle, fondle or make an assault in a lewd, lascivious, or indecent manner upon L.A., a child under sixteen years of age, by Touching in a Lewd or Lascivious Manner the Genitals, Genital Area, or Buttocks of L.A. or Enticed the Child to so Touch Him, contrary to Section 800.04(1), Florida Statutes. The State timely filed a Notice of Evidence of Other Crimes stating it intended to introduce evidence showing that during the same time period, Harrelson committed similar acts on the same victim in Gulf County, Florida. Before commencing trial, the court considered the admissibility of the collateral crime, or Williams1 rule, evidence. See \u00a7 90.404(2)(b)1., Fla. Stat. (providing that in child molestation prosecutions, evidence a defendant has committed other acts of child molestation is admissible \u201cand may be considered for its bearing on any matter to which it is relevant\u201d). The State explained the victim would testify to an incident during which Harrelson grabbed her hand and made 1 Williams v. State, 110 So. 2d 654 (Fla. 1959). 2 her touch his penis. The incident allegedly occurred at Harrelson\u2019s mother\u2019s home in Wewahitchka while Harrelson, the victim and her younger half-brother (Harrelson\u2019s son with the victim\u2019s mother) were spending the night, and the victim was sleeping on a pull-out couch. Defense counsel argued that under McLean v. State, 934 So. 2d 1248 (Fla. 2006), the trial court was required to first determine whether the evidence of a collateral crime was clear and convincing, and if so, then to determine, under section 90.403, Florida Statutes, if the danger of unfair prejudice to Harrelson would substantially outweigh the probative value of the evidence. Interestingly, counsel suggested it would be more efficient\u2014and possibly would avoid \u201chaving a mini trial\u201d\u2014if the trial court were to assume, initially, the evidence was clear and convincing, and proceed with the 90.403 analysis. The court obliged, and ruled it would not exclude the collateral crime evidence because of its \u201csubstantial similarity\u201d to the charged conduct. But then the court further ruled it need not make a finding of clear and convincing evidence because the collateral crime involved the same victim, the same conduct and the same timeframe as the charged offense. The victim was permitted to testify at trial about the Wewahitchka incident, telling the jury it was the first time",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "that Harrelson On various occasions between February 15, 1995, and August 1, 1998, did unlawfully handle, fondle or make an assault in a lewd, lascivious, or indecent manner upon L.A., a child under sixteen years of age, by Touching in a Lewd or Lascivious Manner the Genitals, Genital Area, or Buttocks of L.A. or Enticed the Child to so Touch Him, contrary to Section 800.04(1), Florida Statutes. The State timely filed a Notice of Evidence of Other Crimes stating it intended to introduce evidence showing that during the same time period, Harrelson committed similar acts on the same victim in Gulf County, Florida. Before commencing trial, the court considered the admissibility of the collateral crime, or Williams1 rule, evidence. See \u00a7 90.404(2)(b)1., Fla. Stat. (providing that in child molestation prosecutions, evidence a defendant has committed other acts of child molestation is admissible \u201cand may be considered for its bearing on any matter to which it is relevant\u201d). The State explained the victim would testify to an incident during which Harrelson grabbed her hand and made 1 Williams v. State, 110 So. 2d 654 (Fla. 1959). 2 her touch his penis. The incident allegedly occurred at Harrelson\u2019s mother\u2019s home in Wewahitchka while Harrelson, the victim and her younger half-brother (Harrelson\u2019s son with the victim\u2019s mother) were spending the night, and the victim was sleeping on a pull-out couch. Defense counsel argued that under McLean v. State, 934 So. 2d 1248 (Fla. 2006), the trial court was required to first determine whether the evidence of a collateral crime was clear and convincing, and if so, then to determine, under section 90.403, Florida Statutes, if the danger of unfair prejudice to Harrelson would substantially outweigh the probative value of the evidence. Interestingly, counsel suggested it would be more efficient\u2014and possibly would avoid \u201chaving a mini trial\u201d\u2014if the trial court were to assume, initially, the evidence was clear and convincing, and proceed with the 90.403 analysis. The court obliged, and ruled it would not exclude the collateral crime evidence because of its \u201csubstantial similarity\u201d to the charged conduct. But then the court further ruled it need not make a finding of clear and convincing evidence because the collateral crime involved the same victim, the same conduct and the same timeframe as the charged offense. The victim was permitted to testify at trial about the Wewahitchka incident, telling the jury it was the first time",
+    "label": "Human Written",
+    "ai_assistance_score": 1.9243421775172465e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2495,
+    "word_count": 400,
+    "token_length": 609,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

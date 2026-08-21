@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-1999-74057",
+ "scanned_at_utc": "2026-08-21T14:15:03+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "2e8900a827499575d767dd10678196ec3b2b13d6fc2cf41ba147670ffdbdaf30",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "an ownership interest in FTM. Wohlleber and Nina Miller received salaries, health insurance, and other perks. 1 Subsequently, FTM expanded into other product lines including golf clubs and sporting apparel. To assist FTM financially, Thrifty allowed FTM to use its Bank of America line of credit. Later, in 1987, Thrifty arranged for FTM to obtain its own line of credit with Bank of America, which Thrifty guaranteed. Originally, FTM's line of credit was for $10 million. That amount was increased to $20 million in 1989 and then to $25 million in 1990. All credit line requests were made by Miller. Initially, Miller requested letters of credit to purchase legitimate merchandise, but once FTM had its own line of credit, Miller began requesting letters of credit for nonexistent merchandise. Between 1986 and 1991, Miller reported monthly to Thrifty's board and officers that FTM's profits and sales were increasing. In reality, only FTM's debt was rising. Pacific Enterprises (\"Pacific\"), Thrifty's parent company, discovered this discrepancy in 1991 when it ordered an audit of FTM. At approximately the same time, Pacific received a phone call on its whistle blower hotline reporting that Miller had falsified records. These two incidents led Pacific to initiate an investigation into financial irregularities surrounding FTM. Pacific's investigators found that Miller had financed FTM using a series of fraudulent applications for letters of credit, bills of lading, and invoices. The scheme worked as follows: Miller would direct Nina Miller and Wohlleber to prepare an application for a letter of credit for one of two companies, Sports Marketing Limited (\"SML\") and Cactus Golf, on whose bank accounts Miller, Nina Miller, and Wohlleber had authority to write checks.2 The application would represent that the company wished to sell sporting goods to FTM and that a letter of credit would enable FTM to pay for the goods. Typically, Wohlleber signed the name Kevin Eger, Cactus Golf's owner, to the Cactus Golf application, and Nina Miller signed the name Steve Williams, SML's owner, to the SML application. Wohlleber and Nina Miller then sent the applications to Bank of America. If the bank approved the application, it would mail a letter of credit to the seller.3 The 2 At least one additional FTM employee and various bank employees also unknowingly assisted FTM with its fraudulent transactions. 3 The letters of credit for SML were mailed directly to FTM; the letters of credit for Cactus",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "an ownership interest in FTM. Wohlleber and Nina Miller received salaries, health insurance, and other perks. 1 Subsequently, FTM expanded into other product lines including golf clubs and sporting apparel. To assist FTM financially, Thrifty allowed FTM to use its Bank of America line of credit. Later, in 1987, Thrifty arranged for FTM to obtain its own line of credit with Bank of America, which Thrifty guaranteed. Originally, FTM's line of credit was for $10 million. That amount was increased to $20 million in 1989 and then to $25 million in 1990. All credit line requests were made by Miller. Initially, Miller requested letters of credit to purchase legitimate merchandise, but once FTM had its own line of credit, Miller began requesting letters of credit for nonexistent merchandise. Between 1986 and 1991, Miller reported monthly to Thrifty's board and officers that FTM's profits and sales were increasing. In reality, only FTM's debt was rising. Pacific Enterprises (\"Pacific\"), Thrifty's parent company, discovered this discrepancy in 1991 when it ordered an audit of FTM. At approximately the same time, Pacific received a phone call on its whistle blower hotline reporting that Miller had falsified records. These two incidents led Pacific to initiate an investigation into financial irregularities surrounding FTM. Pacific's investigators found that Miller had financed FTM using a series of fraudulent applications for letters of credit, bills of lading, and invoices. The scheme worked as follows: Miller would direct Nina Miller and Wohlleber to prepare an application for a letter of credit for one of two companies, Sports Marketing Limited (\"SML\") and Cactus Golf, on whose bank accounts Miller, Nina Miller, and Wohlleber had authority to write checks.2 The application would represent that the company wished to sell sporting goods to FTM and that a letter of credit would enable FTM to pay for the goods. Typically, Wohlleber signed the name Kevin Eger, Cactus Golf's owner, to the Cactus Golf application, and Nina Miller signed the name Steve Williams, SML's owner, to the SML application. Wohlleber and Nina Miller then sent the applications to Bank of America. If the bank approved the application, it would mail a letter of credit to the seller.3 The 2 At least one additional FTM employee and various bank employees also unknowingly assisted FTM with its fraudulent transactions. 3 The letters of credit for SML were mailed directly to FTM; the letters of credit for Cactus",
+    "label": "Human Written",
+    "ai_assistance_score": 7.135768100852147e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2506,
+    "word_count": 400,
+    "token_length": 560,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

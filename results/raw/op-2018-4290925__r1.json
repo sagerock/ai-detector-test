@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2018-4290925",
+ "scanned_at_utc": "2026-08-21T14:14:57+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "da66fce0b8a8c370b3ad68f589c461640330367be7d46e3622c3613b0901ad8c",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "appeal of the issue for lack of jurisdiction. I. Factual and Procedural Background In August 2015, Jane Smith (\u201cSmith\u201d),1 age 25, was approximately seven months pregnant and living with her boyfriend at his mother\u2019s house in Asheboro, North Carolina. At around 4:00 p.m. on 28 August 2015, Smith had an argument with her boyfriend\u2019s mother and left the residence. She walked to a gas station to purchase cigarettes. However, when Smith arrived to the gas station at 5:00 p.m., the clerk refused to sell cigarettes to her because she did not have identification. Smith saw defendant staring at her and asked him to purchase cigarettes for her; he agreed. Defendant invited Smith to purchase crack cocaine, and she did so. Smith and defendant met with a drug dealer, purchased crack cocaine, and then walked to a shed at defendant\u2019s parents\u2019 house, which contained a bed, chairs, and a television. At the shed, Smith injected crack cocaine, while defendant smoked it and some marijuana. After using the drugs, Smith walked back to the gas station to meet a friend. defendant subsequently returned to the gas station and invited Smith to use more drugs; she agreed. They walked to a parking lot surrounded by a dark, wooded area. 1 A pseudonym is used for the privacy of the victim. -2- STATE V. GENTLE Opinion of the Court Once they were in the parking lot, defendant approached Smith from behind and threatened her. Smith resisted and attempted to flee, but defendant caught up to her near the stairs of the parking lot. As Smith struggled to protect her stomach, defendant dragged her down the stairs, forced her into the woods, and removed her clothing. Defendant disrobed and inserted his fingers into Smith\u2019s anus and vagina. She told him to stop, but he did not. He then placed his penis in her anus and vagina. Smith did not consent to these acts. Afterwards, defendant repeatedly expressed concern that Smith would contact law enforcement, but she assured him that she would not, due to outstanding warrants for her arrest. Instead, she asked if they could return to defendant\u2019s shed. Defendant led Smith back to the shed, where they both fell asleep. When Smith awoke, defendant prevented her from leaving. She told defendant that she needed to get to a hospital to receive treatment for the scrapes she incurred during the struggle. She changed clothes, and",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "appeal of the issue for lack of jurisdiction. I. Factual and Procedural Background In August 2015, Jane Smith (\u201cSmith\u201d),1 age 25, was approximately seven months pregnant and living with her boyfriend at his mother\u2019s house in Asheboro, North Carolina. At around 4:00 p.m. on 28 August 2015, Smith had an argument with her boyfriend\u2019s mother and left the residence. She walked to a gas station to purchase cigarettes. However, when Smith arrived to the gas station at 5:00 p.m., the clerk refused to sell cigarettes to her because she did not have identification. Smith saw defendant staring at her and asked him to purchase cigarettes for her; he agreed. Defendant invited Smith to purchase crack cocaine, and she did so. Smith and defendant met with a drug dealer, purchased crack cocaine, and then walked to a shed at defendant\u2019s parents\u2019 house, which contained a bed, chairs, and a television. At the shed, Smith injected crack cocaine, while defendant smoked it and some marijuana. After using the drugs, Smith walked back to the gas station to meet a friend. defendant subsequently returned to the gas station and invited Smith to use more drugs; she agreed. They walked to a parking lot surrounded by a dark, wooded area. 1 A pseudonym is used for the privacy of the victim. -2- STATE V. GENTLE Opinion of the Court Once they were in the parking lot, defendant approached Smith from behind and threatened her. Smith resisted and attempted to flee, but defendant caught up to her near the stairs of the parking lot. As Smith struggled to protect her stomach, defendant dragged her down the stairs, forced her into the woods, and removed her clothing. Defendant disrobed and inserted his fingers into Smith\u2019s anus and vagina. She told him to stop, but he did not. He then placed his penis in her anus and vagina. Smith did not consent to these acts. Afterwards, defendant repeatedly expressed concern that Smith would contact law enforcement, but she assured him that she would not, due to outstanding warrants for her arrest. Instead, she asked if they could return to defendant\u2019s shed. Defendant led Smith back to the shed, where they both fell asleep. When Smith awoke, defendant prevented her from leaving. She told defendant that she needed to get to a hospital to receive treatment for the scrapes she incurred during the struggle. She changed clothes, and",
+    "label": "Human Written",
+    "ai_assistance_score": 3.87597392546013e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2365,
+    "word_count": 400,
+    "token_length": 511,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2018-5138705",
+ "scanned_at_utc": "2026-08-21T14:13:06+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "49d35fc9badcb725ee1643cb2ee275a1d31dbb09f91ba68ef42f01163d51579d",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "claims are barred by the statute of limitations, we affirm on that basis without reaching the alternative ground for dismissal. BACKGROUND \u00b62 Young Resources, Samuel N. Chournos, and Kerry Zundel formed PPLR for the purpose of developing a landfill in Box Elder County, Utah. They agreed that Zundel would act as manager and provide the necessary capital, and that Chournos and Young Resources would contribute real property that they separately owned to serve as the site of the landfill (the Landfill Area). Under PPLR\u2019s Operating Agreement, Zundel did not have authority to \u201c[e]ncumber or do anything affecting the use of Company Property without prior consent of all Members.\u201d \u00b63 Before conveying the real property to PPLR, Young Resources and Chournos entered into an Amended Operating Agreement with Zundel. Young Resources and Chournos agreed to contribute equal property acreage to PPLR for the Landfill Area, reserving the \u201cappurtenant water or mineral rights.\u201d In addition, the Amended Operating Agreement provided that Young Resources and Chournos would retain a reversionary interest in the property, which entitled them to the return of their property if the Landfill Area had not been developed within five years. \u00b64 To facilitate the transfer of Young Resources\u2019 property to PPLR, Zundel provided Young Resources with a warranty deed (the First Warranty Deed). Contrary to the terms of the Amended Operating Agreement, the First Warranty Deed purported to transfer all of Young Resources\u2019 interest in the property without any reservations or conditions. Young Resources executed the First Warranty Deed, and Zundel recorded it in April 2003. 20160655-CA 2 2018 UT App 99 Young Resources v. Promontory Landfill \u00b65 In 2004, PPLR transferred the Landfill Area to Promontory Landfill, another company managed by Zundel. According to Young Resources, Zundel made this transfer \u201cwithout notice to [PPLR\u2019s] members and without receiving authority from all members.\u201d Like the First Warranty Deed, the deed transferring the Landfill Area to Promontory Landfill (the Second Warranty Deed) did not contain a right of reverter or the reservation of water and mineral rights. The Second Warranty Deed was recorded in April 2004. \u00b66 In 2016, Young Resources sued Promontory Landfill and PPLR (collectively, Defendants), alleging that Zundel lacked authority to transfer the property and that any transfer was subject to the conditions contained in the Amended Operating Agreement. The Claims 1, 2, 3, and 7 are at issue in this appeal. In Claim 1, Young Resources",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "claims are barred by the statute of limitations, we affirm on that basis without reaching the alternative ground for dismissal. BACKGROUND \u00b62 Young Resources, Samuel N. Chournos, and Kerry Zundel formed PPLR for the purpose of developing a landfill in Box Elder County, Utah. They agreed that Zundel would act as manager and provide the necessary capital, and that Chournos and Young Resources would contribute real property that they separately owned to serve as the site of the landfill (the Landfill Area). Under PPLR\u2019s Operating Agreement, Zundel did not have authority to \u201c[e]ncumber or do anything affecting the use of Company Property without prior consent of all Members.\u201d \u00b63 Before conveying the real property to PPLR, Young Resources and Chournos entered into an Amended Operating Agreement with Zundel. Young Resources and Chournos agreed to contribute equal property acreage to PPLR for the Landfill Area, reserving the \u201cappurtenant water or mineral rights.\u201d In addition, the Amended Operating Agreement provided that Young Resources and Chournos would retain a reversionary interest in the property, which entitled them to the return of their property if the Landfill Area had not been developed within five years. \u00b64 To facilitate the transfer of Young Resources\u2019 property to PPLR, Zundel provided Young Resources with a warranty deed (the First Warranty Deed). Contrary to the terms of the Amended Operating Agreement, the First Warranty Deed purported to transfer all of Young Resources\u2019 interest in the property without any reservations or conditions. Young Resources executed the First Warranty Deed, and Zundel recorded it in April 2003. 20160655-CA 2 2018 UT App 99 Young Resources v. Promontory Landfill \u00b65 In 2004, PPLR transferred the Landfill Area to Promontory Landfill, another company managed by Zundel. According to Young Resources, Zundel made this transfer \u201cwithout notice to [PPLR\u2019s] members and without receiving authority from all members.\u201d Like the First Warranty Deed, the deed transferring the Landfill Area to Promontory Landfill (the Second Warranty Deed) did not contain a right of reverter or the reservation of water and mineral rights. The Second Warranty Deed was recorded in April 2004. \u00b66 In 2016, Young Resources sued Promontory Landfill and PPLR (collectively, Defendants), alleging that Zundel lacked authority to transfer the property and that any transfer was subject to the conditions contained in the Amended Operating Agreement. The Claims 1, 2, 3, and 7 are at issue in this appeal. In Claim 1, Young Resources",
+    "label": "Human Written",
+    "ai_assistance_score": 2.7106929337605834e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2564,
+    "word_count": 400,
+    "token_length": 592,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

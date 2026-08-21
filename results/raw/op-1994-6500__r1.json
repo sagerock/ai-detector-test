@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-1994-6500",
+ "scanned_at_utc": "2026-08-21T14:13:49+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "2e094e0f035c523503d921de4c0b7f4b92ca9b80c6c5391ee883a05270bbf9ba",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Jimmy at Seagoville. The next morning, Libby and her daughter went to the house of Cathy Curry, Jack's longtime girlfriend, to pick up a flatbed truck belonging to Jimmy. Jack was there, although he usually worked at that time, and backed the truck out for Libby. That evening, Jack and Curry went to the house where Libby was staying, where Jack helped load Libby's suitcase and some tools into his van. Libby told her daughter that she was going on a canoe trip and then left in Jack's van. On August 26 Jimmy walked away from a work detail and drove away in a truck containing clothes and money. He soon left that truck and then, either in the flatbed truck or another vehicle, picked up Libby and drove north. In Oklahoma, they stopped to buy a travel trailer for $3,000 cash, and were seen driving his flatbed truck. On December 15, 1992, U.S. Marshals executed a search warrant on Curry's house and recovered a receipt for an express mail package sent to \"Libby Shull\" in Bonners Ferry, Idaho, a small town near the Canadian border. During questioning, Curry said that Jack told her she should not send anything else because that was \"the quickest way for them to get caught.\" The marshals also searched 2 Jack's home and found a sketch allegedly showing positions for Jimmy's getaway vehicles. U.S. Marshals captured Jimmy and Libby in Bonners Ferry on December 15, 1992. In their trailer, marshals found money bands that had held cash. They also found a calendar and expense book indicating that Jack had sent the couple $200 after the escape. Jack Smithers was charged in two counts of a four count indictment that also named Jimmy, Libby, and Curry. Count 1 charged Jack with conspiring1 to commit the crimes of escape,2 assisting an escape,3 and harboring or concealing a fugitive.4 Count 3 charged him with the substantive offense of assisting an escape. Jimmy and Libby pled guilty to the offenses for which they were charged, while Jack and Curry went to trial. At trial, Jack conceded that he had sent Jimmy and Libby money after the escape, and that he had known their location but had not disclosed it to law enforcement officers. The court instructed the jurors that these acts, standing alone, could not constitute the crime of harboring and concealing. The jury found Jack Smithers and",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Jimmy at Seagoville. The next morning, Libby and her daughter went to the house of Cathy Curry, Jack's longtime girlfriend, to pick up a flatbed truck belonging to Jimmy. Jack was there, although he usually worked at that time, and backed the truck out for Libby. That evening, Jack and Curry went to the house where Libby was staying, where Jack helped load Libby's suitcase and some tools into his van. Libby told her daughter that she was going on a canoe trip and then left in Jack's van. On August 26 Jimmy walked away from a work detail and drove away in a truck containing clothes and money. He soon left that truck and then, either in the flatbed truck or another vehicle, picked up Libby and drove north. In Oklahoma, they stopped to buy a travel trailer for $3,000 cash, and were seen driving his flatbed truck. On December 15, 1992, U.S. Marshals executed a search warrant on Curry's house and recovered a receipt for an express mail package sent to \"Libby Shull\" in Bonners Ferry, Idaho, a small town near the Canadian border. During questioning, Curry said that Jack told her she should not send anything else because that was \"the quickest way for them to get caught.\" The marshals also searched 2 Jack's home and found a sketch allegedly showing positions for Jimmy's getaway vehicles. U.S. Marshals captured Jimmy and Libby in Bonners Ferry on December 15, 1992. In their trailer, marshals found money bands that had held cash. They also found a calendar and expense book indicating that Jack had sent the couple $200 after the escape. Jack Smithers was charged in two counts of a four count indictment that also named Jimmy, Libby, and Curry. Count 1 charged Jack with conspiring1 to commit the crimes of escape,2 assisting an escape,3 and harboring or concealing a fugitive.4 Count 3 charged him with the substantive offense of assisting an escape. Jimmy and Libby pled guilty to the offenses for which they were charged, while Jack and Curry went to trial. At trial, Jack conceded that he had sent Jimmy and Libby money after the escape, and that he had known their location but had not disclosed it to law enforcement officers. The court instructed the jurors that these acts, standing alone, could not constitute the crime of harboring and concealing. The jury found Jack Smithers and",
+    "label": "Human Written",
+    "ai_assistance_score": 4.0750717744231224e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2305,
+    "word_count": 400,
+    "token_length": 529,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

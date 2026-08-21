@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2018-5138743",
+ "scanned_at_utc": "2026-08-21T14:13:15+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "bfc8c7118e5f5c685b2e132cad5368fc0cd502dc836c1dcae8c254046e399b36",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "of divorce, reserving several issues for trial. \u00b63 At a bench trial in 2014, the parties contested the issues of custody, child support, past-due child support, and unreimbursed child care expenses. Each party also alleged that the other party was in contempt of the court\u2019s prior orders and should therefore face sanctions. \u00b64 On Child\u2019s custody, the trial court made detailed findings. Among other things, it found that Pulham had remarried, had a son with her new husband, and was living in Tooele, Utah. The court also found that Pulham had been the primary caregiver of Child since birth and that, at the time of trial, Pulham was unemployed and was acting as the full-time caregiver of her younger son and Child. \u00b65 Regarding Kirsling, the court found that he was living in Taylorsville, Utah, with his girlfriend and her children, and that Kirsling\u2019s older son from a previous marriage lived with Kirsling part-time. The court also found that Kirsling had resided in various places, including Brigham City, Utah, and Phoenix, Arizona, for lengthy periods after the parties separated. The court found that even though Kirsling\u2019s \u201ccontact and visitation with [Child] ha[d] been inconsistent for much of that time,\u201d his contact had \u201cstabilized considerably\u201d in the year leading up to trial. 20150577-CA and 20160236-CA 2 2018 UT App 65 Pulham v. Kirsling \u00b66 Although Kirsling and Pulham agreed at trial that it would be in Child\u2019s best interest if they shared joint physical and legal custody, they sharply disagreed about the details of that custody, including where Child should be enrolled in school and with whom she should primarily reside. A custody evaluator prepared a custody evaluation and testified about it at trial. \u00b67 Kirsling requested a court order requiring Child to enroll in the school near his home in Taylorsville for three years, at which point Child would then transfer to the school near Pulham\u2019s home for the latter half of elementary school. The court rejected Kirsling\u2019s request, reasoning that his plan would require Child \u201cto spend considerable time commuting by car between Taylorsville and Tooele\u201d\u2014amounting to \u201cupwards of an hour each way, before school and after school\u201d\u2014and that it was not in Child\u2019s best interest to do so merely to accommodate Kirsling\u2019s preferred parenting plan. The court also reasoned that Kirsling\u2019s plan would require Child to change elementary schools and that such a plan, which would put Child",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "of divorce, reserving several issues for trial. \u00b63 At a bench trial in 2014, the parties contested the issues of custody, child support, past-due child support, and unreimbursed child care expenses. Each party also alleged that the other party was in contempt of the court\u2019s prior orders and should therefore face sanctions. \u00b64 On Child\u2019s custody, the trial court made detailed findings. Among other things, it found that Pulham had remarried, had a son with her new husband, and was living in Tooele, Utah. The court also found that Pulham had been the primary caregiver of Child since birth and that, at the time of trial, Pulham was unemployed and was acting as the full-time caregiver of her younger son and Child. \u00b65 Regarding Kirsling, the court found that he was living in Taylorsville, Utah, with his girlfriend and her children, and that Kirsling\u2019s older son from a previous marriage lived with Kirsling part-time. The court also found that Kirsling had resided in various places, including Brigham City, Utah, and Phoenix, Arizona, for lengthy periods after the parties separated. The court found that even though Kirsling\u2019s \u201ccontact and visitation with [Child] ha[d] been inconsistent for much of that time,\u201d his contact had \u201cstabilized considerably\u201d in the year leading up to trial. 20150577-CA and 20160236-CA 2 2018 UT App 65 Pulham v. Kirsling \u00b66 Although Kirsling and Pulham agreed at trial that it would be in Child\u2019s best interest if they shared joint physical and legal custody, they sharply disagreed about the details of that custody, including where Child should be enrolled in school and with whom she should primarily reside. A custody evaluator prepared a custody evaluation and testified about it at trial. \u00b67 Kirsling requested a court order requiring Child to enroll in the school near his home in Taylorsville for three years, at which point Child would then transfer to the school near Pulham\u2019s home for the latter half of elementary school. The court rejected Kirsling\u2019s request, reasoning that his plan would require Child \u201cto spend considerable time commuting by car between Taylorsville and Tooele\u201d\u2014amounting to \u201cupwards of an hour each way, before school and after school\u201d\u2014and that it was not in Child\u2019s best interest to do so merely to accommodate Kirsling\u2019s preferred parenting plan. The court also reasoned that Kirsling\u2019s plan would require Child to change elementary schools and that such a plan, which would put Child",
+    "label": "Human Written",
+    "ai_assistance_score": 2.6095740395248868e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2458,
+    "word_count": 400,
+    "token_length": 562,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

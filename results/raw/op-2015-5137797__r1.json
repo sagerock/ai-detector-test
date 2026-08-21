@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2015-5137797",
+ "scanned_at_utc": "2026-08-21T14:12:56+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "d48943c5581ed90c3c3c11f54bddbf2fee4b93f8261d05029b46790370afe1be",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Utah Rules of Civil Procedure, they had 20 days to answer. See Utah R. Civ. P. 12(a) (2013)(amended 2014). Brad Lawson filed a pro se answer one day late, on December 3, 2013. Neither Michaella Lawson nor Mikarose answered the complaint at that point. \u00b64 On December 9, 2013, the district court entered a default judgment against all three defendants. On December 18, 2013, Brad Lawson, again acting pro se, filed a motion to set aside or amend the default judgment as to all defendants. Crane-Jenkins opposed the motion as to Michaella Lawson and Mikarose. She argued that neither had answered the complaint, because Brad Lawson, a non-lawyer, could not represent them. Michaella Lawson then filed a pro se answer on January 13, 2014. Mikarose never answered. \u00b65 On January 17, 2014, an attorney entered an appearance as counsel for Michaella Lawson, Brad Lawson, and Mikarose. He withdrew as counsel two weeks later. Two days after that\u2014 and 58 days after the default judgment was entered\u2014a second attorney entered an appearance. This second attorney represented all three defendants at a March 19, 2014, hearing on Brad Lawson\u2019s pro se motion to set aside the default judgment. The second attorney argued that Brad Lawson\u2019s pro se motion should apply to all three defendants. The district court rejected this argument.1 It set aside the default judgment against Brad Lawson but ruled that Michaella Lawson and Mikarose would 1. Michaella Lawson and Mikarose do not challenge this ruling on appeal. 20140940-CA 2 2015 UT App 270 Crane-Jenkins v. Mikarose \u201aneed to file an entirely separate rule 60(b) motion\u201b within 10 days.2 \u00b66 Forty days later, the second attorney filed a rule 60(b) motion on behalf of Michaella Lawson and Mikarose. The motion asked the court to set aside the judgment under subsections (1) and (6) of rule 60(b). The court set the matter for hearing, but the second attorney did not appear at that hearing. The district court denied the motion as untimely, concluding that the motion was filed after the 90-day deadline for rule 60(b)(1) claims had expired. And of course the motion missed the 10-day deadline imposed by the court at the March 19, 2014, hearing. \u00b67 Two weeks later, a third attorney entered an appearance for Michaella Lawson and Mikarose. This attorney filed a second rule 60(b) motion, this time under subsections (4) and (6) only. He filed the motion",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Utah Rules of Civil Procedure, they had 20 days to answer. See Utah R. Civ. P. 12(a) (2013)(amended 2014). Brad Lawson filed a pro se answer one day late, on December 3, 2013. Neither Michaella Lawson nor Mikarose answered the complaint at that point. \u00b64 On December 9, 2013, the district court entered a default judgment against all three defendants. On December 18, 2013, Brad Lawson, again acting pro se, filed a motion to set aside or amend the default judgment as to all defendants. Crane-Jenkins opposed the motion as to Michaella Lawson and Mikarose. She argued that neither had answered the complaint, because Brad Lawson, a non-lawyer, could not represent them. Michaella Lawson then filed a pro se answer on January 13, 2014. Mikarose never answered. \u00b65 On January 17, 2014, an attorney entered an appearance as counsel for Michaella Lawson, Brad Lawson, and Mikarose. He withdrew as counsel two weeks later. Two days after that\u2014 and 58 days after the default judgment was entered\u2014a second attorney entered an appearance. This second attorney represented all three defendants at a March 19, 2014, hearing on Brad Lawson\u2019s pro se motion to set aside the default judgment. The second attorney argued that Brad Lawson\u2019s pro se motion should apply to all three defendants. The district court rejected this argument.1 It set aside the default judgment against Brad Lawson but ruled that Michaella Lawson and Mikarose would 1. Michaella Lawson and Mikarose do not challenge this ruling on appeal. 20140940-CA 2 2015 UT App 270 Crane-Jenkins v. Mikarose \u201aneed to file an entirely separate rule 60(b) motion\u201b within 10 days.2 \u00b66 Forty days later, the second attorney filed a rule 60(b) motion on behalf of Michaella Lawson and Mikarose. The motion asked the court to set aside the judgment under subsections (1) and (6) of rule 60(b). The court set the matter for hearing, but the second attorney did not appear at that hearing. The district court denied the motion as untimely, concluding that the motion was filed after the 90-day deadline for rule 60(b)(1) claims had expired. And of course the motion missed the 10-day deadline imposed by the court at the March 19, 2014, hearing. \u00b67 Two weeks later, a third attorney entered an appearance for Michaella Lawson and Mikarose. This attorney filed a second rule 60(b) motion, this time under subsections (4) and (6) only. He filed the motion",
+    "label": "Human Written",
+    "ai_assistance_score": 0.0001220053163706325,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2394,
+    "word_count": 400,
+    "token_length": 627,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

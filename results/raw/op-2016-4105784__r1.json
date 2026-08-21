@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2016-4105784",
+ "scanned_at_utc": "2026-08-21T14:10:48+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "392f615ae855bd6ae06a5c7736defa7efe47e7a00c53b3cacf1383750a0464bc",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "appointed her his attorney in fact to handle his financial affairs, including his care expenses and distribution of gifts to his family while he was still living. Decedent died in New Jersey on March 3, 2010. Appellant tried and failed to compel the administration of Decedent\u2019s estate in Philadelphia Orphans\u2019 Court. The New Jersey Surrogate Court of Burlington County later appointed Appellant as administrator of Decedent\u2019s estate on July 29, 2011. Appellant subsequently obtained a judgment against Decedent\u2019s estate in the amount of $315,798.00 plus interest, based upon a promissory note from Decedent to Appellant, individually, to ensure payment of two certificates of deposit upon maturity. Appellant initiated this action on November 29, 2012, against IDS, a Pennsylvania non-profit corporation that Decedent allegedly managed, directed and controlled. The other defendants in the case were the children and grandchild of Decedent. Appellant\u2019s 2012 civil action against Appellees charged them with looting and depleting Decedent\u2019s and IDS\u2019 liquid assets, beginning in 2007, without Decedent\u2019s consent. Appellant sought recovery of the funds she claimed were held in trust for her benefit by Decedent/IDS. The court scheduled a non-jury trial for June 1, 2015. During Appellant\u2019s case-in-chief at trial, Appellant\u2019s counsel called Judy Ellen Taylor to the stand, elicited her direct testimony, and introduced several exhibits. During the questioning of Ms. Taylor, the court expressed -2- J-S79004-16 its doubt regarding the sufficiency of the evidence so far and frequently directed Appellant\u2019s counsel to present appropriate evidence, through suitable questions directed to Ms. Taylor, to prove Appellant\u2019s case. After trial had been in session for approximately an hour and a half, the court asked Appellant\u2019s counsel to summarize Appellant\u2019s case and explain how Appellant intended to prove it. Counsel offered that he intended to call the individual members of Decedent\u2019s family and prove Appellant\u2019s case by establishing that each person called to testify had received money from Decedent through checks signed by his daughter as attorney in fact. The court also asked counsel why Appellant had not filed the case in New Jersey. At this point, Appellees moved for a compulsory nonsuit, which the court granted against Appellant. The compulsory nonsuit was officially entered as an order on the docket on June 3, 2015. Appellant filed no post-trial motions. Instead, on June 26, 2015, Appellant filed a notice of appeal. The court did not order Appellant to file a concise statement of errors complained of",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "appointed her his attorney in fact to handle his financial affairs, including his care expenses and distribution of gifts to his family while he was still living. Decedent died in New Jersey on March 3, 2010. Appellant tried and failed to compel the administration of Decedent\u2019s estate in Philadelphia Orphans\u2019 Court. The New Jersey Surrogate Court of Burlington County later appointed Appellant as administrator of Decedent\u2019s estate on July 29, 2011. Appellant subsequently obtained a judgment against Decedent\u2019s estate in the amount of $315,798.00 plus interest, based upon a promissory note from Decedent to Appellant, individually, to ensure payment of two certificates of deposit upon maturity. Appellant initiated this action on November 29, 2012, against IDS, a Pennsylvania non-profit corporation that Decedent allegedly managed, directed and controlled. The other defendants in the case were the children and grandchild of Decedent. Appellant\u2019s 2012 civil action against Appellees charged them with looting and depleting Decedent\u2019s and IDS\u2019 liquid assets, beginning in 2007, without Decedent\u2019s consent. Appellant sought recovery of the funds she claimed were held in trust for her benefit by Decedent/IDS. The court scheduled a non-jury trial for June 1, 2015. During Appellant\u2019s case-in-chief at trial, Appellant\u2019s counsel called Judy Ellen Taylor to the stand, elicited her direct testimony, and introduced several exhibits. During the questioning of Ms. Taylor, the court expressed -2- J-S79004-16 its doubt regarding the sufficiency of the evidence so far and frequently directed Appellant\u2019s counsel to present appropriate evidence, through suitable questions directed to Ms. Taylor, to prove Appellant\u2019s case. After trial had been in session for approximately an hour and a half, the court asked Appellant\u2019s counsel to summarize Appellant\u2019s case and explain how Appellant intended to prove it. Counsel offered that he intended to call the individual members of Decedent\u2019s family and prove Appellant\u2019s case by establishing that each person called to testify had received money from Decedent through checks signed by his daughter as attorney in fact. The court also asked counsel why Appellant had not filed the case in New Jersey. At this point, Appellees moved for a compulsory nonsuit, which the court granted against Appellant. The compulsory nonsuit was officially entered as an order on the docket on June 3, 2015. Appellant filed no post-trial motions. Instead, on June 26, 2015, Appellant filed a notice of appeal. The court did not order Appellant to file a concise statement of errors complained of",
+    "label": "Human Written",
+    "ai_assistance_score": 1.7802001821110025e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2620,
+    "word_count": 400,
+    "token_length": 619,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2013-1044262",
+ "scanned_at_utc": "2026-08-21T14:14:31+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "49a23a080b946d4267a1ed7de70ada6f01b9297a874441d01e970059c420bf27",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "2011, Defendant-Appellant Moore was involved in a motorcycle accident in Madison County, Tennessee. A responding deputy observed that Moore had an odor of alcohol, slurred speech, and was unsteady on his feet. After advising the deputy that he had been drinking and was \u201ctoo drunk\u201d to perform field sobriety tests, Moore was arrested for driving while under the influence (DUI). The following proof was adduced at trial. Shortly after 9:00 p.m. on November 19, 2011, Deputy Mark Taylor of the Madison County Sheriff\u2019s Department responded to a single-vehicle accident on Caldwell Road in Madison County, Tennessee. Deputy Taylor testified that when he arrived at the scene, Moore was standing by a motorcycle that had wrecked into a ditch at a curve in the road. It had apparently gone straight at the curve and hit an earth embankment. During his investigation, Deputy Taylor observed the following: I asked [Moore] what happened and I started investigating the wreck and he told me he had been at Sadie Lou\u2019s. It\u2019s a bar there in the Bemis area. [Moore] told me he had been there for a benefit for another motorcyclist who had been in a wreck a week or two prior to that. I noticed he had an odor of alcohol emitting from his person when he spoke. He was slightly unsteady on his feet. His speech was a little slurred. I immediately thought to myself that he was under the influence of something. Deputy Taylor testified that Moore told him that \u201che had more than six beers\u201d but did not recall whether Moore told him when he had consumed them. Deputy Taylor did not observe Moore to have any visible injuries. He further testified that Moore refused treatment from emergency medical services and declined the offer to be transported to the emergency room. When Deputy Taylor attempted to administer field sobriety tests, Moore said that he was \u201ctoo drunk.\u201d Upon arresting Moore, Deputy Taylor used a form to advise him of the implied consent law. Deputy Taylor explained that the form requested Moore to submit to a chemical test to determine the alcohol or drug content of his blood. It further advised Moore that he could refuse to submit to the test, though such refusal may result in additional imprisonment and a suspension of the individual\u2019s driver\u2019s license. Initially, Moore verbally agreed to submit to a blood test. While en route to",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "2011, Defendant-Appellant Moore was involved in a motorcycle accident in Madison County, Tennessee. A responding deputy observed that Moore had an odor of alcohol, slurred speech, and was unsteady on his feet. After advising the deputy that he had been drinking and was \u201ctoo drunk\u201d to perform field sobriety tests, Moore was arrested for driving while under the influence (DUI). The following proof was adduced at trial. Shortly after 9:00 p.m. on November 19, 2011, Deputy Mark Taylor of the Madison County Sheriff\u2019s Department responded to a single-vehicle accident on Caldwell Road in Madison County, Tennessee. Deputy Taylor testified that when he arrived at the scene, Moore was standing by a motorcycle that had wrecked into a ditch at a curve in the road. It had apparently gone straight at the curve and hit an earth embankment. During his investigation, Deputy Taylor observed the following: I asked [Moore] what happened and I started investigating the wreck and he told me he had been at Sadie Lou\u2019s. It\u2019s a bar there in the Bemis area. [Moore] told me he had been there for a benefit for another motorcyclist who had been in a wreck a week or two prior to that. I noticed he had an odor of alcohol emitting from his person when he spoke. He was slightly unsteady on his feet. His speech was a little slurred. I immediately thought to myself that he was under the influence of something. Deputy Taylor testified that Moore told him that \u201che had more than six beers\u201d but did not recall whether Moore told him when he had consumed them. Deputy Taylor did not observe Moore to have any visible injuries. He further testified that Moore refused treatment from emergency medical services and declined the offer to be transported to the emergency room. When Deputy Taylor attempted to administer field sobriety tests, Moore said that he was \u201ctoo drunk.\u201d Upon arresting Moore, Deputy Taylor used a form to advise him of the implied consent law. Deputy Taylor explained that the form requested Moore to submit to a chemical test to determine the alcohol or drug content of his blood. It further advised Moore that he could refuse to submit to the test, though such refusal may result in additional imprisonment and a suspension of the individual\u2019s driver\u2019s license. Initially, Moore verbally agreed to submit to a blood test. While en route to",
+    "label": "Human Written",
+    "ai_assistance_score": 2.277108251291793e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2346,
+    "word_count": 400,
+    "token_length": 497,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

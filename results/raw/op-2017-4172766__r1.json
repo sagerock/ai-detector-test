@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4172766",
+ "scanned_at_utc": "2026-08-21T14:12:14+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "bb3f9b82f06a45eb73c15949afee2c48f551b21179bdf7a01002d73596f9932d",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "DC, for National Industries for the Blind, Amicus Curiae. OPINION FIRESTONE, Senior Judge. This bid protest concerns the construction of two statutes: the Veterans Benefits Act of 2006 (\u201cVBA\u201d), 38 U.S.C. \u00a7 8127(a), and the Javits-Wagner-O\u2019Day Act, 41 U.S.C. \u00a7 8501-06 (\u201cJWOD\u201d). The VBA requires the Department of Veteran\u2019s Affairs (\u201cVA\u201d) to set goals for providing contracts to veteran-owned small businesses, and with exceptions not relevant here, mandates that before procuring goods and services the VA first determine whether there are at least two veteran-owned small businesses capable of performing the work. If so, the VA must limit competition to veteran-owned small businesses. 1 This process is known as a \u201cRule of Two\u201d analysis. The JWOD requires government agencies, including but not limited to the VA, to purchase products and services from designated non-profits that employ blind and otherwise severely disabled people when those products or services appear on a list known as the \u201cAbilityOne List\u201d or \u201cList.\u201d The entity responsible for placing goods and services on the List is known as 1 The priority system is set forth in 38 U.S.C. \u00a7 8127(i). It establishes a first priority for small businesses owned and controlled by veterans with service-connected disabilities. In this opinion both preferences are labeled as a priority for small business owned and controlled by veterans: Priority for contracting preferences.\u2014Preferences for awarding contracts to small business concerns shall be applied in the following order of priority: (1) Contracts awarded pursuant to subsection (b), (c), or (d) to small business concerns owned and controlled by veterans with service-connected disabilities. (2) Contract awarded pursuant to subsection (b), (c), or (d) to small business concerns owned and controlled by veterans that are not covered by paragraph (1). (3) Contracts awarded pursuant to \u2013 (A) section 8(a) of the Small Business Act (15 U.S.C. 637(a)); or (B) section 31 of such Act (15 U.S.C. 657a). (4) Contracts awarded pursuant to any other small business contracting preference. 38 U.S.C. \u00a7 8127(i). 2 the \u201cAbilityOne Commission.\u201d The question before the court in this case is which procurement priority must the VA first employ: the requirement that the VA conduct a Rule of Two analysis to determine whether it must restrict the procurement to veteran- owned small businesses under the VBA or the requirement that the VA use the AbilityOne List under the JWOD, regardless of whether the VA has conducted a VBA Rule of",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "DC, for National Industries for the Blind, Amicus Curiae. OPINION FIRESTONE, Senior Judge. This bid protest concerns the construction of two statutes: the Veterans Benefits Act of 2006 (\u201cVBA\u201d), 38 U.S.C. \u00a7 8127(a), and the Javits-Wagner-O\u2019Day Act, 41 U.S.C. \u00a7 8501-06 (\u201cJWOD\u201d). The VBA requires the Department of Veteran\u2019s Affairs (\u201cVA\u201d) to set goals for providing contracts to veteran-owned small businesses, and with exceptions not relevant here, mandates that before procuring goods and services the VA first determine whether there are at least two veteran-owned small businesses capable of performing the work. If so, the VA must limit competition to veteran-owned small businesses. 1 This process is known as a \u201cRule of Two\u201d analysis. The JWOD requires government agencies, including but not limited to the VA, to purchase products and services from designated non-profits that employ blind and otherwise severely disabled people when those products or services appear on a list known as the \u201cAbilityOne List\u201d or \u201cList.\u201d The entity responsible for placing goods and services on the List is known as 1 The priority system is set forth in 38 U.S.C. \u00a7 8127(i). It establishes a first priority for small businesses owned and controlled by veterans with service-connected disabilities. In this opinion both preferences are labeled as a priority for small business owned and controlled by veterans: Priority for contracting preferences.\u2014Preferences for awarding contracts to small business concerns shall be applied in the following order of priority: (1) Contracts awarded pursuant to subsection (b), (c), or (d) to small business concerns owned and controlled by veterans with service-connected disabilities. (2) Contract awarded pursuant to subsection (b), (c), or (d) to small business concerns owned and controlled by veterans that are not covered by paragraph (1). (3) Contracts awarded pursuant to \u2013 (A) section 8(a) of the Small Business Act (15 U.S.C. 637(a)); or (B) section 31 of such Act (15 U.S.C. 657a). (4) Contracts awarded pursuant to any other small business contracting preference. 38 U.S.C. \u00a7 8127(i). 2 the \u201cAbilityOne Commission.\u201d The question before the court in this case is which procurement priority must the VA first employ: the requirement that the VA conduct a Rule of Two analysis to determine whether it must restrict the procurement to veteran- owned small businesses under the VBA or the requirement that the VA use the AbilityOne List under the JWOD, regardless of whether the VA has conducted a VBA Rule of",
+    "label": "Human Written",
+    "ai_assistance_score": 2.3256436179508455e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2541,
+    "word_count": 400,
+    "token_length": 584,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2016-4026305",
+ "scanned_at_utc": "2026-08-21T14:14:04+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "fe04b8e026f0ab75e044205d40e3f35a296e8f16bb43f580a3b6864cce7f5a20",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Gordon robbed Tevaughn Darling (\u201cDarling\u201d) at gunpoint. In June 2015, Gordon was charged in CR-15-596591-A with intimidation of a witness. The charges allege that Gordon posted on social media an edited version of Darling\u2019s statement to the police, making him look like a snitch. Darling received threats because of the video. {\u00b63} In June 2015, the state of Ohio (\u201cstate\u201d) filed a motion to join these two cases and a motion to disqualify Gordon\u2019s retained defense counsel. The state argued that the cases should be joined because the offenses are connected and part of the same criminal conduct. The state also argued that Gordon\u2019s defense counsel should be disqualified because he would be a material witness in the intimidation case. The trial court granted the state\u2019s joinder motion and disqualified defense counsel. The two cases then proceeded to a jury trial. The following evidence was adduced at the joint trial. {\u00b64} Darling testified that on Friday, January 9, 2015, he celebrated his 36th birthday with Gordon, his girlfriend, Terri Buckner (\u201cBuckner\u201d), and other friends. 1 Darling has known Gordon since 2002 and thinks of him as his nephew. Upon returning home, Darling noticed that his car had been ransacked and his windows were broken, which was common in his neighborhood. {\u00b65} Darling invited Gordon to stay over his house. Gordon stayed the remainder of the weekend through Monday afternoon. On Sunday, the two of them made a $1,500 bet on a football game. Darling won the $1,500. Gordon did not have the money to pay Darling. He told Darling that he needed money. Darling testified that Gordon did not have any money while they were celebrating his birthday. Darling paid for his birthday celebration in cash. Darling works in cash businesses, rehabbing houses, junking cars, and scrapping. On some days, he would make $2,500 a day scrapping cars. {\u00b66} On Monday, January 12, 2015, Buckner took Darling\u2019s car to get it repaired. After Buckner left, only Darling and Gordon were in the house. At approximately 5:00 p.m., Gordon asked Darling what he was going to do for him. Darling said he would give Gordon some money. His plan was to give Gordon $1,000 from the bet and keep $500. Gordon then went into the bathroom and came out wearing a hood and carrying a .45 caliber gun. Darling testified that this did not concern him because Gordon always had a",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Gordon robbed Tevaughn Darling (\u201cDarling\u201d) at gunpoint. In June 2015, Gordon was charged in CR-15-596591-A with intimidation of a witness. The charges allege that Gordon posted on social media an edited version of Darling\u2019s statement to the police, making him look like a snitch. Darling received threats because of the video. {\u00b63} In June 2015, the state of Ohio (\u201cstate\u201d) filed a motion to join these two cases and a motion to disqualify Gordon\u2019s retained defense counsel. The state argued that the cases should be joined because the offenses are connected and part of the same criminal conduct. The state also argued that Gordon\u2019s defense counsel should be disqualified because he would be a material witness in the intimidation case. The trial court granted the state\u2019s joinder motion and disqualified defense counsel. The two cases then proceeded to a jury trial. The following evidence was adduced at the joint trial. {\u00b64} Darling testified that on Friday, January 9, 2015, he celebrated his 36th birthday with Gordon, his girlfriend, Terri Buckner (\u201cBuckner\u201d), and other friends. 1 Darling has known Gordon since 2002 and thinks of him as his nephew. Upon returning home, Darling noticed that his car had been ransacked and his windows were broken, which was common in his neighborhood. {\u00b65} Darling invited Gordon to stay over his house. Gordon stayed the remainder of the weekend through Monday afternoon. On Sunday, the two of them made a $1,500 bet on a football game. Darling won the $1,500. Gordon did not have the money to pay Darling. He told Darling that he needed money. Darling testified that Gordon did not have any money while they were celebrating his birthday. Darling paid for his birthday celebration in cash. Darling works in cash businesses, rehabbing houses, junking cars, and scrapping. On some days, he would make $2,500 a day scrapping cars. {\u00b66} On Monday, January 12, 2015, Buckner took Darling\u2019s car to get it repaired. After Buckner left, only Darling and Gordon were in the house. At approximately 5:00 p.m., Gordon asked Darling what he was going to do for him. Darling said he would give Gordon some money. His plan was to give Gordon $1,000 from the bet and keep $500. Gordon then went into the bathroom and came out wearing a hood and carrying a .45 caliber gun. Darling testified that this did not concern him because Gordon always had a",
+    "label": "Human Written",
+    "ai_assistance_score": 5.043714554631151e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2377,
+    "word_count": 400,
+    "token_length": 575,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4230322",
+ "scanned_at_utc": "2026-08-21T14:14:18+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "e7c533f633ec54fb8483b46d7c0b6807355894953294df5aef259ae6d689fd2b",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "[(\u201cIra\u201d)], Shim and Jake engaged Ira [] to solicit health centers eligible for the 340B Drug Pricing Program to name [] Blue Star as their contract pharmacy. Ira had been successful as a certified public accountant, securities trader and a real estate developer, but he had no experience in pharmacy matters. However, he immersed himself in 340B Drug Pricing Program literature and became very knowledgeable on the subject. With Shim and Jake agreeing [that] Ira would receive fifty percent of [] Blue Star\u2019s net profits from the 340B Program, in June of 2009[,] Ira obtained [] Blue Star\u2019s first contract with a 340B heath center. Shim and Jake then gave Ira the title of Chief Operating Officer of [] Blue Star. Ira and [] Blue Star also put their net profit[-]sharing agreement into writing [(\u201cthe Agreement\u201d)], with Ira first forming 340B Management, LLC[,] to receive his fifty percent as [] Blue Star\u2019s independent contractor. Ira worked diligently and obtained additional health centers to sign 340B contracts with [] Blue Star, and gross revenue to [] Blue Star from the 340B Program grew dramatically to approximately $1.7 million in 2011 and $17.7 million in 2012. Ira\u2019s duties involved much more than soliciting health centers eligible for the 340B Drug Pricing Program. He assisted the health centers in preparing extensive paperwork required from the health centers by the federal government, he prepared monthly reports on prescriptions filled for each customer health center[,] and he managed the relationships with all of the customer health centers. In approximately November of 2011[,] Shim asked a healthcare merger and acquisition advisor to search for assistance selling [] Blue Star for an asking price of $4.5 million. A potential purchaser then emerged, but the net profit sharing agreement with Ira seemed to be a deal breaker. Jake and Shim then began to perpetrate an elaborate scheme on their unsuspecting friend and business associate, Ira. Shim 1 The 340B Drug Pricing Program is a federal program that provides significant savings on outpatient drugs to qualified participants. The name is a reference to its enabling law, section 340B of the Public Health Service Act, 42 U.S.C.A. \u00a7 256b. -2- J-A24036-17 bombarded Ira with a series of lies about civil proceedings and potential criminal charges against [] Blue Star that Shim said could ensnare Ira, its Chief Operating Officer. Around March 29, 2012, after Shim told Ira he could avoid",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "[(\u201cIra\u201d)], Shim and Jake engaged Ira [] to solicit health centers eligible for the 340B Drug Pricing Program to name [] Blue Star as their contract pharmacy. Ira had been successful as a certified public accountant, securities trader and a real estate developer, but he had no experience in pharmacy matters. However, he immersed himself in 340B Drug Pricing Program literature and became very knowledgeable on the subject. With Shim and Jake agreeing [that] Ira would receive fifty percent of [] Blue Star\u2019s net profits from the 340B Program, in June of 2009[,] Ira obtained [] Blue Star\u2019s first contract with a 340B heath center. Shim and Jake then gave Ira the title of Chief Operating Officer of [] Blue Star. Ira and [] Blue Star also put their net profit[-]sharing agreement into writing [(\u201cthe Agreement\u201d)], with Ira first forming 340B Management, LLC[,] to receive his fifty percent as [] Blue Star\u2019s independent contractor. Ira worked diligently and obtained additional health centers to sign 340B contracts with [] Blue Star, and gross revenue to [] Blue Star from the 340B Program grew dramatically to approximately $1.7 million in 2011 and $17.7 million in 2012. Ira\u2019s duties involved much more than soliciting health centers eligible for the 340B Drug Pricing Program. He assisted the health centers in preparing extensive paperwork required from the health centers by the federal government, he prepared monthly reports on prescriptions filled for each customer health center[,] and he managed the relationships with all of the customer health centers. In approximately November of 2011[,] Shim asked a healthcare merger and acquisition advisor to search for assistance selling [] Blue Star for an asking price of $4.5 million. A potential purchaser then emerged, but the net profit sharing agreement with Ira seemed to be a deal breaker. Jake and Shim then began to perpetrate an elaborate scheme on their unsuspecting friend and business associate, Ira. Shim 1 The 340B Drug Pricing Program is a federal program that provides significant savings on outpatient drugs to qualified participants. The name is a reference to its enabling law, section 340B of the Public Health Service Act, 42 U.S.C.A. \u00a7 256b. -2- J-A24036-17 bombarded Ira with a series of lies about civil proceedings and potential criminal charges against [] Blue Star that Shim said could ensnare Ira, its Chief Operating Officer. Around March 29, 2012, after Shim told Ira he could avoid",
+    "label": "Human Written",
+    "ai_assistance_score": 1.2339693057583645e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2469,
+    "word_count": 400,
+    "token_length": 567,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

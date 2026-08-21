@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4173946",
+ "scanned_at_utc": "2026-08-21T14:12:31+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "9b083cfcb9ba61da237dc6724512533847554792ebe93152fb5c494db1dd4a04",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "that the Trial Court (Barry, J.) erred in denying his motion to suppress. State v. Robinson, 158 N.H. 792, 794 (2009) (Robinson I). We reversed his convictions, holding that the trial court erred in concluding that exigent circumstances permitted the warrantless entry by police into his apartment. Id. at 802-03. Upon remand, the defendant again moved to suppress, inter alia, physical evidence obtained \u201cfrom the time of the warrantless entry into his apartment\u201d and the fruits thereof. The Trial Court (Garfunkel, J.) denied his request to suppress the physical evidence, after finding that it was properly seized during a subsequent search pursuant to a valid warrant. The defendant was convicted following a subsequent jury trial. He thereafter filed motions for a new trial in 2013 and in 2014, arguing in both motions that his trial counsel had been ineffective. The motions were denied after hearings, and the defendant has appealed. We consolidated the defendant\u2019s direct appeal of his convictions with his appeals of the rulings on his motions for new trial. In this appeal, the defendant argues: (1) that the trial court erred by considering, upon remand, the doctrines of independent source and inevitable discovery; (2) that his trial counsel was ineffective because she did not argue that the doctrines of law of the case and waiver barred the State from raising the independent source and inevitable discovery arguments in the trial court following remand; and (3) that, even if the trial court did not err in considering the State\u2019s arguments, remand is necessary to address certain factual issues. He also contends that our holding in Robinson I \u2014 that the police did not violate his constitutional rights when they inserted a key, found at the site of the robbery, into the lock of his car, id. at 796-97 \u2014 conflicts with recent United States Supreme Court decisions. The following facts are drawn from the trial court\u2019s June 2011 post- remand order which denied the defendant\u2019s motion to suppress. On March 18, 2006, Manchester police officers responded to a reported robbery at a Manchester variety store. A witness reported that a white male, wearing a New England Patriots jacket and green hooded sweatshirt, entered the area behind the counter in the store, stabbed the store clerk, and took money from the register. The police searched the area behind the counter and found a key ring holding three keys; one of",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "that the Trial Court (Barry, J.) erred in denying his motion to suppress. State v. Robinson, 158 N.H. 792, 794 (2009) (Robinson I). We reversed his convictions, holding that the trial court erred in concluding that exigent circumstances permitted the warrantless entry by police into his apartment. Id. at 802-03. Upon remand, the defendant again moved to suppress, inter alia, physical evidence obtained \u201cfrom the time of the warrantless entry into his apartment\u201d and the fruits thereof. The Trial Court (Garfunkel, J.) denied his request to suppress the physical evidence, after finding that it was properly seized during a subsequent search pursuant to a valid warrant. The defendant was convicted following a subsequent jury trial. He thereafter filed motions for a new trial in 2013 and in 2014, arguing in both motions that his trial counsel had been ineffective. The motions were denied after hearings, and the defendant has appealed. We consolidated the defendant\u2019s direct appeal of his convictions with his appeals of the rulings on his motions for new trial. In this appeal, the defendant argues: (1) that the trial court erred by considering, upon remand, the doctrines of independent source and inevitable discovery; (2) that his trial counsel was ineffective because she did not argue that the doctrines of law of the case and waiver barred the State from raising the independent source and inevitable discovery arguments in the trial court following remand; and (3) that, even if the trial court did not err in considering the State\u2019s arguments, remand is necessary to address certain factual issues. He also contends that our holding in Robinson I \u2014 that the police did not violate his constitutional rights when they inserted a key, found at the site of the robbery, into the lock of his car, id. at 796-97 \u2014 conflicts with recent United States Supreme Court decisions. The following facts are drawn from the trial court\u2019s June 2011 post- remand order which denied the defendant\u2019s motion to suppress. On March 18, 2006, Manchester police officers responded to a reported robbery at a Manchester variety store. A witness reported that a white male, wearing a New England Patriots jacket and green hooded sweatshirt, entered the area behind the counter in the store, stabbed the store clerk, and took money from the register. The police searched the area behind the counter and found a key ring holding three keys; one of",
+    "label": "Human Written",
+    "ai_assistance_score": 2.444462188577745e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2435,
+    "word_count": 400,
+    "token_length": 535,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

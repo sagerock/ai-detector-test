@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2017-4226438",
+ "scanned_at_utc": "2026-08-21T14:14:26+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "0ee200f62fd0a579ced1c3bb3f7d9ea8493830ef501c9ba5b685da97b68892e8",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "fell from a roof, fracturing his heels and a vertebra. His injuries required several surgeries, a seventeen-day stay in the Hospital, and a subsequent period of immobilization. Prior to surgery, Hospital orthopedic surgeon Dr. Jeffrey Martin ordered that a retrievable blood clot filter be placed in Horn\u2019s inferior vena cava (IVC), a large vein leading to the heart. The purpose of installing the filter was to trap blood clots that might arise from the period of physical inactivity during Horn\u2019s recuperation after surgery. A radiologist employed by Great Divide Radiology implanted an Optease brand filter. \u00b64 Dr. Martin was the primary physician responsible for Horn\u2019s care from April 28, 2011, to August 16, 2011. In early August 2011, after the filter had been in place about 120 days and Horn had regained some mobility, Dr. Martin ordered that it be removed. On August 16, 2011, Dr. Jeffrey Georgia attempted to remove the filter, but discovered that it was embedded in the wall of Horn\u2019s IVC and could not be retrieved. 2 \u00b65 After the failed filter retrieval, Horn returned to the Hospital\u2019s emergency room several times with severe abdominal, pelvic and groin pains. He was treated for a bladder or kidney infection, but in August 2011 returned to the ER with a swollen right leg. Horn was transported to St. Patrick Hospital in Missoula on August 29 and remained there through September 2, 2011. Doctors there treated Horn for a blood clot and hematoma, and inserted a stent in his left iliac vein. \u00b66 The doctors at St. Patrick Hospital determined that removal of the blood clot filter was too complicated for them to attempt and referred Horn to the Oregon Health Sciences University in Portland. Doctors there unsuccessfully attempted to remove the embedded filter. In the process of doing so, the tip of a catheter broke off in the vein and could not be retrieved. \u00b67 The OHSU referred Horn to Stanford University where doctors used a unique laser procedure to remove the blood clot filter. The Stanford doctors were unable to remove the fragment of catheter because it was embedded in the wall of Horn\u2019s IVC. \u00b68 In September 2013 Horn sued St. Peter\u2019s Hospital seeking to recover damages for medical negligence. The case went to jury trial on August 29, 2016. Horn presented his case, including the testimony of treating doctors as well as two expert medical",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "fell from a roof, fracturing his heels and a vertebra. His injuries required several surgeries, a seventeen-day stay in the Hospital, and a subsequent period of immobilization. Prior to surgery, Hospital orthopedic surgeon Dr. Jeffrey Martin ordered that a retrievable blood clot filter be placed in Horn\u2019s inferior vena cava (IVC), a large vein leading to the heart. The purpose of installing the filter was to trap blood clots that might arise from the period of physical inactivity during Horn\u2019s recuperation after surgery. A radiologist employed by Great Divide Radiology implanted an Optease brand filter. \u00b64 Dr. Martin was the primary physician responsible for Horn\u2019s care from April 28, 2011, to August 16, 2011. In early August 2011, after the filter had been in place about 120 days and Horn had regained some mobility, Dr. Martin ordered that it be removed. On August 16, 2011, Dr. Jeffrey Georgia attempted to remove the filter, but discovered that it was embedded in the wall of Horn\u2019s IVC and could not be retrieved. 2 \u00b65 After the failed filter retrieval, Horn returned to the Hospital\u2019s emergency room several times with severe abdominal, pelvic and groin pains. He was treated for a bladder or kidney infection, but in August 2011 returned to the ER with a swollen right leg. Horn was transported to St. Patrick Hospital in Missoula on August 29 and remained there through September 2, 2011. Doctors there treated Horn for a blood clot and hematoma, and inserted a stent in his left iliac vein. \u00b66 The doctors at St. Patrick Hospital determined that removal of the blood clot filter was too complicated for them to attempt and referred Horn to the Oregon Health Sciences University in Portland. Doctors there unsuccessfully attempted to remove the embedded filter. In the process of doing so, the tip of a catheter broke off in the vein and could not be retrieved. \u00b67 The OHSU referred Horn to Stanford University where doctors used a unique laser procedure to remove the blood clot filter. The Stanford doctors were unable to remove the fragment of catheter because it was embedded in the wall of Horn\u2019s IVC. \u00b68 In September 2013 Horn sued St. Peter\u2019s Hospital seeking to recover damages for medical negligence. The case went to jury trial on August 29, 2016. Horn presented his case, including the testimony of treating doctors as well as two expert medical",
+    "label": "Human Written",
+    "ai_assistance_score": 1.2782745216100011e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2375,
+    "word_count": 400,
+    "token_length": 541,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

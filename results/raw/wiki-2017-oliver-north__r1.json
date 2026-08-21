@@ -1,0 +1,36 @@
+{
+ "doc_id": "wiki-2017-oliver-north",
+ "scanned_at_utc": "2026-08-21T15:04:24+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "fa363a5239d081445fdcbdc074cd0e9eb93a12033253d7c86ccb243b994ae1f7",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Oliver Laurence North (born October 7, 1943) is an American political commentator and television host, military historian, New York Times best-selling author, and retired United States Marine Corps Lieutenant Colonel. He was convicted in the Iran\u2013Contra affair of the late 1980s but his convictions were vacated and reversed, and all charges against him dismissed in 1991. North is primarily remembered for his term as a National Security Council staff member during the Iran\u2013Contra affair, a political scandal of the late 1980s. The scandal involved the illegal sale of weapons to Iran to encourage the release of U.S. hostages then held in Lebanon. North formulated the second part of the plan, which was to divert proceeds from the arms sales to support the Contra rebel groups in Nicaragua, which had been specifically prohibited under the Boland Amendment. From 2001 to 2016, North hosted War Stories with Oliver North on Fox News Channel. North was born in San Antonio, Texas, on October 7, 1943, the son of Ann Theresa (n\u00e9e Clancy) and Oliver Clay North, a U.S. Army major. He grew up in Philmont, New York, and graduated from Ockawamick Central High School in 1961. He attended the State University of New York at Brockport for two years. While at Brockport, North spent a summer at the United States Marine Corps Platoon Leaders Class at Marine Corps Base Quantico in Virginia, and gained an appointment to the United States Naval Academy in 1963. He received his commission as second lieutenant in 1968, having missed a year due to serious back and leg injuries from an auto accident in which a classmate was killed. One of North's classmates at the Academy was future secretary of the Navy and U.S. senator Jim Webb, whom he beat in a middleweight championship boxing match at Annapolis. (North had shown films of this match to Marine Medical Corps officials to prove that he had fully recovered from his serious accident and could endure the rigors of midshipman training. At the time of his being awarded the Silver Star, Second Lieutenant North was a Platoon Commander leading his Marines in Operation Virginia Ridge. North led a counter assault against the North Vietnamese Army, as his platoon took on heavy machine gun fire and rocket propelled grenades. Throughout the battle, North displayed \"courage, dynamic leadership and unwavering devotion to duty in the face of grave personal danger\". He then",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Oliver Laurence North (born October 7, 1943) is an American political commentator and television host, military historian, New York Times best-selling author, and retired United States Marine Corps Lieutenant Colonel. He was convicted in the Iran\u2013Contra affair of the late 1980s but his convictions were vacated and reversed, and all charges against him dismissed in 1991. North is primarily remembered for his term as a National Security Council staff member during the Iran\u2013Contra affair, a political scandal of the late 1980s. The scandal involved the illegal sale of weapons to Iran to encourage the release of U.S. hostages then held in Lebanon. North formulated the second part of the plan, which was to divert proceeds from the arms sales to support the Contra rebel groups in Nicaragua, which had been specifically prohibited under the Boland Amendment. From 2001 to 2016, North hosted War Stories with Oliver North on Fox News Channel. North was born in San Antonio, Texas, on October 7, 1943, the son of Ann Theresa (n\u00e9e Clancy) and Oliver Clay North, a U.S. Army major. He grew up in Philmont, New York, and graduated from Ockawamick Central High School in 1961. He attended the State University of New York at Brockport for two years. While at Brockport, North spent a summer at the United States Marine Corps Platoon Leaders Class at Marine Corps Base Quantico in Virginia, and gained an appointment to the United States Naval Academy in 1963. He received his commission as second lieutenant in 1968, having missed a year due to serious back and leg injuries from an auto accident in which a classmate was killed. One of North's classmates at the Academy was future secretary of the Navy and U.S. senator Jim Webb, whom he beat in a middleweight championship boxing match at Annapolis. (North had shown films of this match to Marine Medical Corps officials to prove that he had fully recovered from his serious accident and could endure the rigors of midshipman training. At the time of his being awarded the Silver Star, Second Lieutenant North was a Platoon Commander leading his Marines in Operation Virginia Ridge. North led a counter assault against the North Vietnamese Army, as his platoon took on heavy machine gun fire and rocket propelled grenades. Throughout the battle, North displayed \"courage, dynamic leadership and unwavering devotion to duty in the face of grave personal danger\". He then",
+    "label": "Human Written",
+    "ai_assistance_score": 3.982008638558909e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2418,
+    "word_count": 400,
+    "token_length": 529,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

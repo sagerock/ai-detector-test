@@ -1,0 +1,36 @@
+{
+ "doc_id": "wiki-2017-norman-schwarzkopf-jr",
+ "scanned_at_utc": "2026-08-21T15:03:53+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "d2fd33dab0e59dd7c049f898d257cf1c69a2e51811ff6c3e935f3fb15eabcfbd",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Herbert Norman Schwarzkopf Jr. (; August 22, 1934December 27, 2012) was a United States Army general. While serving as Commander-in-chief, United States Central Command, he led all coalition forces in the Gulf War. Born in Trenton, New Jersey, Schwarzkopf grew up in the United States and later in Iran. He was accepted by the U.S. Military Academy at West Point and was commissioned as a second lieutenant in the United States Army in 1956. After a number of initial training programs, Schwarzkopf interrupted a stint as an academy teacher, and served in the Vietnam War first as an adviser to the South Vietnamese Army and later as a battalion commander. Schwarzkopf was highly decorated in Vietnam, being awarded three Silver Star Medals, two Purple Hearts, and the Legion of Merit. Rising through the ranks after the conflict, he later commanded the U.S. 24th Infantry Division and was one of the commanders of the Invasion of Grenada in 1983. Assuming command of United States Central Command in 1988, Schwarzkopf was called on to respond to the Invasion of Kuwait in 1990 by the forces of Iraq under Saddam Hussein. Initially tasked with defending Saudi Arabia from Iraqi aggression, Schwarzkopf's command eventually grew to an international force of over 750,000 troops. After diplomatic relations broke down, he planned and led Operation Desert Storm\u2014an extended air campaign followed by a highly successful 100-hour ground offensive\u2014which defeated the Iraqi Army and liberated Kuwait in early 1991. Schwarzkopf was presented with military honors. Schwarzkopf retired shortly after the end of the war and undertook a number of philanthropic ventures, only occasionally stepping into the political spotlight before his death from complications of pneumonia in late 2012. A hard-driving military commander with a strong temper, Schwarzkopf was considered an exceptional leader by biographers and was noted for his abilities as a military diplomat and in dealing with the press. Schwarzkopf was born Herbert Norman Schwarzkopf Jr. on August 22, 1934 in Trenton, New Jersey, to Herbert Norman Schwarzkopf Sr. and Ruth Alice (n\u00e9e Bowman). His father was a 1917 graduate of the United States Military Academy and veteran of World War I. His mother was a housewife from West Virginia who was distantly related to Thomas Jefferson. The senior Schwarzkopf later became the Superintendent of the New Jersey State Police, where he worked as a lead investigator on the 1932 Lindbergh baby kidnapping case. In January",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Herbert Norman Schwarzkopf Jr. (; August 22, 1934December 27, 2012) was a United States Army general. While serving as Commander-in-chief, United States Central Command, he led all coalition forces in the Gulf War. Born in Trenton, New Jersey, Schwarzkopf grew up in the United States and later in Iran. He was accepted by the U.S. Military Academy at West Point and was commissioned as a second lieutenant in the United States Army in 1956. After a number of initial training programs, Schwarzkopf interrupted a stint as an academy teacher, and served in the Vietnam War first as an adviser to the South Vietnamese Army and later as a battalion commander. Schwarzkopf was highly decorated in Vietnam, being awarded three Silver Star Medals, two Purple Hearts, and the Legion of Merit. Rising through the ranks after the conflict, he later commanded the U.S. 24th Infantry Division and was one of the commanders of the Invasion of Grenada in 1983. Assuming command of United States Central Command in 1988, Schwarzkopf was called on to respond to the Invasion of Kuwait in 1990 by the forces of Iraq under Saddam Hussein. Initially tasked with defending Saudi Arabia from Iraqi aggression, Schwarzkopf's command eventually grew to an international force of over 750,000 troops. After diplomatic relations broke down, he planned and led Operation Desert Storm\u2014an extended air campaign followed by a highly successful 100-hour ground offensive\u2014which defeated the Iraqi Army and liberated Kuwait in early 1991. Schwarzkopf was presented with military honors. Schwarzkopf retired shortly after the end of the war and undertook a number of philanthropic ventures, only occasionally stepping into the political spotlight before his death from complications of pneumonia in late 2012. A hard-driving military commander with a strong temper, Schwarzkopf was considered an exceptional leader by biographers and was noted for his abilities as a military diplomat and in dealing with the press. Schwarzkopf was born Herbert Norman Schwarzkopf Jr. on August 22, 1934 in Trenton, New Jersey, to Herbert Norman Schwarzkopf Sr. and Ruth Alice (n\u00e9e Bowman). His father was a 1917 graduate of the United States Military Academy and veteran of World War I. His mother was a housewife from West Virginia who was distantly related to Thomas Jefferson. The senior Schwarzkopf later became the Superintendent of the New Jersey State Police, where he worked as a lead investigator on the 1932 Lindbergh baby kidnapping case. In January",
+    "label": "Human Written",
+    "ai_assistance_score": 0.00011569386697374284,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2512,
+    "word_count": 400,
+    "token_length": 560,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

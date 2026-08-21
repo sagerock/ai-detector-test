@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-1996-9440",
+ "scanned_at_utc": "2026-08-21T14:13:35+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "1733585a8b689ca648cc189c77446506d7aeab7f5e3a352ffab61cfc8d3bd33e",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "CI was out of town and asked Valtierra-Acevedo to take Cesar to Little Rock, Arkansas. Valtierra-Acevedo refused to deliver Cesar to Arkansas, requested $700 for Cesar's release, and left his Houston telephone number with Stansel. Stansel passed the information on to the INS in Houston. Thereafter, INS Agent Balentin1 called Valtierra-Acevedo's Houston number, claiming to be the CI's friend. Patino answered the telephone and told Balentin that he was the person Balentin needed to speak with about Cesar's release. Patino instructed Balentin to go to a designated gas station and then to call back. Patino also told Balentin that two other aliens were being held. When Balentin called from a location near the gas station, Patino instructed Balentin to meet him in front of a department store at that location. Patino stated he would arrive in a red 1 The PSR refers to Agent \"Valentin.\" The record clarifies that the Agent's correct name is \"Balentin.\" 2 truck with Mexican plates. Shortly thereafter, Patino, co- defendant Eriban Cardenas-Aguirre (Cardenas-Aguirre), and Cesar arrived in a red truck. Patino got out, introduced himself (using an alias) and pointed to Cesar, who was still seated in the truck with Carednas-Aguirre. Carednas-Aguirre got out of the truck and was introduced as a friend of Patino's. After Balentin gave the prearranged signal, all three men were arrested. INS officers then proceeded to a Houston residence (the Leedale house) where Patino's sister, co-defendant Hermelinda Patino-Cardenas, answered the door and consented to a search of the house. Although she claimed that there were no aliens in the house, INS agents discovered two aliens hiding in one of the rooms and took those individuals into custody. The next day Hermelinda Patino-Cardenas and Roberto Valtierra-Acevedo were also arrested. INS interviews with the three smuggled aliens revealed that they, along with several other aliens, paid \"recruiters\" in Neuvo Laredo, who put them in contact with a smuggler. The smuggler arranged their crossing of the Rio Grande River into Laredo, Texas. Next the aliens rode in a blue pickup for about an hour, followed by a long walk through brush, followed by another two hour ride in the same blue pickup. Along Highway 59 heading east, the blue pickup stopped and two of the aliens (but not Cesar) were transferred to Patino's red pickup. All three aliens identified Patino as the man who drove the red pickup. Both trucks then drove to",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "CI was out of town and asked Valtierra-Acevedo to take Cesar to Little Rock, Arkansas. Valtierra-Acevedo refused to deliver Cesar to Arkansas, requested $700 for Cesar's release, and left his Houston telephone number with Stansel. Stansel passed the information on to the INS in Houston. Thereafter, INS Agent Balentin1 called Valtierra-Acevedo's Houston number, claiming to be the CI's friend. Patino answered the telephone and told Balentin that he was the person Balentin needed to speak with about Cesar's release. Patino instructed Balentin to go to a designated gas station and then to call back. Patino also told Balentin that two other aliens were being held. When Balentin called from a location near the gas station, Patino instructed Balentin to meet him in front of a department store at that location. Patino stated he would arrive in a red 1 The PSR refers to Agent \"Valentin.\" The record clarifies that the Agent's correct name is \"Balentin.\" 2 truck with Mexican plates. Shortly thereafter, Patino, co- defendant Eriban Cardenas-Aguirre (Cardenas-Aguirre), and Cesar arrived in a red truck. Patino got out, introduced himself (using an alias) and pointed to Cesar, who was still seated in the truck with Carednas-Aguirre. Carednas-Aguirre got out of the truck and was introduced as a friend of Patino's. After Balentin gave the prearranged signal, all three men were arrested. INS officers then proceeded to a Houston residence (the Leedale house) where Patino's sister, co-defendant Hermelinda Patino-Cardenas, answered the door and consented to a search of the house. Although she claimed that there were no aliens in the house, INS agents discovered two aliens hiding in one of the rooms and took those individuals into custody. The next day Hermelinda Patino-Cardenas and Roberto Valtierra-Acevedo were also arrested. INS interviews with the three smuggled aliens revealed that they, along with several other aliens, paid \"recruiters\" in Neuvo Laredo, who put them in contact with a smuggler. The smuggler arranged their crossing of the Rio Grande River into Laredo, Texas. Next the aliens rode in a blue pickup for about an hour, followed by a long walk through brush, followed by another two hour ride in the same blue pickup. Along Highway 59 heading east, the blue pickup stopped and two of the aliens (but not Cesar) were transferred to Patino's red pickup. All three aliens identified Patino as the man who drove the red pickup. Both trucks then drove to",
+    "label": "Human Written",
+    "ai_assistance_score": 1.415610677213408e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2480,
+    "word_count": 400,
+    "token_length": 570,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

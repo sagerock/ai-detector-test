@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2013-2698566",
+ "scanned_at_utc": "2026-08-21T14:11:22+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "30198e3ecf6d9d51c261f1f0184a831cd377c81ff8e106eb41f5a61a78e1f2df",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "Suppression Hearing {\u00b63} This case arose on January 1, 2012, around 8:18 a.m. when Officer Allen Edwards of the Mansfield Police Department responded to a residence on Blymyer Avenue regarding an assault. He met the victim of the assault, Cory Patton, on the sidewalk in front of the residence. {\u00b64} Patton explained the residence belonged to his cousin and Patton was there for a New Year\u2019s Eve party the night before. In the early morning hours, he was assaulted by someone else at the party: appellant. Patton said he was punched, kicked, put on the floor, robbed, held down, and burned. Patton told Edwards he was afraid and didn\u2019t move; he didn\u2019t try to get away because he was threatened. He also said the assault was filmed by a woman with a black Droid cell phone and appellant was still inside the house, asleep on a couch. Patton explained he crawled out a bedroom window that morning and called police. {\u00b65} Patton went back inside the house through the window and unlocked the front door for Edwards. Edwards entered the foyer and directly on his right was an end Richland County, Case No. 12CA109 3 table and couch; asleep on the couch were appellant and a woman, 10 to 15 feet from the front door. Edwards and another officer immediately made contact with appellant and the woman, detaining them both and advising a complaint had been made and they would be brought to the police department for questioning. {\u00b66} A black Droid cell phone was on the coffee table directly above the couple\u2019s heads; Edwards seized it because he was \u201coriginally told it belonged to [appellant].\u201d The phone was placed on a table outside the interview rooms as each subject was interviewed. Both parties denied ownership of the phone. Edwards returned to the Blymyer residence to find out whom the phone belonged to, but no one would open the door. He tagged the phone as evidence. {\u00b67} Although Edwards never personally reviewed its contents, he testified a search warrant was subsequently obtained for the contents of the black Droid cell phone. Criminal Charges and Motion for Bond Review {\u00b68} Appellant was first charged in municipal court by criminal complaint with one count of robbery, a felony of the second degree. Appellant waived his preliminary hearing scheduled for January 12, 2012. {\u00b69} On February 3, 2012, appellant filed a Motion for",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "Suppression Hearing {\u00b63} This case arose on January 1, 2012, around 8:18 a.m. when Officer Allen Edwards of the Mansfield Police Department responded to a residence on Blymyer Avenue regarding an assault. He met the victim of the assault, Cory Patton, on the sidewalk in front of the residence. {\u00b64} Patton explained the residence belonged to his cousin and Patton was there for a New Year\u2019s Eve party the night before. In the early morning hours, he was assaulted by someone else at the party: appellant. Patton said he was punched, kicked, put on the floor, robbed, held down, and burned. Patton told Edwards he was afraid and didn\u2019t move; he didn\u2019t try to get away because he was threatened. He also said the assault was filmed by a woman with a black Droid cell phone and appellant was still inside the house, asleep on a couch. Patton explained he crawled out a bedroom window that morning and called police. {\u00b65} Patton went back inside the house through the window and unlocked the front door for Edwards. Edwards entered the foyer and directly on his right was an end Richland County, Case No. 12CA109 3 table and couch; asleep on the couch were appellant and a woman, 10 to 15 feet from the front door. Edwards and another officer immediately made contact with appellant and the woman, detaining them both and advising a complaint had been made and they would be brought to the police department for questioning. {\u00b66} A black Droid cell phone was on the coffee table directly above the couple\u2019s heads; Edwards seized it because he was \u201coriginally told it belonged to [appellant].\u201d The phone was placed on a table outside the interview rooms as each subject was interviewed. Both parties denied ownership of the phone. Edwards returned to the Blymyer residence to find out whom the phone belonged to, but no one would open the door. He tagged the phone as evidence. {\u00b67} Although Edwards never personally reviewed its contents, he testified a search warrant was subsequently obtained for the contents of the black Droid cell phone. Criminal Charges and Motion for Bond Review {\u00b68} Appellant was first charged in municipal court by criminal complaint with one count of robbery, a felony of the second degree. Appellant waived his preliminary hearing scheduled for January 12, 2012. {\u00b69} On February 3, 2012, appellant filed a Motion for",
+    "label": "Human Written",
+    "ai_assistance_score": 1.944381983776111e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2343,
+    "word_count": 400,
+    "token_length": 542,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

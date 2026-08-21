@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2018-5138735",
+ "scanned_at_utc": "2026-08-21T14:13:10+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "6ffc7cff2db9ce98ff8daabc69cb1dd4f0f98d7607a0fc68a4c29d6d4d560ac2",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "State sufficiently complied with the notice requirements under Utah Code section 77-17-13 and, if not, whether the district court erred in admitting Expert\u2019s testimony under rule 702 of the Utah Rules of Evidence. We are also asked to determine whether, based on the lack of expert report, Peraza\u2019s third motion for a continuance should have been granted. We conclude the district court exceeded its discretion when it denied the motion to continue after erroneously deciding to allow Expert to testify. The State\u2019s notice did not comply with section 77-17-13, depriving the court of the information necessary to rule on the admissibility of Expert\u2019s testimony under rule 702. The State also failed to meet its burden of demonstrating that Peraza would not be prejudiced by the denial of his motion. Peraza was entitled to a continuance so that he could prepare to respond to Expert\u2019s testimony. We therefore vacate Peraza\u2019s convictions and remand for a new trial. 1 BACKGROUND The Allegations \u00b63 Peraza was charged with four counts of first-degree sodomy on a child 2 after Child accused him of sexually abusing her. 3 1. Peraza also filed a motion for a rule 23B remand \u201cfor findings necessary to determine ineffective assistance of counsel.\u201d See Utah R. App. P. 23B. Because we vacate Peraza\u2019s convictions and remand for a new trial on other grounds, we need not address Peraza\u2019s motion or consider his claims that his counsel was ineffective. See State v. Richardson, 2006 UT App 238, \u00b6 1 n.2, 139 P.3d 278. 2. Peraza was also charged with one count of first-degree aggravated sexual abuse of a child, but the State dismissed the charge after closing arguments and it is not an issue on appeal. 3. \u201cOn appeal, we review the record facts in a light most favorable to the jury\u2019s verdict and recite the facts accordingly. (continued\u2026) 20160302-CA 2 2018 UT App 68 State v. Peraza \u00b64 Child informed her mother (Mother) and her grandfather that Peraza did \u201cbad things\u201d to her that she \u201cdid not like.\u201d During an interview at the Children\u2019s Justice Center (CJC), Child told a social worker that Peraza did something to her that happens \u201cwhen parents really love each other.\u201d Child explained that Peraza showed her his \u201cpee pee,\u201d and made her use a hand gesture while she touched it, and he forced her to touch it with her mouth. She said he forced",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "State sufficiently complied with the notice requirements under Utah Code section 77-17-13 and, if not, whether the district court erred in admitting Expert\u2019s testimony under rule 702 of the Utah Rules of Evidence. We are also asked to determine whether, based on the lack of expert report, Peraza\u2019s third motion for a continuance should have been granted. We conclude the district court exceeded its discretion when it denied the motion to continue after erroneously deciding to allow Expert to testify. The State\u2019s notice did not comply with section 77-17-13, depriving the court of the information necessary to rule on the admissibility of Expert\u2019s testimony under rule 702. The State also failed to meet its burden of demonstrating that Peraza would not be prejudiced by the denial of his motion. Peraza was entitled to a continuance so that he could prepare to respond to Expert\u2019s testimony. We therefore vacate Peraza\u2019s convictions and remand for a new trial. 1 BACKGROUND The Allegations \u00b63 Peraza was charged with four counts of first-degree sodomy on a child 2 after Child accused him of sexually abusing her. 3 1. Peraza also filed a motion for a rule 23B remand \u201cfor findings necessary to determine ineffective assistance of counsel.\u201d See Utah R. App. P. 23B. Because we vacate Peraza\u2019s convictions and remand for a new trial on other grounds, we need not address Peraza\u2019s motion or consider his claims that his counsel was ineffective. See State v. Richardson, 2006 UT App 238, \u00b6 1 n.2, 139 P.3d 278. 2. Peraza was also charged with one count of first-degree aggravated sexual abuse of a child, but the State dismissed the charge after closing arguments and it is not an issue on appeal. 3. \u201cOn appeal, we review the record facts in a light most favorable to the jury\u2019s verdict and recite the facts accordingly. (continued\u2026) 20160302-CA 2 2018 UT App 68 State v. Peraza \u00b64 Child informed her mother (Mother) and her grandfather that Peraza did \u201cbad things\u201d to her that she \u201cdid not like.\u201d During an interview at the Children\u2019s Justice Center (CJC), Child told a social worker that Peraza did something to her that happens \u201cwhen parents really love each other.\u201d Child explained that Peraza showed her his \u201cpee pee,\u201d and made her use a hand gesture while she touched it, and he forced her to touch it with her mouth. She said he forced",
+    "label": "Human Written",
+    "ai_assistance_score": 1.966784111573361e-05,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2344,
+    "word_count": 400,
+    "token_length": 574,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,103 @@
+The AI Detector Works. That's the Problem.
+
+Law schools have always run on trust. You sign something saying the work is yours. Everyone knows some people are lying. No one can prove it. So the rule just kind of... applies to everyone equally, which is another way of saying it applies to no one.
+
+That just changed, and I think most people haven't realized it yet.
+
+A few weeks back, a law professor posted that AI detectors have actually gotten good. For years he'd been saying they were garbage. He was changing his mind. He also said that once professors catch on, they'll probably scan old assignments students already turned in. He meant well. He was trying to warn people before things got real.
+
+The post sat wrong with me for a solid week before I could figure out why.
+
+The rule isn't really "no AI"
+
+Here's what my legal writing class actually required: write the memo alone. Nobody else touches it. Not your parents, not your siblings, not your study group, and definitely not an AI. You write it in a vacuum and turn it in. There are three of these assignments and they tank your grade if you mess up.
+
+Think about how many ways you can actually break that rule.
+
+Your mom's a lawyer. Better yet—she teaches legal writing. She reads your memo the night before it's due and says your application section is all conclusion, zero analysis. You fix it. You turn it in.
+
+Now say I ask an AI the same question and get the same answer. I fix the same problem and turn it in.
+
+Those are identical violations. One of them is invisible to every detector that exists or ever will. The other gets caught almost every time.
+
+So I tested the detector
+
+I'm a second-year law student who's been in tech for about twenty years, which puts me in the weird position of actually being able to check this instead of just arguing about it.
+
+I bought access to Pangram, the detector everyone's pointing at right now. Then I grabbed the CourtListener bulk data—every published court opinion in the US. 343 gigabytes of it.
+
+I pulled 50 published opinions filed before January 2020. Real judges, real cases, dates you could verify, all of it years before ChatGPT showed up. I cut a 400-word chunk from the middle of each one using the same rule every time, so I wasn't cherry-picking. Then I ran all 50 through the detector.
+
+I figured legal writing would get flagged. Law school spends three years teaching you to write the same way. Rule, case, application, conclusion. Numbered elements. Parallel structure. It's formulaic by design. A machine trained to spot formulaic writing should light up on that.
+
+I wrote down that prediction before running anything, which was lucky, because I was completely wrong.
+
+All 50 came back human
+
+Not barely. The scale goes 0 to 1. The median score across all 50 was 0.0000. The highest single score was 0.0035. Every opinion flagged as "Human Written" with high confidence. Opinions from the '80s scored the same as ones from 2019.
+
+So the thing I most wanted to be true isn't. Legal writing doesn't read like AI. The detector looked at fifty documents written before any of this existed and got all fifty right.
+
+I need to be clear on this, because it's the opposite of what most people say about AI detection: it works. I tried to break it with public records and it held.
+
+There's one asterisk. Their published error rates assume you know which text is actually human. For old documents that's simple—the filing date proves it. That's why I used pre-2020 court opinions. For anything recent, you need someone to tell you they wrote it themselves, and that answer gets weird fast. Did you use Grammarly? Spellcheck? Did you talk it through with someone first? Most people answer that question differently depending on how you ask it, and not because they're lying. The categories just blur. Every accuracy number in this industry sits on shaky ground.
+
+Which gets to the part that actually bothers me
+
+My argument never needed the detector to be broken. It needs it to be working and pointed at the wrong thing.
+
+Because the tool detects a machine. Not help. Those aren't the same question, and the whole system pretends they are.
+
+My professor gave back a memo with 21 comments. "This is conclusion, not analysis." "You need cases here." That's not proofreading. That's someone who knows the material teaching me how to think about it. It's also literally the entire class, and I paid for it.
+
+A parent who teaches legal writing gives that exact feedback. An AI gives that exact feedback. My professor gives that exact feedback. Three identical things. One is the curriculum, one is invisible to technology, and one ends your career.
+
+And law school is graded on a curve. That matters more than everything else here. You're not competing against a standard. You're competing against the person next to you. Every spot someone gains, someone else loses. Your class rank determines which firms interview you. So when a rule is unenforceable against some students and perfectly enforced against others, it's not just unfair in theory. It reshuffles class rank. It moves spots between groups.
+
+Which groups? AI is the cheap version of something rich kids always had. If your family has lawyers, someone's always been reading your work. If it doesn't, twenty bucks a month gets you a piece of that. Detection kills the cheap substitute and leaves the expensive original completely alone.
+
+It's a tool that widens the gap it looks like it's closing.
+
+The thing that made me see where the line actually is
+
+I have ADHD. I have accommodations. One of them is an AI tool that records my lectures, transcribes them, and organizes them. My school approved it in writing.
+
+So my school isn't against AI. My school gave me one.
+
+The line isn't AI versus no AI. The line is AI that went through the process versus AI that didn't. That's a paperwork difference, not a teaching one. And getting through that process takes a diagnosis, an evaluation, insurance, and enough mental bandwidth to navigate disability services—which is rough to require from people whose disability is executive function.
+
+Every legitimate way to get help has a gate. Money. Family. Paperwork. Detection only catches the ungated one.
+
+Why schools do this anyway
+
+I don't think professors are the villains. I think they're stuck.
+
+The fear is real. Legal writing is a skill class. You produce something bad, someone tears it apart, you do it again. If a machine produces the thing, that learning stops, and you find out the hard way in a courtroom instead of a classroom. That worry is legitimate.
+
+But the response is the problem. Drawing a line is hard, so they banned the whole category instead. And a ban you can't enforce doesn't fail evenly. It binds people who follow rules and people without resources, and it floats past everyone else. A clear permission would be better. A restriction you could actually enforce would be better. Absolute bans are the worst, because they look like a standard and act like a lottery.
+
+What would actually work
+
+Fifteen minutes with your professor. You defend your memo out loud.
+
+Why did you frame it that way. Why is this case different from that one. What's the weakest part of your argument and how does the other side attack it.
+
+If you can hold that up, you did the work. Doesn't matter what touched the keyboard. If you can't, you didn't. Doesn't matter what the detector says.
+
+Notice what that catches that a detector never will. It catches your mother. A student whose legal writing professor mom restructured their analysis collapses on three follow-up questions the same way a student who used ChatGPT does. One test, every version of the problem, no software.
+
+Law's done this before, actually. Oral argument is the old test. Written exams are the recent experiment. And the highest-stakes moment in the profession is still standing in front of judges who interrupt you thirty seconds in—the one thing no tool can do for you.
+
+So why doesn't anyone do it?
+
+Because it costs faculty time, and a detector costs twenty bucks a month and answers in nine seconds. That's the real reason. Schools are buying a cheap solution to a question they haven't bothered to define.
+
+The thing I keep coming back to
+
+Writing was never really the point. It was the test. It was a good test because faking it used to be hard.
+
+You can't know if you understand a case until you try to distinguish it on paper and hit a wall. The prose is a diagnostic. That's what my professor was doing when he wrote "this is just conclusion." He wasn't grading sentences. He was showing me the thinking wasn't there yet, and the writing is how he saw it.
+
+So I don't think writing stopped mattering. Briefs get read. Bad writing loses cases. The answer is that we need a test that's still hard to fake, and that's getting questioned in real time.
+
+I'll be honest though—I don't know where this lands. If AI can carry the prose, maybe the bottleneck moves to judgment. Maybe three years of teaching people to write becomes three years of teaching people to think, and the writing is just what falls out. Or maybe you can't separate those things and I'm just talking myself into something convenient. I really don't know. What I do know is that scanning documents doesn't answer the question. It just makes it look like someone did.

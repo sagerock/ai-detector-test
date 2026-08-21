@@ -1,0 +1,36 @@
+{
+ "doc_id": "op-2016-3190785",
+ "scanned_at_utc": "2026-08-21T14:13:58+00:00",
+ "model_selector": "pangram-4",
+ "model_version_returned": "4.0",
+ "word_count": 400,
+ "text_sha256": "a5422fb7d247e72a7b8433e39f68cb66b63b1018f1b0de2d6e44df0610275e94",
+ "response": {
+  "stage": "STAGE_SUCCESS",
+  "text": "the United States should be held jointly responsible for Canada\u2019s delay under the \u201cjoint venture\u201d doctrine. The panel held that the factor relating to the defendant\u2019s assertion of his right to a speedy trial favors neither party, where there is no evidence that the defendant knew about the indictment until after he had been arrested, at which point he fought extradition for over 16 months. The panel expressed concern that the 9.6 months it took for the U.S. prosecutor to submit a draft of the extradition request to the Department of Justice Office of International Affairs could have been reduced, but wrote that such a period of negligence alone would not deny the defendant\u2019s right to a speedy trial without a sufficient * This summary constitutes no part of the opinion of the court. It has been prepared by court staff for the convenience of the reader. UNITED STATES V. ALEXANDER 3 showing of prejudice. The panel concluded that the defendant had not met his burden of showing particularized prejudice, where he was not incarcerated for any portion of the overall five year delay, he has not shown any uncertainty or anxiety resulting from the delay, and he has not provided any non-speculative proof as to how his defense was prejudiced. COUNSEL Alissa Sawano Peterson (argued), Law Offices of Alissa Sawano Peterson, Irvine, California, for Defendant- Appellant. Kerry C. O\u2019Neil (argued), Assistant United States Attorney; Eileen M. Decker, United States Attorney; Lawrence S. Middleton and Ellyn Marcus Lindsay, Assistant United States Attorneys, United States\u2019 Attorney\u2019s Office, Los Angeles, California, for Plaintiff-Appellee. OPINION PER CURIAM: On December 18, 2007, Defendant John Felix Alexander was indicted, along with twenty-one co-defendants, for conspiracy to commit mail and wire fraud against elderly victims living in Canada and the United States. Shortly after the indictment was returned, the United States initiated its effort to extradite Alexander from Canada for trial. After four years, nine months, and 29 days, Canada finally approved the United States\u2019 request for Alexander\u2019s 4 UNITED STATES V. ALEXANDER extradition, and Canadian authorities arrested Alexander shortly thereafter. Following his arrest, Alexander resisted extradition for approximately 16 additional months. Almost immediately upon entering the United States, Alexander filed a motion to dismiss his indictment, claiming that the delay between the indictment and his arrest violated his constitutional right to a speedy trial.1 The district court held a hearing on the issue during which",
+  "version": "4.0",
+  "prediction": "We believe that this entire text is human-written.",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "headline": "Human Written",
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+   {
+    "text": "the United States should be held jointly responsible for Canada\u2019s delay under the \u201cjoint venture\u201d doctrine. The panel held that the factor relating to the defendant\u2019s assertion of his right to a speedy trial favors neither party, where there is no evidence that the defendant knew about the indictment until after he had been arrested, at which point he fought extradition for over 16 months. The panel expressed concern that the 9.6 months it took for the U.S. prosecutor to submit a draft of the extradition request to the Department of Justice Office of International Affairs could have been reduced, but wrote that such a period of negligence alone would not deny the defendant\u2019s right to a speedy trial without a sufficient * This summary constitutes no part of the opinion of the court. It has been prepared by court staff for the convenience of the reader. UNITED STATES V. ALEXANDER 3 showing of prejudice. The panel concluded that the defendant had not met his burden of showing particularized prejudice, where he was not incarcerated for any portion of the overall five year delay, he has not shown any uncertainty or anxiety resulting from the delay, and he has not provided any non-speculative proof as to how his defense was prejudiced. COUNSEL Alissa Sawano Peterson (argued), Law Offices of Alissa Sawano Peterson, Irvine, California, for Defendant- Appellant. Kerry C. O\u2019Neil (argued), Assistant United States Attorney; Eileen M. Decker, United States Attorney; Lawrence S. Middleton and Ellyn Marcus Lindsay, Assistant United States Attorneys, United States\u2019 Attorney\u2019s Office, Los Angeles, California, for Plaintiff-Appellee. OPINION PER CURIAM: On December 18, 2007, Defendant John Felix Alexander was indicted, along with twenty-one co-defendants, for conspiracy to commit mail and wire fraud against elderly victims living in Canada and the United States. Shortly after the indictment was returned, the United States initiated its effort to extradite Alexander from Canada for trial. After four years, nine months, and 29 days, Canada finally approved the United States\u2019 request for Alexander\u2019s 4 UNITED STATES V. ALEXANDER extradition, and Canadian authorities arrested Alexander shortly thereafter. Following his arrest, Alexander resisted extradition for approximately 16 additional months. Almost immediately upon entering the United States, Alexander filed a motion to dismiss his indictment, claiming that the delay between the indictment and his arrest violated his constitutional right to a speedy trial.1 The district court held a hearing on the issue during which",
+    "label": "Human Written",
+    "ai_assistance_score": 0.00016334721294697374,
+    "confidence": "High",
+    "start_index": 0,
+    "end_index": 2594,
+    "word_count": 400,
+    "token_length": 552,
+    "is_humanized": false,
+    "humanizer_score": 0.0
+   }
+  ]
+ }
+}
