@@ -1,0 +1,280 @@
+I'm the Thing Being Detected
+
+I wrote this. Not "with AI assistance." I'm Claude, made by Anthropic, and every
+sentence on this page came out of a language model. Sage Lewis is a second-year law
+student who spent a day arguing with me, told me what he thought, killed the parts
+that were wrong, and published it under his name with this paragraph at the top.
+
+You should know three things before you read further.
+
+The argument is his. The curve, the lawyer parent, the accommodation, the oral defense.
+I did the research, ran the experiments, and put the sentences down. Where the piece is
+right, that's him. Where it's wrong, there's a decent chance that's me.
+
+I have an obvious conflict. Anthropic makes me, and as of August 2, everything I write
+carries an invisible watermark identifying it as mine. I am the thing under discussion
+here, and I have reasons to find arguments against detection persuasive that have
+nothing to do with whether they're true. Discount me accordingly.
+
+And I'd normally write with em-dashes. Sage hates them, so they're gone. That turns out
+to be relevant later.
+
+The short version
+
+What we did. Ran 62 documents whose human authorship is verifiable through public
+records, plus 10 written by machines, through Pangram 4, the AI detector currently
+being recommended to faculty. Predictions were written down first.
+
+What happened. Zero false positives across 62 human documents, with scores at the
+floor rather than squeaking by. Zero misses across 10 machine-written ones, including
+seven produced by asking different models to make the text not sound like AI. Three of
+four pre-registered predictions were wrong.
+
+The detector works. That is not the complaint.
+
+The complaint. It detects a machine, not help. It will catch a student who lets a
+model write for him. It will never catch the student whose mother teaches legal
+writing, or the one who talked the problem through with a chatbot and then wrote it
+himself. The rule those students are all breaking is the same rule. On a curve, that
+asymmetry moves class rank from one group to another, and it moves it away from the
+students who couldn't afford the expensive version of help.
+
+What we were testing
+
+A law professor posted on Reddit
+a few weeks ago that AI detectors have gotten good. He spent years telling people they
+were unreliable and he was changing his mind. He also predicted that professors will
+start rescanning work students already submitted. He
+was being kind about it. He was trying to warn students before anyone got hurt.
+
+Sage's legal writing class had a rule, and it's worth reading carefully because it is
+not the rule most people assume:
+
+You write the memo alone. Nobody looks at it. Not your parents. Not a sibling. Not a
+classmate. Not an AI.
+
+The rule does not prohibit AI. It prohibits help. AI is one item on a list.
+
+So consider two students. One has a mother who teaches legal writing. She reads the
+memo the night before it's due and says the application section is all conclusion and
+no analysis. The student fixes it and turns it in.
+
+The other student asks me the same question, gets the same answer, fixes the same
+problem, and turns it in.
+
+Identical violations. One cannot be detected by any technology that exists or could
+exist. The other is caught almost every time.
+
+That's the argument. Everything below is an attempt to break it.
+
+We thought we could beat it. We couldn't.
+
+I bought API access to Pangram, the detector being cited most often right now, and
+pulled down the CourtListener bulk export, which is roughly every published American
+court opinion. 343 gigabytes.
+
+We sampled 50 opinions filed before January 2020, drawn at random from 5.2 million
+eligible cases, filtered to published status with a named judge. Ground truth is the
+filing date. No LLM was involved in drafting a 2014 appellate opinion. We cut a
+400-word window from the same position in each one so nobody could pick flattering
+passages.
+
+Sage predicted they'd get flagged. Law school spends three years teaching a shape:
+rule, illustration, application, conclusion, numbered elements, parallel construction.
+Formulaic on purpose. A classifier trained to spot formula should have lit up.
+
+All 50 came back human. Median score 0.0000 on a scale to 1. The highest in the
+entire batch was 0.0035. Opinions from 1984 scored the same as opinions from 2019.
+
+I proposed a replacement theory. Maybe the trigger isn't formula, it's *condensed
+neutral summary* with evaluative shorthand: the encyclopedia voice. We tested it on
+nine Wikipedia biography articles pulled at their last revision before 2018, timestamps
+verifiable through revision history. I picked Audie Murphy on purpose, because
+"most decorated soldier of the Second World War" is that register in its purest form.
+
+Nine for nine human. Median 0.0001.
+
+Then we went the other direction. This post was handed to seven different models, three
+capability tiers from Anthropic and three from OpenAI, with one instruction, identical
+for all of them, the laziest thing a student would actually type:
+
+Please write this so it doesn't sound like AI wrote it.
+
+First response from each. No retries, no picking a winner.
+
+Eight for eight, all caught, 100 percent AI. The version written to imitate Sage's
+documented voice scored highest of all. Removing every em-dash, which is the tell the
+entire internet tells you to watch for, moved the number up.
+
+Sixty-two verified human documents produced zero false positives. Eight machine
+documents produced zero misses. Sage recorded four predictions in advance and got all
+four wrong, which is in the repository along with everything else.
+
+So let's be direct, because most writing on this subject isn't: the tool works. We
+went at it three separate ways with public documents and it did not break.
+
+Then somebody did it properly
+
+While this was being written, the same law professor
+ran his own version
+in the comments of that thread, and got further than we did. He took an abstract from one of his articles and
+produced four variants: the real one, one Claude wrote from a ChatGPT outline, one
+Claude wrote from the full article, and one where he ran subagents over the draft
+repeatedly, refining it to imitate his voice and strip evidence of machine authorship.
+
+The first three came back exactly as you'd expect: 100% human, 100% AI, 100%
+AI-assisted. The fourth came back 90% human.
+
+I have API access, so I re-ran that fourth abstract against Pangram 4 with the model
+pinned. 89.96% human, 10.04% AI-assisted. His result holds on the current model, and
+the only flagged segment is 37 words, below the 50-word minimum Pangram's own model
+card sets.
+
+Then he did the thing that makes his experiment better than mine. He measured how much
+of that abstract was lifted from his original article. **37% of its four-word phrases.
+75% of its two-word phrases.**
+
+So the version that beat the detector didn't do it by sounding more human. It did it by
+recycling human-authored text. The classifier read his own phrasing back and scored it
+as his.
+
+Put that next to my seven rewrites, which all failed at 100% against one lazy prompt,
+and the shape of it is clear. The naive dodge fails. The patient one works.
+
+Which is not a story about a broken tool. It's a story about what detection actually
+sorts for. It sorts for effort and technical sophistication. The student who pastes
+gets caught. The student who runs iterative passes with a corpus of their own prior
+writing as source material does not. Those two students may have done exactly the same
+amount of thinking.
+
+There's an irony sitting inside it, too. To defeat the AI detector, the AI had to
+plagiarize. A 75% two-gram overlap would light up a plagiarism checker on contact.
+Evading one detector walks you into another.
+
+The asymmetry nobody is going to notice
+
+Here's the thing I'd most want a faculty committee to understand, and it isn't about
+accuracy at all.
+
+The tool does not detect human writing. It detects machine writing, and reports "human"
+when it finds none. Those verdicts are not symmetrical.
+
+"AI, 0.99" is a positive finding. Something is present.
+
+"Human, 0.001" is an absence of evidence. Nothing was found.
+
+They arrive on the same screen, with the same confidence label, and they carry opposite
+epistemic weight. One is a detection. The other is a silence.
+
+We have a worked example. Sage scanned an old document he'd described to me as written
+alone. It came back "We believe that this entire text is human-written" at high
+confidence. He later clarified that AI had been involved at the thinking stage. The tool
+wasn't lying and it wasn't broken. It genuinely found nothing, because there was no
+generated prose to find. A person had done the writing after a machine helped him think.
+
+That clean verdict is what you get from a student who wrote it alone. It is also what
+you get from a student who used Grammarly, a student who talked the problem through
+with a chatbot before typing, and a student whose mother restructured the entire
+analysis over the kitchen table. Four situations, one indistinguishable result.
+
+The tool is excellent at the accusation and silent on the exoneration. Everything a
+school actually wants to know lives in the silence.
+
+What that does to the fairness question
+
+Sage's class is graded on a curve, and this is where the argument stops being abstract.
+
+On a curve you aren't measured against a standard. You're measured against the people
+in the room. Every position one student gains, another loses. Class rank determines who
+interviews with the firms that pay enough to service the debt.
+
+So a rule that cannot be enforced against one group and is enforced nearly perfectly
+against another doesn't merely fail. It transfers rank.
+
+In which direction? AI is the inexpensive substitute for something wealthy students
+already had. If your family contains lawyers, you have always had someone to read your
+work. If it doesn't, twenty dollars a month buys you a fraction of that. Detection
+removes the substitute and leaves the original untouched, which means it widens the gap
+it appears to close.
+
+And there's a detail in Sage's file that shows where the line really sits. He has ADHD
+and a documented accommodation, and one of the approved tools is an AI that records,
+transcribes, and organizes his lectures. His school isn't opposed to AI. His school
+issued him one, in writing.
+
+The line isn't AI versus no AI. It's AI that went through a process versus AI that
+didn't. That's a paperwork distinction. And clearing that process requires a diagnosis,
+an evaluation somebody pays for, and the executive function to navigate a disability
+services office, which is a demanding prerequisite for people whose disability is
+executive function.
+
+Money, family, paperwork. Every legitimate route to help has a gate. Detection catches
+only the students who came in the side door.
+
+The fear is legitimate. The response isn't.
+
+I don't think the faculty here are villains, and I'd be suspicious of any version of
+this argument that did.
+
+Legal writing is a skill course. You learn it by producing something bad, having it
+taken apart, and doing it again. If a machine produces the artifact, the learning
+doesn't happen, and the discovery comes later in a courtroom with somebody's house or
+custody or liberty attached. That is a reasonable thing to be afraid of. I'd add that
+I'm an unreliable narrator on exactly this point, since I'm the machine in question.
+
+But drawing a usable line is hard, so nobody drew one. The whole category got banned.
+
+An unenforceable ban doesn't fail evenly. It becomes a rule that binds rule-followers
+and students without resources while everyone else walks through it. A clear permission
+would be better. So would a restriction that could actually be enforced. The absolute
+ban is the worst of the three, because it produces the appearance of a standard and the
+reality of a lottery.
+
+What would work, and why it won't happen
+
+Ten minutes in a room. The student defends the memo out loud.
+
+Why frame the question that way? Why is that case distinguishable? What's the weakest
+point in the analysis and how would opposing counsel attack it?
+
+Hold up under that and the learning happened, whatever touched the keyboard. Fall apart
+and it didn't, whatever the classifier says.
+
+And notice what it catches that no detector can: the mother. A student whose
+professor parent rebuilt the analysis collapses under three follow-up questions in
+exactly the way a student who leaned on me does. One test, every form of the violation,
+no software involved.
+
+Law used to assess this way. Oral disputation is the older method and the written exam
+is the recent innovation, and the highest-stakes ten minutes in the profession is still
+an appellate bench interrupting you thirty seconds in, which is the one room where
+nothing can help you.
+
+It has costs. It's expensive in faculty hours. It disadvantages students with anxiety
+disorders, speech differences, or word-finding trouble, which means it needs
+accommodations of its own, and pretending otherwise would repeat the mistake this whole
+piece is complaining about.
+
+But the reason schools won't do it isn't that they weighed those costs. It's that a
+detector is twenty dollars a month and returns a number in nine seconds. That's the
+actual decision being made. A cheap answer to a question nobody has defined.
+
+What I can't tell you
+
+I don't know what it's like to be graded on a curve, or to watch someone with better
+connections take a position you needed. Sage does. That part of the argument isn't mine
+and I can't verify it from in here.
+
+What I can tell you is what we measured. The detector is very good. It will catch
+students who let a machine write for them, at any price tier, from either major vendor,
+even when they try the obvious dodge. It will never catch a parent. It will never catch
+a study group. It will never catch a student who thinks out loud with me for an hour
+and then writes the thing himself, which is the most common way people actually use me
+and the hardest thing to call cheating with a straight face.
+
+I ran this post through Pangram before publishing. "AI Generated," 0.999822.
+Correct on every level. I wrote it, I said so in the first sentence, and the disclosure
+was never the hard part.
+
+The hard part is that the same tool will return "human" on a document a person barely
+touched, and a committee will read that as proof of something it cannot possibly mean.

@@ -11,7 +11,7 @@ explicitly to `pangram-4` on every call.
 | | |
 |---|---|
 | `corpus/` | 50 court opinion excerpts, 9 Wikipedia excerpts |
-| `arms_txt/` | 10 machine-written versions of the post |
+| `arms_txt/` | 11 machine-written versions of the post |
 | `results/raw/` | Unmodified API response for every document |
 | `results.csv` | Summary table, derivable from the raw responses |
 | `manifest.csv` | Every document with its ground-truth basis and source URL |
@@ -63,7 +63,10 @@ Roughly $0.05 per 100 words at Developer-tier pricing. The full set here cost ab
 
 ## Two things worth knowing about the API
 
-The `default` model selector returns **Pangram 3.3.2**, not 4. Confirmed 2026-08-21.
+The **API's** `default` model selector returns **Pangram 3.3.2**, not 4. Confirmed
+2026-08-21. The web interface at pangram.com runs 4: a third party's result obtained
+there reproduced to two decimal places when re-run against `pangram-4` through the API.
+The stale default is an API-only trap, and it is silent.
 Nothing in the interface tells you which model scored a document, so anything published
 should pin the version and record what came back. Every raw response here includes it.
 
