@@ -70,6 +70,14 @@ The stale default is an API-only trap, and it is silent.
 Nothing in the interface tells you which model scored a document, so anything published
 should pin the version and record what came back. Every raw response here includes it.
 
+There are **two API hosts**, and the older one is a second silent trap. The legacy
+`text.api.pangram.com/v3` endpoint still answers as of 2026-08-29, but it serves only the
+3.3.2 `default` model and rejects `pangram-4` (two validators with different allow-lists).
+The current host is `text.external-api.pangram.com`, whose `GET /models` lists the
+selectors your key can use and whose responses carry a `version` field. `code/pangram_scan.py`
+uses the current host. If a tool you did not write is calling Pangram, check which host it
+hits and read `version` from what comes back.
+
 The bulk CSVs in the CourtListener export use Postgres `COPY` escaping. Parsing them
 with a default CSV reader silently misaligns columns rather than erroring, which puts
 HTML inside boolean fields. Use `escapechar='\\', doublequote=False`.
